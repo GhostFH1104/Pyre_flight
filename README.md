@@ -10,39 +10,45 @@ A Flappy Bird-inspired 2D game built with **Unity and C#**. A beginner-friendly 
 
 ## 🛠️ Requirements
 
-- [Unity Hub](https://unity.com/download) + Unity Editor
-- [Visual Studio](https://visualstudio.microsoft.com/) (Unity game development workload)
+- [Unity Hub & Unity Editor](https://unity.com/download)
+- [Visual Studio](https://visualstudio.microsoft.com/) (Game development with Unity workload)
 
-## 🚀 Create the Game
+## 🚀 Build the Game
 
 **1. Setup**
 - Install the required software.
 - Create a new Unity 2D project.
-- Import this repository's `Assets` folder.
+- Import the repository's `Assets` folder.
 
 **2. Basic Gameplay**
 
-Follow this tutorial to create the basic Flappy Bird game:
+[▶ Game Maker's Toolkit – Unity Tutorial for Beginners](https://youtu.be/XtQMytORBmM)
 
-[Game Maker's Toolkit – Unity Tutorial for Beginners](https://youtu.be/XtQMytORBmM)
+Learn bird movement, physics, obstacles, scoring and game-over mechanics.
 
-**3. Expand the Game**
+**3. Additional Features**
 
-Build upon the tutorial by adding:
+The following tutorials help you extend the basic game:
 
-- Three levels with different environments.
-- Bird flying animations using provided sprites.
-- Level-specific obstacles and backgrounds.
+- [▶ 2D Animations & Animator Setup – Wild Cockatiel Games](https://youtu.be/AdQz2wStdLY)
+- [▶ Scene Management & Level Transitions – Rehope Games](https://youtu.be/E25JWfeCFPA)
+
+**4. Complete the Game**
+
+Use the provided assets to add:
+- Three themed environments and backgrounds.
+- Bird animations.
+- Level-specific obstacles.
 - Level progression and transitions.
-- Scoring, menus and game-over UI.
+- Menus, scoring and game-over UI.
 
 ## 📁 Assets
 
-The `Assets` folder contains sprites, animations, scenes, scripts, fonts and music used in the game.
+Includes sprites, animations, scenes, scripts, fonts and music.
 
 ## 📦 Download
 
-Get the playable Windows and Android builds from [Releases](../../releases).
+[Download Windows & Android Builds](../../releases)
 
 ---
 
