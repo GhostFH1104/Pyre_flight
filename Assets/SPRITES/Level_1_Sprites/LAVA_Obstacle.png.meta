@@ -1,0 +1,2108 @@
+fileFormatVersion: 2
+guid: f97d8aa81cfe5fb4885ffb420ac4b10c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7931652587968436766
+    second: LAVA_Obstacle_0
+  - first:
+      213: -8770904191881876833
+    second: LAVA_Obstacle_1
+  - first:
+      213: 3980196510453941377
+    second: LAVA_Obstacle_2
+  - first:
+      213: 5094163614856863722
+    second: LAVA_Obstacle_3
+  - first:
+      213: 6448154434473546925
+    second: LAVA_Obstacle_4
+  - first:
+      213: 437312958695460457
+    second: LAVA_Obstacle_5
+  - first:
+      213: -3687063049070615509
+    second: LAVA_Obstacle_6
+  - first:
+      213: 1765673222053761983
+    second: LAVA_Obstacle_7
+  - first:
+      213: 2366369851152350093
+    second: LAVA_Obstacle_8
+  - first:
+      213: 3445885239229642043
+    second: LAVA_Obstacle_9
+  - first:
+      213: 958096311879466063
+    second: LAVA_Obstacle_10
+  - first:
+      213: 4105178519029801683
+    second: LAVA_Obstacle_11
+  - first:
+      213: -4606223756713470707
+    second: LAVA_Obstacle_12
+  - first:
+      213: -1632234008804180271
+    second: LAVA_Obstacle_13
+  - first:
+      213: 7213035877953673701
+    second: LAVA_Obstacle_14
+  - first:
+      213: -1825376877279893878
+    second: LAVA_Obstacle_15
+  - first:
+      213: -6395129094683215346
+    second: LAVA_Obstacle_16
+  - first:
+      213: -3983457310886773138
+    second: LAVA_Obstacle_17
+  - first:
+      213: -6039185850903961007
+    second: LAVA_Obstacle_18
+  - first:
+      213: -4604021313387704069
+    second: LAVA_Obstacle_19
+  - first:
+      213: 25507431707912019
+    second: LAVA_Obstacle_20
+  - first:
+      213: 8959948077112802770
+    second: LAVA_Obstacle_21
+  - first:
+      213: -6008273380481989168
+    second: LAVA_Obstacle_22
+  - first:
+      213: 5821303765943407898
+    second: LAVA_Obstacle_23
+  - first:
+      213: 5292436073963748286
+    second: LAVA_Obstacle_24
+  - first:
+      213: -2480155141018920939
+    second: LAVA_Obstacle_25
+  - first:
+      213: -2749820634766002342
+    second: LAVA_Obstacle_26
+  - first:
+      213: 6605211065693829364
+    second: LAVA_Obstacle_27
+  - first:
+      213: -5497088381041321790
+    second: LAVA_Obstacle_28
+  - first:
+      213: -6640911071121523395
+    second: LAVA_Obstacle_29
+  - first:
+      213: -8097976223173613614
+    second: LAVA_Obstacle_30
+  - first:
+      213: 126377868560964034
+    second: LAVA_Obstacle_31
+  - first:
+      213: -178246968649934174
+    second: LAVA_Obstacle_32
+  - first:
+      213: 4423464430283737199
+    second: LAVA_Obstacle_33
+  - first:
+      213: 7304836204953371057
+    second: LAVA_Obstacle_34
+  - first:
+      213: -1043851163840602776
+    second: LAVA_Obstacle_35
+  - first:
+      213: 189292436622989128
+    second: LAVA_Obstacle_36
+  - first:
+      213: -2471358483560383932
+    second: LAVA_Obstacle_37
+  - first:
+      213: -7109072146628171672
+    second: LAVA_Obstacle_38
+  - first:
+      213: -7058734547960589104
+    second: LAVA_Obstacle_39
+  - first:
+      213: -7915478662239715880
+    second: LAVA_Obstacle_40
+  - first:
+      213: -2614297089759741986
+    second: LAVA_Obstacle_41
+  - first:
+      213: -2861948460360019298
+    second: LAVA_Obstacle_42
+  - first:
+      213: -333226385415250577
+    second: LAVA_Obstacle_43
+  - first:
+      213: 143628509714471199
+    second: LAVA_Obstacle_44
+  - first:
+      213: -6148224701970798629
+    second: LAVA_Obstacle_45
+  - first:
+      213: 2782714455509347686
+    second: LAVA_Obstacle_46
+  - first:
+      213: 6451062390669086790
+    second: LAVA_Obstacle_47
+  - first:
+      213: 3126242303284701335
+    second: LAVA_Obstacle_48
+  - first:
+      213: -1405585292207093777
+    second: LAVA_Obstacle_49
+  - first:
+      213: 9112671162930415169
+    second: LAVA_Obstacle_50
+  - first:
+      213: -92864111773279021
+    second: LAVA_Obstacle_51
+  - first:
+      213: -8037968424856532124
+    second: LAVA_Obstacle_52
+  - first:
+      213: 4522125435920873851
+    second: LAVA_Obstacle_53
+  - first:
+      213: -3242854515006272728
+    second: LAVA_Obstacle_54
+  - first:
+      213: 4902378672841140185
+    second: LAVA_Obstacle_55
+  - first:
+      213: -8319873884853424496
+    second: LAVA_Obstacle_56
+  - first:
+      213: -829954155183331375
+    second: LAVA_Obstacle_57
+  - first:
+      213: -3825819496655941650
+    second: LAVA_Obstacle_58
+  - first:
+      213: -523338520574858676
+    second: LAVA_Obstacle_59
+  - first:
+      213: -2942644207702455950
+    second: LAVA_Obstacle_60
+  - first:
+      213: -1694073410471758560
+    second: LAVA_Obstacle_61
+  - first:
+      213: -393586789027535693
+    second: LAVA_Obstacle_62
+  - first:
+      213: -4407786400418459462
+    second: LAVA_Obstacle_63
+  - first:
+      213: 5112392513394594497
+    second: LAVA_Obstacle_64
+  - first:
+      213: 2771410681415737458
+    second: LAVA_Obstacle_65
+  - first:
+      213: -1199775507500101014
+    second: LAVA_Obstacle_66
+  - first:
+      213: 4714058099852557057
+    second: LAVA_Obstacle_67
+  - first:
+      213: 9221431835330239588
+    second: LAVA_Obstacle_68
+  - first:
+      213: -3502375279278728689
+    second: LAVA_Obstacle_69
+  - first:
+      213: 4727661666787386268
+    second: LAVA_Obstacle_70
+  - first:
+      213: 5095219765692714402
+    second: LAVA_Obstacle_71
+  - first:
+      213: 7656198612667348613
+    second: LAVA_Obstacle_72
+  - first:
+      213: 13707783217425595
+    second: LAVA_Obstacle_73
+  - first:
+      213: 912694986538839324
+    second: LAVA_Obstacle_74
+  - first:
+      213: -8632453103919507737
+    second: LAVA_Obstacle_75
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LAVA_Obstacle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1513
+        height: 2304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e56554befb1de190800000000000000
+      internalID: -7931652587968436766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Obstacle_1
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 2211
+        width: 85
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9a65e39b1d774680800000000000000
+      internalID: -8770904191881876833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Obstacle_2
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1127
+        width: 323
+        height: 1097
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1844bd563af7c3730800000000000000
+      internalID: 3980196510453941377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Obstacle_3
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 2083
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aef534351da12b640800000000000000
+      internalID: 5094163614856863722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Obstacle_4
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 2026
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da4d7ab5b427c7950800000000000000
+      internalID: 6448154434473546925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Obstacle_5
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 1992
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96ec7b6a1d5a11600800000000000000
+      internalID: 437312958695460457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Obstacle_6
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1999
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b246da711bbe4dcc0800000000000000
+      internalID: -3687063049070615509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Obstacle_7
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 1807
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb31fe5c07ee08810800000000000000
+      internalID: 1765673222053761983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Obstacle_8
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1762
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8b312197d807d020800000000000000
+      internalID: 2366369851152350093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Obstacle_9
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 1733
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b357b053e5e32df20800000000000000
+      internalID: 3445885239229642043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Obstacle_10
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 1671
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4cff2af487db4d00800000000000000
+      internalID: 958096311879466063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Obstacle_11
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 1670
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d2e556ec1688f830800000000000000
+      internalID: 4105178519029801683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Obstacle_12
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1651
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d05d029e5e76310c0800000000000000
+      internalID: -4606223756713470707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Obstacle_13
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1634
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1de3ae221d32959e0800000000000000
+      internalID: -1632234008804180271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Obstacle_14
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 1607
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e993992ae9d91460800000000000000
+      internalID: 7213035877953673701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Obstacle_15
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 1607
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a862580c665faa6e0800000000000000
+      internalID: -1825376877279893878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Obstacle_16
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 1569
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0a34a2a8ffef37a0800000000000000
+      internalID: -6395129094683215346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Obstacle_17
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 1500
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6e39a65eaae7b8c0800000000000000
+      internalID: -3983457310886773138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Obstacle_18
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 1495
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 152ed403770803ca0800000000000000
+      internalID: -6039185850903961007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Obstacle_19
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1401
+        width: 7
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf0d235320b3b10c0800000000000000
+      internalID: -4604021313387704069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Obstacle_20
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 1383
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 357251ebfde9a5000800000000000000
+      internalID: 25507431707912019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Obstacle_21
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 1383
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ddb046ed41285c70800000000000000
+      internalID: 8959948077112802770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Obstacle_22
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 1343
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d58fe291335e9ca0800000000000000
+      internalID: -6008273380481989168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Obstacle_23
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 1318
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1553babeec69c050800000000000000
+      internalID: 5821303765943407898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Obstacle_24
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 1297
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebb72199192827940800000000000000
+      internalID: 5292436073963748286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Obstacle_25
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 1230
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51855b72a08b49dd0800000000000000
+      internalID: -2480155141018920939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Obstacle_26
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1205
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a57bbbca3bca6d9d0800000000000000
+      internalID: -2749820634766002342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Obstacle_27
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 1185
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f8f825e77c6aab50800000000000000
+      internalID: 6605211065693829364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Obstacle_28
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 1103
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c8da150e3b66b3b0800000000000000
+      internalID: -5497088381041321790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Obstacle_29
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 1103
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3db7dcd09eb6d3a0800000000000000
+      internalID: -6640911071121523395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Obstacle_30
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 1042
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d76d2aa7853e9f80800000000000000
+      internalID: -8097976223173613614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Obstacle_31
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1019
+        width: 7
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c91c0b700cf0c100800000000000000
+      internalID: 126377868560964034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Obstacle_32
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 983
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aa945f835db68df0800000000000000
+      internalID: -178246968649934174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Obstacle_33
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 978
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6843ab767d436d30800000000000000
+      internalID: 4423464430283737199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Obstacle_34
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 943
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b188a263ddff5560800000000000000
+      internalID: 7304836204953371057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Obstacle_35
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 855
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86d17e4a5ee7381f0800000000000000
+      internalID: -1043851163840602776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Obstacle_36
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 850
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 847d49bd77080a200800000000000000
+      internalID: 189292436622989128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Obstacle_37
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 769
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44a3cb29d88f3bdd0800000000000000
+      internalID: -2471358483560383932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Obstacle_38
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 743
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 868aa915c80875d90800000000000000
+      internalID: -7109072146628171672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Obstacle_39
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 642
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d41801d3565a0e90800000000000000
+      internalID: -7058734547960589104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Obstacle_40
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 609
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dd740e3812962290800000000000000
+      internalID: -7915478662239715880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Obstacle_41
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 494
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed77883e5a628bbd0800000000000000
+      internalID: -2614297089759741986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Obstacle_42
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 407
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e92d3ced9015848d0800000000000000
+      internalID: -2861948460360019298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Obstacle_43
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 383
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6d59833e54206bf0800000000000000
+      internalID: -333226385415250577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Obstacle_44
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 392
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f19562d5e554ef100800000000000000
+      internalID: 143628509714471199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Obstacle_45
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 385
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd7afbf453e1daaa0800000000000000
+      internalID: -6148224701970798629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Obstacle_46
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 327
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66daaf7cd003e9620800000000000000
+      internalID: 2782714455509347686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Obstacle_47
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 343
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64096bba017c68950800000000000000
+      internalID: 6451062390669086790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Obstacle_48
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 321
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7986511bfc4a26b20800000000000000
+      internalID: 3126242303284701335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Obstacle_49
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 289
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe78b74bf9b5e7ce0800000000000000
+      internalID: -1405585292207093777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Obstacle_50
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 294
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 146c9654426b67e70800000000000000
+      internalID: 9112671162930415169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Obstacle_51
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 257
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dc1f55159416bef0800000000000000
+      internalID: -92864111773279021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Obstacle_52
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 225
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46bce98fd46637090800000000000000
+      internalID: -8037968424856532124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Obstacle_53
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 193
+        width: 69
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7972ddef11d1ce30800000000000000
+      internalID: 4522125435920873851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Obstacle_54
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 215
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82b87cefff01ff2d0800000000000000
+      internalID: -3242854515006272728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Obstacle_55
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 183
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d7a525dd6fb80440800000000000000
+      internalID: 4902378672841140185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Obstacle_56
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 189
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09e234548ced98c80800000000000000
+      internalID: -8319873884853424496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Obstacle_57
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 191
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d72078d7196b74f0800000000000000
+      internalID: -829954155183331375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Obstacle_58
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 179
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eef0f071075f7eac0800000000000000
+      internalID: -3825819496655941650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Obstacle_59
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 177
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4a6bd7636abcb8f0800000000000000
+      internalID: -523338520574858676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Obstacle_60
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 159
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 279c8831fa0a927d0800000000000000
+      internalID: -2942644207702455950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Obstacle_61
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 153
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 025756175317d78e0800000000000000
+      internalID: -1694073410471758560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Obstacle_62
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 135
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b42ab396e2b98af0800000000000000
+      internalID: -393586789027535693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Obstacle_63
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 113
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab0924d4f9564d2c0800000000000000
+      internalID: -4407786400418459462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Obstacle_64
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 91
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c2504187edd2f640800000000000000
+      internalID: 5112392513394594497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Obstacle_65
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 111
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2702288c457067620800000000000000
+      internalID: 2771410681415737458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Obstacle_66
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 111
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a621e39588a895fe0800000000000000
+      internalID: -1199775507500101014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Obstacle_67
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 109
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10bb34c9dd2bb6140800000000000000
+      internalID: 4714058099852557057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Obstacle_68
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 63
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46c5651a56b19ff70800000000000000
+      internalID: 9221431835330239588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Obstacle_69
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 78
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0a5b786d30156fc0800000000000000
+      internalID: -3502375279278728689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Obstacle_70
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 85
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c93e71bdc370c9140800000000000000
+      internalID: 4727661666787386268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Obstacle_71
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 83
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2adc9aa916bd5b640800000000000000
+      internalID: 5095219765692714402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Obstacle_72
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 40
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58630ede218404a60800000000000000
+      internalID: 7656198612667348613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Obstacle_73
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 31
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbc255df723b03000800000000000000
+      internalID: 13707783217425595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Obstacle_74
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 7
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1d6dec214b8aac00800000000000000
+      internalID: 912694986538839324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Obstacle_75
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 13
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e6d8a083ad533880800000000000000
+      internalID: -8632453103919507737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      LAVA_Obstacle_0: -7931652587968436766
+      LAVA_Obstacle_1: -8770904191881876833
+      LAVA_Obstacle_10: 958096311879466063
+      LAVA_Obstacle_11: 4105178519029801683
+      LAVA_Obstacle_12: -4606223756713470707
+      LAVA_Obstacle_13: -1632234008804180271
+      LAVA_Obstacle_14: 7213035877953673701
+      LAVA_Obstacle_15: -1825376877279893878
+      LAVA_Obstacle_16: -6395129094683215346
+      LAVA_Obstacle_17: -3983457310886773138
+      LAVA_Obstacle_18: -6039185850903961007
+      LAVA_Obstacle_19: -4604021313387704069
+      LAVA_Obstacle_2: 3980196510453941377
+      LAVA_Obstacle_20: 25507431707912019
+      LAVA_Obstacle_21: 8959948077112802770
+      LAVA_Obstacle_22: -6008273380481989168
+      LAVA_Obstacle_23: 5821303765943407898
+      LAVA_Obstacle_24: 5292436073963748286
+      LAVA_Obstacle_25: -2480155141018920939
+      LAVA_Obstacle_26: -2749820634766002342
+      LAVA_Obstacle_27: 6605211065693829364
+      LAVA_Obstacle_28: -5497088381041321790
+      LAVA_Obstacle_29: -6640911071121523395
+      LAVA_Obstacle_3: 5094163614856863722
+      LAVA_Obstacle_30: -8097976223173613614
+      LAVA_Obstacle_31: 126377868560964034
+      LAVA_Obstacle_32: -178246968649934174
+      LAVA_Obstacle_33: 4423464430283737199
+      LAVA_Obstacle_34: 7304836204953371057
+      LAVA_Obstacle_35: -1043851163840602776
+      LAVA_Obstacle_36: 189292436622989128
+      LAVA_Obstacle_37: -2471358483560383932
+      LAVA_Obstacle_38: -7109072146628171672
+      LAVA_Obstacle_39: -7058734547960589104
+      LAVA_Obstacle_4: 6448154434473546925
+      LAVA_Obstacle_40: -7915478662239715880
+      LAVA_Obstacle_41: -2614297089759741986
+      LAVA_Obstacle_42: -2861948460360019298
+      LAVA_Obstacle_43: -333226385415250577
+      LAVA_Obstacle_44: 143628509714471199
+      LAVA_Obstacle_45: -6148224701970798629
+      LAVA_Obstacle_46: 2782714455509347686
+      LAVA_Obstacle_47: 6451062390669086790
+      LAVA_Obstacle_48: 3126242303284701335
+      LAVA_Obstacle_49: -1405585292207093777
+      LAVA_Obstacle_5: 437312958695460457
+      LAVA_Obstacle_50: 9112671162930415169
+      LAVA_Obstacle_51: -92864111773279021
+      LAVA_Obstacle_52: -8037968424856532124
+      LAVA_Obstacle_53: 4522125435920873851
+      LAVA_Obstacle_54: -3242854515006272728
+      LAVA_Obstacle_55: 4902378672841140185
+      LAVA_Obstacle_56: -8319873884853424496
+      LAVA_Obstacle_57: -829954155183331375
+      LAVA_Obstacle_58: -3825819496655941650
+      LAVA_Obstacle_59: -523338520574858676
+      LAVA_Obstacle_6: -3687063049070615509
+      LAVA_Obstacle_60: -2942644207702455950
+      LAVA_Obstacle_61: -1694073410471758560
+      LAVA_Obstacle_62: -393586789027535693
+      LAVA_Obstacle_63: -4407786400418459462
+      LAVA_Obstacle_64: 5112392513394594497
+      LAVA_Obstacle_65: 2771410681415737458
+      LAVA_Obstacle_66: -1199775507500101014
+      LAVA_Obstacle_67: 4714058099852557057
+      LAVA_Obstacle_68: 9221431835330239588
+      LAVA_Obstacle_69: -3502375279278728689
+      LAVA_Obstacle_7: 1765673222053761983
+      LAVA_Obstacle_70: 4727661666787386268
+      LAVA_Obstacle_71: 5095219765692714402
+      LAVA_Obstacle_72: 7656198612667348613
+      LAVA_Obstacle_73: 13707783217425595
+      LAVA_Obstacle_74: 912694986538839324
+      LAVA_Obstacle_75: -8632453103919507737
+      LAVA_Obstacle_8: 2366369851152350093
+      LAVA_Obstacle_9: 3445885239229642043
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

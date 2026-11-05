@@ -1,0 +1,899 @@
+fileFormatVersion: 2
+guid: b464b47825198fa4899cac6276f2baa0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8981171532881558087
+    second: phoenix_post_level_menu_transparent_0
+  - first:
+      213: 1094461639871304123
+    second: phoenix_post_level_menu_transparent_1
+  - first:
+      213: 4605060444380693266
+    second: phoenix_post_level_menu_transparent_2
+  - first:
+      213: -3560585772560143728
+    second: phoenix_post_level_menu_transparent_3
+  - first:
+      213: -7473155119567373450
+    second: phoenix_post_level_menu_transparent_4
+  - first:
+      213: -1903324249692298128
+    second: phoenix_post_level_menu_transparent_5
+  - first:
+      213: 4218702309168750183
+    second: phoenix_post_level_menu_transparent_6
+  - first:
+      213: 7003715032959551063
+    second: phoenix_post_level_menu_transparent_7
+  - first:
+      213: 8168360147859075870
+    second: phoenix_post_level_menu_transparent_8
+  - first:
+      213: 8668929222769666676
+    second: phoenix_post_level_menu_transparent_9
+  - first:
+      213: -9034429107137193095
+    second: phoenix_post_level_menu_transparent_10
+  - first:
+      213: -4966885279381286509
+    second: phoenix_post_level_menu_transparent_11
+  - first:
+      213: -4628017049372505907
+    second: phoenix_post_level_menu_transparent_12
+  - first:
+      213: 1544350216155142807
+    second: phoenix_post_level_menu_transparent_13
+  - first:
+      213: -1302919167495969042
+    second: phoenix_post_level_menu_transparent_14
+  - first:
+      213: 7224651281337982019
+    second: phoenix_post_level_menu_transparent_15
+  - first:
+      213: -2671228875707911393
+    second: phoenix_post_level_menu_transparent_16
+  - first:
+      213: 1751078927029348290
+    second: phoenix_post_level_menu_transparent_17
+  - first:
+      213: -1082866440152466080
+    second: phoenix_post_level_menu_transparent_18
+  - first:
+      213: 5374694836788250946
+    second: phoenix_post_level_menu_transparent_19
+  - first:
+      213: 4165452862690286357
+    second: phoenix_post_level_menu_transparent_20
+  - first:
+      213: 4113109788967133044
+    second: phoenix_post_level_menu_transparent_21
+  - first:
+      213: 3071871046170503871
+    second: phoenix_post_level_menu_transparent_22
+  - first:
+      213: -6532439640919695133
+    second: phoenix_post_level_menu_transparent_23
+  - first:
+      213: 5471852263898890549
+    second: phoenix_post_level_menu_transparent_24
+  - first:
+      213: 7330650285860361964
+    second: phoenix_post_level_menu_transparent_25
+  - first:
+      213: -448701645345862293
+    second: phoenix_post_level_menu_transparent_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: phoenix_post_level_menu_transparent_0
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 814
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74a7144cce783ac70800000000000000
+      internalID: 8981171532881558087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phoenix_post_level_menu_transparent_1
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 859
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb112d0101f403f00800000000000000
+      internalID: 1094461639871304123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phoenix_post_level_menu_transparent_2
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 23
+        width: 1559
+        height: 815
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2138384531678ef30800000000000000
+      internalID: 4605060444380693266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phoenix_post_level_menu_transparent_3
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 810
+        width: 45
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09a2e3aca12469ec0800000000000000
+      internalID: -3560585772560143728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phoenix_post_level_menu_transparent_4
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 810
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67b7bc263050a4890800000000000000
+      internalID: -7473155119567373450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phoenix_post_level_menu_transparent_5
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 806
+        width: 51
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07424bcdda80695e0800000000000000
+      internalID: -1903324249692298128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phoenix_post_level_menu_transparent_6
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 793
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76e9f170667db8a30800000000000000
+      internalID: 4218702309168750183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phoenix_post_level_menu_transparent_7
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 788
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7560e9717b1323160800000000000000
+      internalID: 7003715032959551063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phoenix_post_level_menu_transparent_8
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 180
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e13f892d648db5170800000000000000
+      internalID: 8168360147859075870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phoenix_post_level_menu_transparent_9
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 196
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47a603ab2393e4870800000000000000
+      internalID: 8668929222769666676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phoenix_post_level_menu_transparent_10
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 176
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97b53a0f7924f9280800000000000000
+      internalID: -9034429107137193095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phoenix_post_level_menu_transparent_11
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 153
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3919c527724121bb0800000000000000
+      internalID: -4966885279381286509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phoenix_post_level_menu_transparent_12
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 137
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc843bd830bf5cfb0800000000000000
+      internalID: -4628017049372505907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phoenix_post_level_menu_transparent_13
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 115
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79a99bad652ae6510800000000000000
+      internalID: 1544350216155142807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phoenix_post_level_menu_transparent_14
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 112
+        width: 7
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee6ea5a9be91bede0800000000000000
+      internalID: -1302919167495969042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phoenix_post_level_menu_transparent_15
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 112
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34c9832001e134460800000000000000
+      internalID: 7224651281337982019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phoenix_post_level_menu_transparent_16
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 86
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f13f9a58d73edead0800000000000000
+      internalID: -2671228875707911393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phoenix_post_level_menu_transparent_17
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 98
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c7a14ba1051d4810800000000000000
+      internalID: 1751078927029348290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phoenix_post_level_menu_transparent_18
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 103
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06d358fb5b2e8f0f0800000000000000
+      internalID: -1082866440152466080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phoenix_post_level_menu_transparent_19
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 104
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 249c3ea4a70c69a40800000000000000
+      internalID: 5374694836788250946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phoenix_post_level_menu_transparent_20
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 104
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51bd9412f49aec930800000000000000
+      internalID: 4165452862690286357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phoenix_post_level_menu_transparent_21
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 100
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47f51959f83b41930800000000000000
+      internalID: 4113109788967133044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phoenix_post_level_menu_transparent_22
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 104
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbaecc6e07a71aa20800000000000000
+      internalID: 3071871046170503871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phoenix_post_level_menu_transparent_23
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 104
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e02d46c1cc1855a0800000000000000
+      internalID: -6532439640919695133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phoenix_post_level_menu_transparent_24
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 88
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5314c1594acefeb40800000000000000
+      internalID: 5471852263898890549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phoenix_post_level_menu_transparent_25
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 87
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce692557893bbb560800000000000000
+      internalID: 7330650285860361964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phoenix_post_level_menu_transparent_26
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 82
+        width: 30
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6dc60b1b34e5c9f0800000000000000
+      internalID: -448701645345862293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      phoenix_post_level_menu_transparent_0: 8981171532881558087
+      phoenix_post_level_menu_transparent_1: 1094461639871304123
+      phoenix_post_level_menu_transparent_10: -9034429107137193095
+      phoenix_post_level_menu_transparent_11: -4966885279381286509
+      phoenix_post_level_menu_transparent_12: -4628017049372505907
+      phoenix_post_level_menu_transparent_13: 1544350216155142807
+      phoenix_post_level_menu_transparent_14: -1302919167495969042
+      phoenix_post_level_menu_transparent_15: 7224651281337982019
+      phoenix_post_level_menu_transparent_16: -2671228875707911393
+      phoenix_post_level_menu_transparent_17: 1751078927029348290
+      phoenix_post_level_menu_transparent_18: -1082866440152466080
+      phoenix_post_level_menu_transparent_19: 5374694836788250946
+      phoenix_post_level_menu_transparent_2: 4605060444380693266
+      phoenix_post_level_menu_transparent_20: 4165452862690286357
+      phoenix_post_level_menu_transparent_21: 4113109788967133044
+      phoenix_post_level_menu_transparent_22: 3071871046170503871
+      phoenix_post_level_menu_transparent_23: -6532439640919695133
+      phoenix_post_level_menu_transparent_24: 5471852263898890549
+      phoenix_post_level_menu_transparent_25: 7330650285860361964
+      phoenix_post_level_menu_transparent_26: -448701645345862293
+      phoenix_post_level_menu_transparent_3: -3560585772560143728
+      phoenix_post_level_menu_transparent_4: -7473155119567373450
+      phoenix_post_level_menu_transparent_5: -1903324249692298128
+      phoenix_post_level_menu_transparent_6: 4218702309168750183
+      phoenix_post_level_menu_transparent_7: 7003715032959551063
+      phoenix_post_level_menu_transparent_8: 8168360147859075870
+      phoenix_post_level_menu_transparent_9: 8668929222769666676
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,3642 @@
+fileFormatVersion: 2
+guid: c80000353263d624d838d4531bc9d217
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3600449226057646711
+    second: Scene_3_END_portal_0
+  - first:
+      213: 4608072249757007830
+    second: Scene_3_END_portal_1
+  - first:
+      213: 6526684126961959567
+    second: Scene_3_END_portal_2
+  - first:
+      213: 1380166422424317249
+    second: Scene_3_END_portal_3
+  - first:
+      213: 766029470890987684
+    second: Scene_3_END_portal_4
+  - first:
+      213: 5068677360990368217
+    second: Scene_3_END_portal_5
+  - first:
+      213: -1909738009865869462
+    second: Scene_3_END_portal_6
+  - first:
+      213: 4030668581647232829
+    second: Scene_3_END_portal_7
+  - first:
+      213: -7634656868783518494
+    second: Scene_3_END_portal_8
+  - first:
+      213: -7367550960385274461
+    second: Scene_3_END_portal_9
+  - first:
+      213: 7921916960825699790
+    second: Scene_3_END_portal_10
+  - first:
+      213: 8960703657389318875
+    second: Scene_3_END_portal_11
+  - first:
+      213: 2163546844191594132
+    second: Scene_3_END_portal_12
+  - first:
+      213: 3571304618221318622
+    second: Scene_3_END_portal_13
+  - first:
+      213: -7433881052793560704
+    second: Scene_3_END_portal_14
+  - first:
+      213: 2874920447875663195
+    second: Scene_3_END_portal_15
+  - first:
+      213: -1356546537329997660
+    second: Scene_3_END_portal_16
+  - first:
+      213: 2672362622229881796
+    second: Scene_3_END_portal_17
+  - first:
+      213: 8894337853739469943
+    second: Scene_3_END_portal_18
+  - first:
+      213: 8685178414060584977
+    second: Scene_3_END_portal_19
+  - first:
+      213: 3287517701360336875
+    second: Scene_3_END_portal_20
+  - first:
+      213: 3800056991843873044
+    second: Scene_3_END_portal_21
+  - first:
+      213: -753547582200884603
+    second: Scene_3_END_portal_22
+  - first:
+      213: -789959095870005683
+    second: Scene_3_END_portal_23
+  - first:
+      213: 4067987444147965627
+    second: Scene_3_END_portal_24
+  - first:
+      213: -4366787535883976475
+    second: Scene_3_END_portal_25
+  - first:
+      213: -5259220245320559575
+    second: Scene_3_END_portal_26
+  - first:
+      213: -8416255271144497340
+    second: Scene_3_END_portal_27
+  - first:
+      213: -5197314983590539933
+    second: Scene_3_END_portal_28
+  - first:
+      213: -5490760506621871823
+    second: Scene_3_END_portal_29
+  - first:
+      213: -6524223318918666058
+    second: Scene_3_END_portal_30
+  - first:
+      213: -6068653486536355899
+    second: Scene_3_END_portal_31
+  - first:
+      213: 8840727387551214943
+    second: Scene_3_END_portal_32
+  - first:
+      213: -8395859756520064280
+    second: Scene_3_END_portal_33
+  - first:
+      213: -3795072980724009535
+    second: Scene_3_END_portal_34
+  - first:
+      213: -6312910868335604277
+    second: Scene_3_END_portal_35
+  - first:
+      213: 7586359248569970484
+    second: Scene_3_END_portal_36
+  - first:
+      213: 3928877652515189301
+    second: Scene_3_END_portal_37
+  - first:
+      213: -4647004909895786802
+    second: Scene_3_END_portal_38
+  - first:
+      213: -2514255382559621593
+    second: Scene_3_END_portal_39
+  - first:
+      213: -6850239906833983717
+    second: Scene_3_END_portal_40
+  - first:
+      213: 6218109711830963329
+    second: Scene_3_END_portal_41
+  - first:
+      213: -1352585038705496672
+    second: Scene_3_END_portal_42
+  - first:
+      213: -4391632166852167843
+    second: Scene_3_END_portal_43
+  - first:
+      213: -5249900093830689728
+    second: Scene_3_END_portal_44
+  - first:
+      213: 4120378165478690668
+    second: Scene_3_END_portal_45
+  - first:
+      213: -8786741194267101713
+    second: Scene_3_END_portal_46
+  - first:
+      213: 6415172006570905253
+    second: Scene_3_END_portal_47
+  - first:
+      213: -7763482060503622178
+    second: Scene_3_END_portal_48
+  - first:
+      213: 4482293217876391340
+    second: Scene_3_END_portal_49
+  - first:
+      213: -7238243195524437398
+    second: Scene_3_END_portal_50
+  - first:
+      213: -8327724758991337220
+    second: Scene_3_END_portal_51
+  - first:
+      213: -5916019711230541178
+    second: Scene_3_END_portal_52
+  - first:
+      213: 7193277370471651877
+    second: Scene_3_END_portal_53
+  - first:
+      213: 406979961745161121
+    second: Scene_3_END_portal_54
+  - first:
+      213: 6108991685237268418
+    second: Scene_3_END_portal_55
+  - first:
+      213: -2050510783212713646
+    second: Scene_3_END_portal_56
+  - first:
+      213: -8060707721649716594
+    second: Scene_3_END_portal_57
+  - first:
+      213: -6964855342803545369
+    second: Scene_3_END_portal_58
+  - first:
+      213: -9045040402956016245
+    second: Scene_3_END_portal_59
+  - first:
+      213: 5519950512235136383
+    second: Scene_3_END_portal_60
+  - first:
+      213: 6137440905116256789
+    second: Scene_3_END_portal_61
+  - first:
+      213: 3063605463193025277
+    second: Scene_3_END_portal_62
+  - first:
+      213: 695127642808033735
+    second: Scene_3_END_portal_63
+  - first:
+      213: 8792777313933714253
+    second: Scene_3_END_portal_64
+  - first:
+      213: -5635923915112007728
+    second: Scene_3_END_portal_65
+  - first:
+      213: 3871661782928285838
+    second: Scene_3_END_portal_66
+  - first:
+      213: 52332874132738138
+    second: Scene_3_END_portal_67
+  - first:
+      213: 7095529186641004466
+    second: Scene_3_END_portal_68
+  - first:
+      213: 8041618345451966880
+    second: Scene_3_END_portal_69
+  - first:
+      213: 8485394681418496394
+    second: Scene_3_END_portal_70
+  - first:
+      213: 8999692567288388372
+    second: Scene_3_END_portal_71
+  - first:
+      213: 5943447723404458618
+    second: Scene_3_END_portal_72
+  - first:
+      213: 3570504221692295955
+    second: Scene_3_END_portal_73
+  - first:
+      213: -545293334342995715
+    second: Scene_3_END_portal_74
+  - first:
+      213: 8307470262112357386
+    second: Scene_3_END_portal_75
+  - first:
+      213: 1832407952631949256
+    second: Scene_3_END_portal_76
+  - first:
+      213: -83925080853750710
+    second: Scene_3_END_portal_77
+  - first:
+      213: -7069597444897222794
+    second: Scene_3_END_portal_78
+  - first:
+      213: -1799948591362134264
+    second: Scene_3_END_portal_79
+  - first:
+      213: -135728426222325760
+    second: Scene_3_END_portal_80
+  - first:
+      213: -1705225713281150545
+    second: Scene_3_END_portal_81
+  - first:
+      213: -4571526228689442487
+    second: Scene_3_END_portal_82
+  - first:
+      213: 737546661970304230
+    second: Scene_3_END_portal_83
+  - first:
+      213: 8918605266152598318
+    second: Scene_3_END_portal_84
+  - first:
+      213: 5811133213126147001
+    second: Scene_3_END_portal_85
+  - first:
+      213: -1176022235698031009
+    second: Scene_3_END_portal_86
+  - first:
+      213: 5462910998804172780
+    second: Scene_3_END_portal_87
+  - first:
+      213: -101783095080017032
+    second: Scene_3_END_portal_88
+  - first:
+      213: 1854946911252026787
+    second: Scene_3_END_portal_89
+  - first:
+      213: -8840106250720916097
+    second: Scene_3_END_portal_90
+  - first:
+      213: -8376169180678381379
+    second: Scene_3_END_portal_91
+  - first:
+      213: 5438247553045702093
+    second: Scene_3_END_portal_92
+  - first:
+      213: 7437665690973546383
+    second: Scene_3_END_portal_93
+  - first:
+      213: 2107653139914988980
+    second: Scene_3_END_portal_94
+  - first:
+      213: -5052406318053243764
+    second: Scene_3_END_portal_95
+  - first:
+      213: 6256211793174533794
+    second: Scene_3_END_portal_96
+  - first:
+      213: -3318754437647791207
+    second: Scene_3_END_portal_97
+  - first:
+      213: -998898533212756447
+    second: Scene_3_END_portal_98
+  - first:
+      213: -2740045554054393881
+    second: Scene_3_END_portal_99
+  - first:
+      213: -6204160547992333455
+    second: Scene_3_END_portal_100
+  - first:
+      213: -7178243627216086487
+    second: Scene_3_END_portal_101
+  - first:
+      213: 3546605503780124294
+    second: Scene_3_END_portal_102
+  - first:
+      213: -923612106205793961
+    second: Scene_3_END_portal_103
+  - first:
+      213: -4411447115109219102
+    second: Scene_3_END_portal_104
+  - first:
+      213: 2866356163749237958
+    second: Scene_3_END_portal_105
+  - first:
+      213: 6900044360182349968
+    second: Scene_3_END_portal_106
+  - first:
+      213: 1834706922118216338
+    second: Scene_3_END_portal_107
+  - first:
+      213: 7100921097002870261
+    second: Scene_3_END_portal_108
+  - first:
+      213: -6958443232402197039
+    second: Scene_3_END_portal_109
+  - first:
+      213: 2406472772844970996
+    second: Scene_3_END_portal_110
+  - first:
+      213: -3166877786494039307
+    second: Scene_3_END_portal_111
+  - first:
+      213: -3855870872485801028
+    second: Scene_3_END_portal_112
+  - first:
+      213: -6168669768379974262
+    second: Scene_3_END_portal_113
+  - first:
+      213: 4385687769388478041
+    second: Scene_3_END_portal_114
+  - first:
+      213: 8293409006369540864
+    second: Scene_3_END_portal_115
+  - first:
+      213: -472040595115177954
+    second: Scene_3_END_portal_116
+  - first:
+      213: -3207413150712790602
+    second: Scene_3_END_portal_117
+  - first:
+      213: -7296692825927850727
+    second: Scene_3_END_portal_118
+  - first:
+      213: 6891508081482214524
+    second: Scene_3_END_portal_119
+  - first:
+      213: 5313381654095589715
+    second: Scene_3_END_portal_120
+  - first:
+      213: -4337538274866193821
+    second: Scene_3_END_portal_121
+  - first:
+      213: -1897841138283389336
+    second: Scene_3_END_portal_122
+  - first:
+      213: -7043804040174242306
+    second: Scene_3_END_portal_123
+  - first:
+      213: 6717971585897665350
+    second: Scene_3_END_portal_124
+  - first:
+      213: -5450633655756782348
+    second: Scene_3_END_portal_125
+  - first:
+      213: 631707258709376793
+    second: Scene_3_END_portal_126
+  - first:
+      213: -590394145206557625
+    second: Scene_3_END_portal_127
+  - first:
+      213: 2135353229394744210
+    second: Scene_3_END_portal_128
+  - first:
+      213: 7755790074351038753
+    second: Scene_3_END_portal_129
+  - first:
+      213: -659097696601200507
+    second: Scene_3_END_portal_130
+  - first:
+      213: 5788469191051257220
+    second: Scene_3_END_portal_131
+  - first:
+      213: -8790508300983282265
+    second: Scene_3_END_portal_132
+  - first:
+      213: -7995041255980471623
+    second: Scene_3_END_portal_133
+  - first:
+      213: -2418555824601613214
+    second: Scene_3_END_portal_134
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Scene_3_END_portal_0
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1190
+        width: 108
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7720ffebe7d57f130800000000000000
+      internalID: 3600449226057646711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_3_END_portal_1
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 0
+        width: 868
+        height: 1254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dff91aeb4923ff30800000000000000
+      internalID: 4608072249757007830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_3_END_portal_2
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 1058
+        width: 154
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f828fb432a0739a50800000000000000
+      internalID: 6526684126961959567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_3_END_portal_3
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 1124
+        width: 132
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14de58b7c06572310800000000000000
+      internalID: 1380166422424317249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_3_END_portal_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 939
+        width: 162
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a010f3cebb71aa00800000000000000
+      internalID: 766029470890987684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_3_END_portal_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1115
+        width: 100
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d135ee643f875640800000000000000
+      internalID: 5068677360990368217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_3_END_portal_6
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 915
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6722e3f56f3f75e0800000000000000
+      internalID: -1909738009865869462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_3_END_portal_7
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 937
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3f296838bfcfe730800000000000000
+      internalID: 4030668581647232829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_3_END_portal_8
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 992
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ec892a27004c0690800000000000000
+      internalID: -7634656868783518494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_3_END_portal_9
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1004
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3adc5adbf6331c990800000000000000
+      internalID: -7367550960385274461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_3_END_portal_10
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1036
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecd6826f08d40fd60800000000000000
+      internalID: 7921916960825699790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_3_END_portal_11
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 1046
+        width: 47
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd2eb342080da5c70800000000000000
+      internalID: 8960703657389318875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_3_END_portal_12
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1108
+        width: 35
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49615fe4466760e10800000000000000
+      internalID: 2163546844191594132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_3_END_portal_13
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1134
+        width: 13
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed13bc1f0a2df8130800000000000000
+      internalID: 3571304618221318622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_3_END_portal_14
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 797
+        width: 152
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 081abb1a19c85d890800000000000000
+      internalID: -7433881052793560704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_3_END_portal_15
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 1132
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b55c2255ae4c5e720800000000000000
+      internalID: 2874920447875663195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_3_END_portal_16
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 1076
+        width: 50
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a8c8219c149c2de0800000000000000
+      internalID: -1356546537329997660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_3_END_portal_17
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 1052
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c32b0965a3261520800000000000000
+      internalID: 2672362622229881796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_3_END_portal_18
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 996
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77c837c57290f6b70800000000000000
+      internalID: 8894337853739469943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_3_END_portal_19
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 966
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 110c8f460c3f78870800000000000000
+      internalID: 8685178414060584977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_3_END_portal_20
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 1041
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bef346e6eeb9f9d20800000000000000
+      internalID: 3287517701360336875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_3_END_portal_21
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 964
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 411f71553b38cb430800000000000000
+      internalID: 3800056991843873044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_3_END_portal_22
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 931
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 582df89677cda85f0800000000000000
+      internalID: -753547582200884603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_3_END_portal_23
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 863
+        width: 71
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4e549f33608905f0800000000000000
+      internalID: -789959095870005683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_3_END_portal_24
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 988
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbe403ff605647830800000000000000
+      internalID: 4067987444147965627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_3_END_portal_25
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 1003
+        width: 39
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e048025fdd0663c0800000000000000
+      internalID: -4366787535883976475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_3_END_portal_26
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 1083
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 924102a2d0f7307b0800000000000000
+      internalID: -5259220245320559575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_3_END_portal_27
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 755
+        width: 100
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44f5c601c64733b80800000000000000
+      internalID: -8416255271144497340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_3_END_portal_28
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 835
+        width: 56
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36d45491f8d6fd7b0800000000000000
+      internalID: -5197314983590539933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_3_END_portal_29
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 858
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1393f081966ecc3b0800000000000000
+      internalID: -5490760506621871823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_3_END_portal_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 658
+        width: 51
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b86880557d4575a0800000000000000
+      internalID: -6524223318918666058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_3_END_portal_31
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 819
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cf801e9ecfc7cba0800000000000000
+      internalID: -6068653486536355899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_3_END_portal_32
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 751
+        width: 51
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5dae0308b290ba70800000000000000
+      internalID: 8840727387551214943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_3_END_portal_33
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 690
+        width: 62
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eabf9cd80aeb7b80800000000000000
+      internalID: -8395859756520064280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_3_END_portal_34
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 730
+        width: 15
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c5334f2b31355bc0800000000000000
+      internalID: -3795072980724009535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_3_END_portal_35
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 730
+        width: 43
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcd472233090468a0800000000000000
+      internalID: -6312910868335604277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_3_END_portal_36
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 736
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43f2385da89284960800000000000000
+      internalID: 7586359248569970484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_3_END_portal_37
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 720
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 532732ca86d268630800000000000000
+      internalID: 3928877652515189301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_3_END_portal_38
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 714
+        width: 57
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ece5a24c7a5828fb0800000000000000
+      internalID: -4647004909895786802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_3_END_portal_39
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 672
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72e7be7fc029b1dd0800000000000000
+      internalID: -2514255382559621593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_3_END_portal_40
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 660
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1794fe491f0fe0a0800000000000000
+      internalID: -6850239906833983717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_3_END_portal_41
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 678
+        width: 23
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 184571486d92b4650800000000000000
+      internalID: 6218109711830963329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_3_END_portal_42
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 672
+        width: 62
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ad6377d217aa3de0800000000000000
+      internalID: -1352585038705496672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_3_END_portal_43
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 680
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d57f896efc9cd03c0800000000000000
+      internalID: -4391632166852167843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_3_END_portal_44
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 660
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04c8ee80eab9427b0800000000000000
+      internalID: -5249900093830689728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_3_END_portal_45
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 661
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6f02ad5c168e2930800000000000000
+      internalID: 4120378165478690668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_3_END_portal_46
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 650
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe5fa6e10793f0680800000000000000
+      internalID: -8786741194267101713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_3_END_portal_47
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 666
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ae40b073f4470950800000000000000
+      internalID: 6415172006570905253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_3_END_portal_48
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 639
+        width: 50
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edd509bd232924490800000000000000
+      internalID: -7763482060503622178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_3_END_portal_49
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 651
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca53aa6feed443e30800000000000000
+      internalID: 4482293217876391340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_3_END_portal_50
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 648
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6aa0ecd9289c8b90800000000000000
+      internalID: -7238243195524437398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_3_END_portal_51
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 637
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf88811347afd6c80800000000000000
+      internalID: -8327724758991337220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_3_END_portal_52
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 634
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68205e3ca6316eda0800000000000000
+      internalID: -5916019711230541178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_3_END_portal_53
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 624
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52a91d528a7a3d360800000000000000
+      internalID: 7193277370471651877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_3_END_portal_54
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 612
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1abb5827e12e5a500800000000000000
+      internalID: 406979961745161121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_3_END_portal_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 556
+        width: 5
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cfd166229f77c450800000000000000
+      internalID: 6108991685237268418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_3_END_portal_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 524
+        width: 7
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2598f768e4f1b83e0800000000000000
+      internalID: -2050510783212713646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_3_END_portal_57
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 551
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8202dcd80d922090800000000000000
+      internalID: -8060707721649716594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_3_END_portal_58
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 544
+        width: 53
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e2963497fcd75f90800000000000000
+      internalID: -6964855342803545369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_3_END_portal_59
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 547
+        width: 78
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8520ca1daf897280800000000000000
+      internalID: -9045040402956016245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_3_END_portal_60
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 517
+        width: 58
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f75c283bebdca9c40800000000000000
+      internalID: 5519950512235136383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_3_END_portal_61
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 586
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51a08635cf19c2550800000000000000
+      internalID: 6137440905116256789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_3_END_portal_62
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 562
+        width: 48
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfaf095efec148a20800000000000000
+      internalID: 3063605463193025277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_3_END_portal_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 361
+        width: 67
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c1a02f78e695a900800000000000000
+      internalID: 695127642808033735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_3_END_portal_64
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 489
+        width: 17
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d43e1228168360a70800000000000000
+      internalID: 8792777313933714253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_3_END_portal_65
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 507
+        width: 43
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d7be924f0d29c1b0800000000000000
+      internalID: -5635923915112007728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_3_END_portal_66
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 503
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8065ede0e7eab530800000000000000
+      internalID: 3871661782928285838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_3_END_portal_67
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 451
+        width: 116
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a50d1c4c87ce9b000800000000000000
+      internalID: 52332874132738138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_3_END_portal_68
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 391
+        width: 129
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b747279332687260800000000000000
+      internalID: 7095529186641004466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_3_END_portal_69
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 475
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a1dde36741999f60800000000000000
+      internalID: 8041618345451966880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_3_END_portal_70
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 473
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8930f4518d22c570800000000000000
+      internalID: 8485394681418496394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_3_END_portal_71
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 463
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41b92f025b455ec70800000000000000
+      internalID: 8999692567288388372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_3_END_portal_72
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 422
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7a70a6f63e5b7250800000000000000
+      internalID: 5943447723404458618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_3_END_portal_73
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 433
+        width: 33
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31b700b1caafc8130800000000000000
+      internalID: 3570504221692295955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_3_END_portal_74
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 436
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df0f81cf99abe68f0800000000000000
+      internalID: -545293334342995715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_3_END_portal_75
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 429
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0c045340301a4370800000000000000
+      internalID: 8307470262112357386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_3_END_portal_76
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 401
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c76a3c03550e6910800000000000000
+      internalID: 1832407952631949256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_3_END_portal_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 239
+        width: 65
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4c57f76596d5def0800000000000000
+      internalID: -83925080853750710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_3_END_portal_78
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 364
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67f44e7849eb3ed90800000000000000
+      internalID: -7069597444897222794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_3_END_portal_79
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 377
+        width: 34
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80f25edea4c4507e0800000000000000
+      internalID: -1799948591362134264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_3_END_portal_80
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 304
+        width: 73
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 000781927bbcd1ef0800000000000000
+      internalID: -135728426222325760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_3_END_portal_81
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 379
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa1d30a9f32d558e0800000000000000
+      internalID: -1705225713281150545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_3_END_portal_82
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 351
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 949a591bd1dae80c0800000000000000
+      internalID: -4571526228689442487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_3_END_portal_83
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 320
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ecd30808ca4c3a00800000000000000
+      internalID: 737546661970304230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_3_END_portal_84
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 312
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2b24fc9c3045cb70800000000000000
+      internalID: 8918605266152598318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_3_END_portal_85
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 336
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bbbbde5eda45a050800000000000000
+      internalID: 5811133213126147001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_3_END_portal_86
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 246
+        width: 80
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f561249e10eedafe0800000000000000
+      internalID: -1176022235698031009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_3_END_portal_87
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 326
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cef0c431c9820db40800000000000000
+      internalID: 5462910998804172780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_3_END_portal_88
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 282
+        width: 17
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 873ad9570d4669ef0800000000000000
+      internalID: -101783095080017032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_3_END_portal_89
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 268
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a5926a43681eb910800000000000000
+      internalID: 1854946911252026787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_3_END_portal_90
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 293
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7dc11da332a15580800000000000000
+      internalID: -8840106250720916097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_3_END_portal_91
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 290
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db0271f428ed1cb80800000000000000
+      internalID: -8376169180678381379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_3_END_portal_92
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 240
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc52def1659887b40800000000000000
+      internalID: 5438247553045702093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_3_END_portal_93
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 224
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f87a69c1a85e73760800000000000000
+      internalID: 7437665690973546383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_3_END_portal_94
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 214
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bd9e5a2d53ef3d10800000000000000
+      internalID: 2107653139914988980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_3_END_portal_95
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 168
+        width: 45
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c844f77f83f32e9b0800000000000000
+      internalID: -5052406318053243764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_3_END_portal_96
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 234
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a617c3aa7782d650800000000000000
+      internalID: 6256211793174533794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_3_END_portal_97
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 230
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99b80472c6a61f1d0800000000000000
+      internalID: -3318754437647791207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_3_END_portal_98
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 69
+        width: 90
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 126e13193133322f0800000000000000
+      internalID: -998898533212756447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_3_END_portal_99
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 216
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ef0332061769f9d0800000000000000
+      internalID: -2740045554054393881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_3_END_portal_100
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 216
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1739c674ad466e9a0800000000000000
+      internalID: -6204160547992333455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_3_END_portal_101
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 188
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92ad298f371c16c90800000000000000
+      internalID: -7178243627216086487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_3_END_portal_102
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 71
+        width: 61
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 686724b3ae2183130800000000000000
+      internalID: 3546605503780124294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_3_END_portal_103
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 176
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7517a53deabae23f0800000000000000
+      internalID: -923612106205793961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_3_END_portal_104
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 176
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e44e7eb83467c2c0800000000000000
+      internalID: -4411447115109219102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_3_END_portal_105
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 172
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c4560c8eb757c720800000000000000
+      internalID: 2866356163749237958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_3_END_portal_106
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 158
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0904b1f99c1e1cf50800000000000000
+      internalID: 6900044360182349968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_3_END_portal_107
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 140
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29a7ec79930367910800000000000000
+      internalID: 1834706922118216338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_3_END_portal_108
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 139
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f5eeec8d1a8b8260800000000000000
+      internalID: 7100921097002870261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_3_END_portal_109
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 159
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d532fe5fb4ae6f90800000000000000
+      internalID: -6958443232402197039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_3_END_portal_110
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 152
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f3e213ac32856120800000000000000
+      internalID: 2406472772844970996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_3_END_portal_111
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 136
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fa82f89e6dfc04d0800000000000000
+      internalID: -3166877786494039307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_3_END_portal_112
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 114
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb355b9eed13d7ac0800000000000000
+      internalID: -3855870872485801028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_3_END_portal_113
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 95
+        width: 51
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8d3507578b746aa0800000000000000
+      internalID: -6168669768379974262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_3_END_portal_114
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 144
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95eec263ac71ddc30800000000000000
+      internalID: 4385687769388478041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_3_END_portal_115
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 128
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00b8ea90d8b181370800000000000000
+      internalID: 8293409006369540864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_3_END_portal_116
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 132
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1888986499f279f0800000000000000
+      internalID: -472040595115177954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_3_END_portal_117
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 119
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b109d7abbafc73d0800000000000000
+      internalID: -3207413150712790602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_3_END_portal_118
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 112
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 915ed6bc880fcba90800000000000000
+      internalID: -7296692825927850727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_3_END_portal_119
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 117
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7c2b7b561e83af50800000000000000
+      internalID: 6891508081482214524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_3_END_portal_120
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 65
+        width: 68
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 351f170867cecb940800000000000000
+      internalID: 5313381654095589715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_3_END_portal_121
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 95
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36a90f69be7fdc3c0800000000000000
+      internalID: -4337538274866193821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_3_END_portal_122
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 85
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86ede783a8389a5e0800000000000000
+      internalID: -1897841138283389336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_3_END_portal_123
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 55
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef5f3fd8b816f3e90800000000000000
+      internalID: -7043804040174242306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_3_END_portal_124
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 0
+        width: 49
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 643199460970b3d50800000000000000
+      internalID: 6717971585897665350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_3_END_portal_125
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 47
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f404db91957b54b0800000000000000
+      internalID: -5450633655756782348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_3_END_portal_126
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91f7865a76644c800800000000000000
+      internalID: 631707258709376793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_3_END_portal_127
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 53
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7442e7927af7ec7f0800000000000000
+      internalID: -590394145206557625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_3_END_portal_128
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 31
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2939e04d27c42ad10800000000000000
+      internalID: 2135353229394744210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_3_END_portal_129
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 30
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 121b13e0bf912ab60800000000000000
+      internalID: 7755790074351038753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_3_END_portal_130
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 0
+        width: 82
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 588aec1132a6ad6f0800000000000000
+      internalID: -659097696601200507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_3_END_portal_131
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 29
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48527e58f06c45050800000000000000
+      internalID: 5788469191051257220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_3_END_portal_132
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 31
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a5d4cc3647d10680800000000000000
+      internalID: -8790508300983282265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_3_END_portal_133
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 0
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bae0b45658eb0190800000000000000
+      internalID: -7995041255980471623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_3_END_portal_134
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 17
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26c3b25aa409f6ed0800000000000000
+      internalID: -2418555824601613214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Scene_3_END_portal_0: 3600449226057646711
+      Scene_3_END_portal_1: 4608072249757007830
+      Scene_3_END_portal_10: 7921916960825699790
+      Scene_3_END_portal_100: -6204160547992333455
+      Scene_3_END_portal_101: -7178243627216086487
+      Scene_3_END_portal_102: 3546605503780124294
+      Scene_3_END_portal_103: -923612106205793961
+      Scene_3_END_portal_104: -4411447115109219102
+      Scene_3_END_portal_105: 2866356163749237958
+      Scene_3_END_portal_106: 6900044360182349968
+      Scene_3_END_portal_107: 1834706922118216338
+      Scene_3_END_portal_108: 7100921097002870261
+      Scene_3_END_portal_109: -6958443232402197039
+      Scene_3_END_portal_11: 8960703657389318875
+      Scene_3_END_portal_110: 2406472772844970996
+      Scene_3_END_portal_111: -3166877786494039307
+      Scene_3_END_portal_112: -3855870872485801028
+      Scene_3_END_portal_113: -6168669768379974262
+      Scene_3_END_portal_114: 4385687769388478041
+      Scene_3_END_portal_115: 8293409006369540864
+      Scene_3_END_portal_116: -472040595115177954
+      Scene_3_END_portal_117: -3207413150712790602
+      Scene_3_END_portal_118: -7296692825927850727
+      Scene_3_END_portal_119: 6891508081482214524
+      Scene_3_END_portal_12: 2163546844191594132
+      Scene_3_END_portal_120: 5313381654095589715
+      Scene_3_END_portal_121: -4337538274866193821
+      Scene_3_END_portal_122: -1897841138283389336
+      Scene_3_END_portal_123: -7043804040174242306
+      Scene_3_END_portal_124: 6717971585897665350
+      Scene_3_END_portal_125: -5450633655756782348
+      Scene_3_END_portal_126: 631707258709376793
+      Scene_3_END_portal_127: -590394145206557625
+      Scene_3_END_portal_128: 2135353229394744210
+      Scene_3_END_portal_129: 7755790074351038753
+      Scene_3_END_portal_13: 3571304618221318622
+      Scene_3_END_portal_130: -659097696601200507
+      Scene_3_END_portal_131: 5788469191051257220
+      Scene_3_END_portal_132: -8790508300983282265
+      Scene_3_END_portal_133: -7995041255980471623
+      Scene_3_END_portal_134: -2418555824601613214
+      Scene_3_END_portal_14: -7433881052793560704
+      Scene_3_END_portal_15: 2874920447875663195
+      Scene_3_END_portal_16: -1356546537329997660
+      Scene_3_END_portal_17: 2672362622229881796
+      Scene_3_END_portal_18: 8894337853739469943
+      Scene_3_END_portal_19: 8685178414060584977
+      Scene_3_END_portal_2: 6526684126961959567
+      Scene_3_END_portal_20: 3287517701360336875
+      Scene_3_END_portal_21: 3800056991843873044
+      Scene_3_END_portal_22: -753547582200884603
+      Scene_3_END_portal_23: -789959095870005683
+      Scene_3_END_portal_24: 4067987444147965627
+      Scene_3_END_portal_25: -4366787535883976475
+      Scene_3_END_portal_26: -5259220245320559575
+      Scene_3_END_portal_27: -8416255271144497340
+      Scene_3_END_portal_28: -5197314983590539933
+      Scene_3_END_portal_29: -5490760506621871823
+      Scene_3_END_portal_3: 1380166422424317249
+      Scene_3_END_portal_30: -6524223318918666058
+      Scene_3_END_portal_31: -6068653486536355899
+      Scene_3_END_portal_32: 8840727387551214943
+      Scene_3_END_portal_33: -8395859756520064280
+      Scene_3_END_portal_34: -3795072980724009535
+      Scene_3_END_portal_35: -6312910868335604277
+      Scene_3_END_portal_36: 7586359248569970484
+      Scene_3_END_portal_37: 3928877652515189301
+      Scene_3_END_portal_38: -4647004909895786802
+      Scene_3_END_portal_39: -2514255382559621593
+      Scene_3_END_portal_4: 766029470890987684
+      Scene_3_END_portal_40: -6850239906833983717
+      Scene_3_END_portal_41: 6218109711830963329
+      Scene_3_END_portal_42: -1352585038705496672
+      Scene_3_END_portal_43: -4391632166852167843
+      Scene_3_END_portal_44: -5249900093830689728
+      Scene_3_END_portal_45: 4120378165478690668
+      Scene_3_END_portal_46: -8786741194267101713
+      Scene_3_END_portal_47: 6415172006570905253
+      Scene_3_END_portal_48: -7763482060503622178
+      Scene_3_END_portal_49: 4482293217876391340
+      Scene_3_END_portal_5: 5068677360990368217
+      Scene_3_END_portal_50: -7238243195524437398
+      Scene_3_END_portal_51: -8327724758991337220
+      Scene_3_END_portal_52: -5916019711230541178
+      Scene_3_END_portal_53: 7193277370471651877
+      Scene_3_END_portal_54: 406979961745161121
+      Scene_3_END_portal_55: 6108991685237268418
+      Scene_3_END_portal_56: -2050510783212713646
+      Scene_3_END_portal_57: -8060707721649716594
+      Scene_3_END_portal_58: -6964855342803545369
+      Scene_3_END_portal_59: -9045040402956016245
+      Scene_3_END_portal_6: -1909738009865869462
+      Scene_3_END_portal_60: 5519950512235136383
+      Scene_3_END_portal_61: 6137440905116256789
+      Scene_3_END_portal_62: 3063605463193025277
+      Scene_3_END_portal_63: 695127642808033735
+      Scene_3_END_portal_64: 8792777313933714253
+      Scene_3_END_portal_65: -5635923915112007728
+      Scene_3_END_portal_66: 3871661782928285838
+      Scene_3_END_portal_67: 52332874132738138
+      Scene_3_END_portal_68: 7095529186641004466
+      Scene_3_END_portal_69: 8041618345451966880
+      Scene_3_END_portal_7: 4030668581647232829
+      Scene_3_END_portal_70: 8485394681418496394
+      Scene_3_END_portal_71: 8999692567288388372
+      Scene_3_END_portal_72: 5943447723404458618
+      Scene_3_END_portal_73: 3570504221692295955
+      Scene_3_END_portal_74: -545293334342995715
+      Scene_3_END_portal_75: 8307470262112357386
+      Scene_3_END_portal_76: 1832407952631949256
+      Scene_3_END_portal_77: -83925080853750710
+      Scene_3_END_portal_78: -7069597444897222794
+      Scene_3_END_portal_79: -1799948591362134264
+      Scene_3_END_portal_8: -7634656868783518494
+      Scene_3_END_portal_80: -135728426222325760
+      Scene_3_END_portal_81: -1705225713281150545
+      Scene_3_END_portal_82: -4571526228689442487
+      Scene_3_END_portal_83: 737546661970304230
+      Scene_3_END_portal_84: 8918605266152598318
+      Scene_3_END_portal_85: 5811133213126147001
+      Scene_3_END_portal_86: -1176022235698031009
+      Scene_3_END_portal_87: 5462910998804172780
+      Scene_3_END_portal_88: -101783095080017032
+      Scene_3_END_portal_89: 1854946911252026787
+      Scene_3_END_portal_9: -7367550960385274461
+      Scene_3_END_portal_90: -8840106250720916097
+      Scene_3_END_portal_91: -8376169180678381379
+      Scene_3_END_portal_92: 5438247553045702093
+      Scene_3_END_portal_93: 7437665690973546383
+      Scene_3_END_portal_94: 2107653139914988980
+      Scene_3_END_portal_95: -5052406318053243764
+      Scene_3_END_portal_96: 6256211793174533794
+      Scene_3_END_portal_97: -3318754437647791207
+      Scene_3_END_portal_98: -998898533212756447
+      Scene_3_END_portal_99: -2740045554054393881
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

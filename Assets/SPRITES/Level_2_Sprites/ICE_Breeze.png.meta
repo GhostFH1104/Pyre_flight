@@ -1,0 +1,5956 @@
+fileFormatVersion: 2
+guid: db3e03ff23edfdd4c9c542fde6e4d254
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5410837542711885225
+    second: ICE_Breeze_0
+  - first:
+      213: -980691775262138133
+    second: ICE_Breeze_1
+  - first:
+      213: -8232440794797789895
+    second: ICE_Breeze_2
+  - first:
+      213: 2343097275300786223
+    second: ICE_Breeze_3
+  - first:
+      213: -7347910687180538698
+    second: ICE_Breeze_4
+  - first:
+      213: -9085152818148083972
+    second: ICE_Breeze_5
+  - first:
+      213: 2564844731133603781
+    second: ICE_Breeze_6
+  - first:
+      213: -7497103109046288314
+    second: ICE_Breeze_7
+  - first:
+      213: -9102755261418037179
+    second: ICE_Breeze_8
+  - first:
+      213: 4856420460985885248
+    second: ICE_Breeze_9
+  - first:
+      213: -129129568494463310
+    second: ICE_Breeze_10
+  - first:
+      213: -3035684028893258843
+    second: ICE_Breeze_11
+  - first:
+      213: -4609145299489724999
+    second: ICE_Breeze_12
+  - first:
+      213: 3156325293630320509
+    second: ICE_Breeze_13
+  - first:
+      213: 3625368374095563316
+    second: ICE_Breeze_14
+  - first:
+      213: 102146483077345456
+    second: ICE_Breeze_15
+  - first:
+      213: 8319072871211395492
+    second: ICE_Breeze_16
+  - first:
+      213: -7890638501008721852
+    second: ICE_Breeze_17
+  - first:
+      213: -6194773541281583957
+    second: ICE_Breeze_18
+  - first:
+      213: 2067361114353047638
+    second: ICE_Breeze_19
+  - first:
+      213: -6340193522182476900
+    second: ICE_Breeze_20
+  - first:
+      213: 1140641929948521144
+    second: ICE_Breeze_21
+  - first:
+      213: -5820148077201720476
+    second: ICE_Breeze_22
+  - first:
+      213: -2454486079082642356
+    second: ICE_Breeze_23
+  - first:
+      213: -4545146950556231985
+    second: ICE_Breeze_24
+  - first:
+      213: 3594774218244775100
+    second: ICE_Breeze_25
+  - first:
+      213: 6774757997598951272
+    second: ICE_Breeze_26
+  - first:
+      213: -106089746892350212
+    second: ICE_Breeze_27
+  - first:
+      213: -895968890676122746
+    second: ICE_Breeze_28
+  - first:
+      213: 6172236836989323033
+    second: ICE_Breeze_29
+  - first:
+      213: -3096468638289333126
+    second: ICE_Breeze_30
+  - first:
+      213: -3262163961595007788
+    second: ICE_Breeze_31
+  - first:
+      213: 5797089254308398999
+    second: ICE_Breeze_32
+  - first:
+      213: -1818688855255064628
+    second: ICE_Breeze_33
+  - first:
+      213: -6308092450114470523
+    second: ICE_Breeze_34
+  - first:
+      213: 134388124666379485
+    second: ICE_Breeze_35
+  - first:
+      213: 7273828109727501296
+    second: ICE_Breeze_36
+  - first:
+      213: 1227872921414416313
+    second: ICE_Breeze_37
+  - first:
+      213: 5712862352860718172
+    second: ICE_Breeze_38
+  - first:
+      213: -4404645918774687512
+    second: ICE_Breeze_39
+  - first:
+      213: 2223702924666243776
+    second: ICE_Breeze_40
+  - first:
+      213: 1602987088576605825
+    second: ICE_Breeze_41
+  - first:
+      213: -8254985788782691213
+    second: ICE_Breeze_42
+  - first:
+      213: 1189540070600648824
+    second: ICE_Breeze_43
+  - first:
+      213: 271107677038901163
+    second: ICE_Breeze_44
+  - first:
+      213: -1688590390421742813
+    second: ICE_Breeze_45
+  - first:
+      213: -7762595146895050641
+    second: ICE_Breeze_46
+  - first:
+      213: -7531680631330247190
+    second: ICE_Breeze_47
+  - first:
+      213: 6440904796209337277
+    second: ICE_Breeze_48
+  - first:
+      213: 1824677452126103270
+    second: ICE_Breeze_49
+  - first:
+      213: -3025317052302949895
+    second: ICE_Breeze_50
+  - first:
+      213: -4604121913513453834
+    second: ICE_Breeze_51
+  - first:
+      213: 3863438967349542665
+    second: ICE_Breeze_52
+  - first:
+      213: -6417615967646396235
+    second: ICE_Breeze_53
+  - first:
+      213: -8333366159619330217
+    second: ICE_Breeze_54
+  - first:
+      213: -730915593680113552
+    second: ICE_Breeze_55
+  - first:
+      213: -7022188888604398549
+    second: ICE_Breeze_56
+  - first:
+      213: 4515582664357406142
+    second: ICE_Breeze_57
+  - first:
+      213: 2819643368306220327
+    second: ICE_Breeze_58
+  - first:
+      213: 6242181367002467660
+    second: ICE_Breeze_59
+  - first:
+      213: 2222222089157304936
+    second: ICE_Breeze_60
+  - first:
+      213: -1808484841386903866
+    second: ICE_Breeze_61
+  - first:
+      213: 2448092790131749386
+    second: ICE_Breeze_62
+  - first:
+      213: -9146413575406745590
+    second: ICE_Breeze_63
+  - first:
+      213: 6402827490351205630
+    second: ICE_Breeze_64
+  - first:
+      213: -7156853567002848083
+    second: ICE_Breeze_65
+  - first:
+      213: 1165104660818733374
+    second: ICE_Breeze_66
+  - first:
+      213: -6149523656348470112
+    second: ICE_Breeze_67
+  - first:
+      213: -5611987688267683790
+    second: ICE_Breeze_68
+  - first:
+      213: -6030017700342467826
+    second: ICE_Breeze_69
+  - first:
+      213: 5212873981337089643
+    second: ICE_Breeze_70
+  - first:
+      213: 4001442819377779773
+    second: ICE_Breeze_71
+  - first:
+      213: -118908772107240623
+    second: ICE_Breeze_72
+  - first:
+      213: -6206050468375190215
+    second: ICE_Breeze_73
+  - first:
+      213: -8750331739719473148
+    second: ICE_Breeze_74
+  - first:
+      213: 3806978357408400479
+    second: ICE_Breeze_75
+  - first:
+      213: 6300835521553565197
+    second: ICE_Breeze_76
+  - first:
+      213: 210555698229833546
+    second: ICE_Breeze_77
+  - first:
+      213: 8808054172758922045
+    second: ICE_Breeze_78
+  - first:
+      213: 6135438928864092072
+    second: ICE_Breeze_79
+  - first:
+      213: -7348164325925381138
+    second: ICE_Breeze_80
+  - first:
+      213: -6896211447909595736
+    second: ICE_Breeze_81
+  - first:
+      213: -4964778811688235066
+    second: ICE_Breeze_82
+  - first:
+      213: -6606142949720411997
+    second: ICE_Breeze_83
+  - first:
+      213: 1467512060726733831
+    second: ICE_Breeze_84
+  - first:
+      213: -5366356818080007213
+    second: ICE_Breeze_85
+  - first:
+      213: 7154328213920318551
+    second: ICE_Breeze_86
+  - first:
+      213: 5591620836227728044
+    second: ICE_Breeze_87
+  - first:
+      213: 4662520249674031088
+    second: ICE_Breeze_88
+  - first:
+      213: 4154683519209818092
+    second: ICE_Breeze_89
+  - first:
+      213: 3223329738628996251
+    second: ICE_Breeze_90
+  - first:
+      213: 2324051441578587304
+    second: ICE_Breeze_91
+  - first:
+      213: 1495075726246442154
+    second: ICE_Breeze_92
+  - first:
+      213: 3077793803608825236
+    second: ICE_Breeze_93
+  - first:
+      213: 8952774954211127613
+    second: ICE_Breeze_94
+  - first:
+      213: 4282025964984840969
+    second: ICE_Breeze_95
+  - first:
+      213: -3648067437821794020
+    second: ICE_Breeze_96
+  - first:
+      213: 2316652965994668613
+    second: ICE_Breeze_97
+  - first:
+      213: 525241032944258279
+    second: ICE_Breeze_98
+  - first:
+      213: 1027941679366841767
+    second: ICE_Breeze_99
+  - first:
+      213: 3331148128640157067
+    second: ICE_Breeze_100
+  - first:
+      213: -5404042208833235825
+    second: ICE_Breeze_101
+  - first:
+      213: -265868675426761830
+    second: ICE_Breeze_102
+  - first:
+      213: 460055984406870491
+    second: ICE_Breeze_103
+  - first:
+      213: 3052580183814890268
+    second: ICE_Breeze_104
+  - first:
+      213: -8370441528426812765
+    second: ICE_Breeze_105
+  - first:
+      213: 566661182917766298
+    second: ICE_Breeze_106
+  - first:
+      213: 1749935314000938559
+    second: ICE_Breeze_107
+  - first:
+      213: 4060399488160357983
+    second: ICE_Breeze_108
+  - first:
+      213: 1688155053519551573
+    second: ICE_Breeze_109
+  - first:
+      213: 7179204884962216603
+    second: ICE_Breeze_110
+  - first:
+      213: -5361474297316649071
+    second: ICE_Breeze_111
+  - first:
+      213: -3544959620875850178
+    second: ICE_Breeze_112
+  - first:
+      213: -808608586648463204
+    second: ICE_Breeze_113
+  - first:
+      213: -7713806527555031441
+    second: ICE_Breeze_114
+  - first:
+      213: 1721634791591723502
+    second: ICE_Breeze_115
+  - first:
+      213: -1595210897784748243
+    second: ICE_Breeze_116
+  - first:
+      213: 4988427945456240413
+    second: ICE_Breeze_117
+  - first:
+      213: -4722013082833792961
+    second: ICE_Breeze_118
+  - first:
+      213: -5712102769102653285
+    second: ICE_Breeze_119
+  - first:
+      213: -1382181905729908642
+    second: ICE_Breeze_120
+  - first:
+      213: 7339869832181114172
+    second: ICE_Breeze_121
+  - first:
+      213: 8594040948657256590
+    second: ICE_Breeze_122
+  - first:
+      213: 2072218260080692589
+    second: ICE_Breeze_123
+  - first:
+      213: 6687702381058187520
+    second: ICE_Breeze_124
+  - first:
+      213: 4956226550572531174
+    second: ICE_Breeze_125
+  - first:
+      213: 1651650051627382163
+    second: ICE_Breeze_126
+  - first:
+      213: -5245024077642229750
+    second: ICE_Breeze_127
+  - first:
+      213: -1044784666789428229
+    second: ICE_Breeze_128
+  - first:
+      213: -8442667210779399581
+    second: ICE_Breeze_129
+  - first:
+      213: 6848015828000740696
+    second: ICE_Breeze_130
+  - first:
+      213: -3351570769774658398
+    second: ICE_Breeze_131
+  - first:
+      213: -4169062089887604419
+    second: ICE_Breeze_132
+  - first:
+      213: -3458834850860519254
+    second: ICE_Breeze_133
+  - first:
+      213: -838251499774793496
+    second: ICE_Breeze_134
+  - first:
+      213: 9118258602638983852
+    second: ICE_Breeze_135
+  - first:
+      213: -5458673519770953541
+    second: ICE_Breeze_136
+  - first:
+      213: -804025172692262538
+    second: ICE_Breeze_137
+  - first:
+      213: -3020563344708523510
+    second: ICE_Breeze_138
+  - first:
+      213: -6531076281257903714
+    second: ICE_Breeze_139
+  - first:
+      213: 4163633545664914412
+    second: ICE_Breeze_140
+  - first:
+      213: 1448829366276404390
+    second: ICE_Breeze_141
+  - first:
+      213: -6478643437974388684
+    second: ICE_Breeze_142
+  - first:
+      213: 1328182560967542890
+    second: ICE_Breeze_143
+  - first:
+      213: -6883750917096093868
+    second: ICE_Breeze_144
+  - first:
+      213: -1034128142774808673
+    second: ICE_Breeze_145
+  - first:
+      213: -7214566852495789648
+    second: ICE_Breeze_146
+  - first:
+      213: 6489810267230934219
+    second: ICE_Breeze_147
+  - first:
+      213: -6805050245266377090
+    second: ICE_Breeze_148
+  - first:
+      213: 5999406940198643196
+    second: ICE_Breeze_149
+  - first:
+      213: -5772265920585671547
+    second: ICE_Breeze_150
+  - first:
+      213: 1202449670272170964
+    second: ICE_Breeze_151
+  - first:
+      213: -3182021165330413189
+    second: ICE_Breeze_152
+  - first:
+      213: -2817942742831483056
+    second: ICE_Breeze_153
+  - first:
+      213: 538658597668111413
+    second: ICE_Breeze_154
+  - first:
+      213: -6739557161189179751
+    second: ICE_Breeze_155
+  - first:
+      213: -8288964051453782867
+    second: ICE_Breeze_156
+  - first:
+      213: 8244403264204548015
+    second: ICE_Breeze_157
+  - first:
+      213: -1419992680121191210
+    second: ICE_Breeze_158
+  - first:
+      213: 3407432868526947341
+    second: ICE_Breeze_159
+  - first:
+      213: -8278657433780751073
+    second: ICE_Breeze_160
+  - first:
+      213: 2781329903605046042
+    second: ICE_Breeze_161
+  - first:
+      213: -1275076088442961399
+    second: ICE_Breeze_162
+  - first:
+      213: 1019072463413817817
+    second: ICE_Breeze_163
+  - first:
+      213: 3217182804228462162
+    second: ICE_Breeze_164
+  - first:
+      213: 4672113081706779674
+    second: ICE_Breeze_165
+  - first:
+      213: -985802562383149456
+    second: ICE_Breeze_166
+  - first:
+      213: -3022378855100893446
+    second: ICE_Breeze_167
+  - first:
+      213: -1115547476709553225
+    second: ICE_Breeze_168
+  - first:
+      213: -7889839638409801185
+    second: ICE_Breeze_169
+  - first:
+      213: -6506137936332718613
+    second: ICE_Breeze_170
+  - first:
+      213: -6838115408784284413
+    second: ICE_Breeze_171
+  - first:
+      213: -3492991098974152429
+    second: ICE_Breeze_172
+  - first:
+      213: 988383202657131728
+    second: ICE_Breeze_173
+  - first:
+      213: -2641565912874820147
+    second: ICE_Breeze_174
+  - first:
+      213: -2024035198050137011
+    second: ICE_Breeze_175
+  - first:
+      213: 4272667041048894420
+    second: ICE_Breeze_176
+  - first:
+      213: -5427507339919484229
+    second: ICE_Breeze_177
+  - first:
+      213: -9142463234428147748
+    second: ICE_Breeze_178
+  - first:
+      213: -6862918050791458097
+    second: ICE_Breeze_179
+  - first:
+      213: -1946153253272485084
+    second: ICE_Breeze_180
+  - first:
+      213: 1958979332402852207
+    second: ICE_Breeze_181
+  - first:
+      213: 1335078035389344871
+    second: ICE_Breeze_182
+  - first:
+      213: 1755180856451659700
+    second: ICE_Breeze_183
+  - first:
+      213: -320685330786467269
+    second: ICE_Breeze_184
+  - first:
+      213: 174405441050565074
+    second: ICE_Breeze_185
+  - first:
+      213: -6071740400386839328
+    second: ICE_Breeze_186
+  - first:
+      213: 2462425444570214322
+    second: ICE_Breeze_187
+  - first:
+      213: -8250171271106943311
+    second: ICE_Breeze_188
+  - first:
+      213: -3539396245769903144
+    second: ICE_Breeze_189
+  - first:
+      213: 28019245356420858
+    second: ICE_Breeze_190
+  - first:
+      213: 5350204917060734069
+    second: ICE_Breeze_191
+  - first:
+      213: 4624836693201150047
+    second: ICE_Breeze_192
+  - first:
+      213: 7332181775646686352
+    second: ICE_Breeze_193
+  - first:
+      213: 3237748859114426851
+    second: ICE_Breeze_194
+  - first:
+      213: 3429734624319975612
+    second: ICE_Breeze_195
+  - first:
+      213: 2470142326412100082
+    second: ICE_Breeze_196
+  - first:
+      213: -5740438311705498522
+    second: ICE_Breeze_197
+  - first:
+      213: -4496246657762631149
+    second: ICE_Breeze_198
+  - first:
+      213: 8304667364728593825
+    second: ICE_Breeze_199
+  - first:
+      213: 173729529077713936
+    second: ICE_Breeze_200
+  - first:
+      213: -4947561253085691541
+    second: ICE_Breeze_201
+  - first:
+      213: -5281858141804885994
+    second: ICE_Breeze_202
+  - first:
+      213: 1233372436089683786
+    second: ICE_Breeze_203
+  - first:
+      213: 8946999986631747304
+    second: ICE_Breeze_204
+  - first:
+      213: 2657618364536941459
+    second: ICE_Breeze_205
+  - first:
+      213: 3842279450313220931
+    second: ICE_Breeze_206
+  - first:
+      213: 1953575984190196006
+    second: ICE_Breeze_207
+  - first:
+      213: -942478115003244245
+    second: ICE_Breeze_208
+  - first:
+      213: 3299276069050260710
+    second: ICE_Breeze_209
+  - first:
+      213: -9145456332707847802
+    second: ICE_Breeze_210
+  - first:
+      213: -3030826653835365599
+    second: ICE_Breeze_211
+  - first:
+      213: -4612103684505684865
+    second: ICE_Breeze_212
+  - first:
+      213: -4195512546026320148
+    second: ICE_Breeze_213
+  - first:
+      213: 6252620443264401045
+    second: ICE_Breeze_214
+  - first:
+      213: 2636456250387502448
+    second: ICE_Breeze_215
+  - first:
+      213: 4217086724237176246
+    second: ICE_Breeze_216
+  - first:
+      213: -6328230295334340411
+    second: ICE_Breeze_217
+  - first:
+      213: 4526584224394932406
+    second: ICE_Breeze_218
+  - first:
+      213: 5505921874492744146
+    second: ICE_Breeze_219
+  - first:
+      213: -7020277414795151355
+    second: ICE_Breeze_220
+  - first:
+      213: -7141078889111589895
+    second: ICE_Breeze_221
+  - first:
+      213: -1558697477945346520
+    second: ICE_Breeze_222
+  - first:
+      213: 6090409880734015389
+    second: ICE_Breeze_223
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ICE_Breeze_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 2560
+        height: 1432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ad70b6c318271b40800000000000000
+      internalID: 5410837542711885225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_1
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 1159
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be06a5db602e362f0800000000000000
+      internalID: -980691775262138133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_2
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1118
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93da4a7e6be70cd80800000000000000
+      internalID: -8232440794797789895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_3
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1117
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f203d70ce8a548020800000000000000
+      internalID: 2343097275300786223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_4
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 1039
+        width: 138
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bcbe41392af60a90800000000000000
+      internalID: -7347910687180538698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_5
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1107
+        width: 6
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf6f428a5ad0be180800000000000000
+      internalID: -9085152818148083972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_6
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1055
+        width: 125
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cf204f91b8289320800000000000000
+      internalID: 2564844731133603781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_7
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 1125
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 640c1d49170f4f790800000000000000
+      internalID: -7497103109046288314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_8
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1111
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5402cd571548ca180800000000000000
+      internalID: -9102755261418037179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1095
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 042a009cda8756340800000000000000
+      internalID: 4856420460985885248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_10
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 1077
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b653e3775d353ef0800000000000000
+      internalID: -129129568494463310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_11
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1086
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ab9d7f95751fd5d0800000000000000
+      internalID: -3035684028893258843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_12
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1087
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b5e0c935c60900c0800000000000000
+      internalID: -4609145299489724999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_13
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1084
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7f6a62b1258dcb20800000000000000
+      internalID: 3156325293630320509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_14
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1056
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43ac6e50455ef4230800000000000000
+      internalID: 3625368374095563316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_15
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1023
+        width: 52
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b071e66fa5ea6100800000000000000
+      internalID: 102146483077345456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_16
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1037
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a9e42533b8437370800000000000000
+      internalID: 8319072871211395492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_17
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1053
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 448ba58f612de7290800000000000000
+      internalID: -7890638501008721852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_18
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1061
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bac2ce7194eb70aa0800000000000000
+      internalID: -6194773541281583957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_19
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 1055
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 658187beafdb0bc10800000000000000
+      internalID: 2067361114353047638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_20
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 1057
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9ba417559b1308a0800000000000000
+      internalID: -6340193522182476900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_21
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1037
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b26f7abacf54df00800000000000000
+      internalID: 1140641929948521144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_22
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1039
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46bf736092eaa3fa0800000000000000
+      internalID: -5820148077201720476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_23
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 990
+        width: 41
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c44432e5ae9efedd0800000000000000
+      internalID: -2454486079082642356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_24
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 1021
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc655200ee46ce0c0800000000000000
+      internalID: -4545146950556231985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_25
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 1043
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbc56360b1433e130800000000000000
+      internalID: 3594774218244775100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_26
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1035
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8674f1e2186c40e50800000000000000
+      internalID: 6774757997598951272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_27
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1031
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfc9b22ffe7178ef0800000000000000
+      internalID: -106089746892350212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_28
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 993
+        width: 55
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68be27d7a01e093f0800000000000000
+      internalID: -895968890676122746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_29
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1021
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 917445a83b038a550800000000000000
+      internalID: 6172236836989323033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_30
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1011
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7470a4ed222705d0800000000000000
+      internalID: -3096468638289333126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_31
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 1002
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dc6c0e19277ab2d0800000000000000
+      internalID: -3262163961595007788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_32
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 923
+        width: 69
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 797494666f5637050800000000000000
+      internalID: 5797089254308398999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 991
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccf5f893f18b2c6e0800000000000000
+      internalID: -1818688855255064628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_34
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1007
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58d7a9c96572578a0800000000000000
+      internalID: -6308092450114470523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_35
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 991
+        width: 9
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddc35c099417dd100800000000000000
+      internalID: 134388124666379485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_36
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 990
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fb0f8d9024d1f460800000000000000
+      internalID: 7273828109727501296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_37
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 983
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b73a3e9ae74a0110800000000000000
+      internalID: 1227872921414416313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_38
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1003
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5427f8ba0a284f40800000000000000
+      internalID: 5712862352860718172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_39
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 999
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e88f0aafdd8fd2c0800000000000000
+      internalID: -4404645918774687512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_40
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 975
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ca8abe370e2cde10800000000000000
+      internalID: 2223702924666243776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_41
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 992
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18e652a9344fe3610800000000000000
+      internalID: 1602987088576605825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_42
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 983
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37cb5b17926607d80800000000000000
+      internalID: -8254985788782691213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_43
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 964
+        width: 15
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 878ae3a4468128010800000000000000
+      internalID: 1189540070600648824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_44
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 987
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba7f8c1fefa23c300800000000000000
+      internalID: 271107677038901163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_45
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 976
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32b16c78cfbe098e0800000000000000
+      internalID: -1688590390421742813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_46
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 983
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f68362687d8b54490800000000000000
+      internalID: -7762595146895050641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_47
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 975
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aedeedfce581a7790800000000000000
+      internalID: -7531680631330247190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_48
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 991
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db3da2a69c0b26950800000000000000
+      internalID: 6440904796209337277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_49
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 986
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e624a3a97e825910800000000000000
+      internalID: 1824677452126103270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_50
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 975
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f10d847b2ae306d0800000000000000
+      internalID: -3025317052302949895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_51
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 985
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f6507a638fda10c0800000000000000
+      internalID: -4604121913513453834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_52
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 979
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90f754c7541bd9530800000000000000
+      internalID: 3863438967349542665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_53
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 971
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b0df87874c00f6a0800000000000000
+      internalID: -6417615967646396235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_54
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 974
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75fe0a041afe95c80800000000000000
+      internalID: -8333366159619330217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_55
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 940
+        width: 13
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07037edd3244bd5f0800000000000000
+      internalID: -730915593680113552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_56
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 961
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2c2a05396c2c8e90800000000000000
+      internalID: -7022188888604398549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_57
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 979
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb56fe632829aae30800000000000000
+      internalID: 4515582664357406142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_58
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 971
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72d9d2154b2612720800000000000000
+      internalID: 2819643368306220327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_59
+      rect:
+        serializedVersion: 2
+        x: 1862
+        y: 965
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4d8ebb71eea0a650800000000000000
+      internalID: 6242181367002467660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_60
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 959
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8626f3c573be6de10800000000000000
+      internalID: 2222222089157304936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_61
+      rect:
+        serializedVersion: 2
+        x: 1718
+        y: 940
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c674775e98f6e6e0800000000000000
+      internalID: -1808484841386903866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_62
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 959
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a027ffc0c6f59f120800000000000000
+      internalID: 2448092790131749386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_63
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 442
+        width: 107
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a08021d1059611180800000000000000
+      internalID: -9146413575406745590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_64
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 411
+        width: 57
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efc4d78cda96bd850800000000000000
+      internalID: 6402827490351205630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_65
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 449
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da4de45799fbdac90800000000000000
+      internalID: -7156853567002848083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_66
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 449
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e39a04a14884b2010800000000000000
+      internalID: 1165104660818733374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_67
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 441
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a4fc7de0d088aaa0800000000000000
+      internalID: -6149523656348470112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_68
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 380
+        width: 88
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23860fc5ee63e12b0800000000000000
+      internalID: -5611987688267683790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_69
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 452
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e03f4c599d2115ca0800000000000000
+      internalID: -6030017700342467826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_70
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 445
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b66397c5449d75840800000000000000
+      internalID: 5212873981337089643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_71
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 433
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d34dc0e2b0bf78730800000000000000
+      internalID: 4001442819377779773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_72
+      rect:
+        serializedVersion: 2
+        x: 1774
+        y: 446
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15bbedd0a1d895ef0800000000000000
+      internalID: -118908772107240623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_73
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 442
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 935a956eafdafd9a0800000000000000
+      internalID: -6206050468375190215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_74
+      rect:
+        serializedVersion: 2
+        x: 1854
+        y: 452
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 408e13bd4a3909680800000000000000
+      internalID: -8750331739719473148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_75
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 427
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f548de455aa15d430800000000000000
+      internalID: 3806978357408400479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_76
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 439
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d060d5a0680117750800000000000000
+      internalID: 6300835521553565197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_77
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 421
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4f6c6eba4b0ce200800000000000000
+      internalID: 210555698229833546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_78
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 429
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3351b16a9e7c3a70800000000000000
+      internalID: 8808054172758922045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_79
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 417
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8af1c08e235752550800000000000000
+      internalID: 6135438928864092072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_80
+      rect:
+        serializedVersion: 2
+        x: 1732
+        y: 349
+        width: 135
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeb15025a73160a90800000000000000
+      internalID: -7348164325925381138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_81
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 431
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a5cd5fc93cbb40a0800000000000000
+      internalID: -6896211447909595736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_82
+      rect:
+        serializedVersion: 2
+        x: 1862
+        y: 421
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cfcfeca9ff891bb0800000000000000
+      internalID: -4964778811688235066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_83
+      rect:
+        serializedVersion: 2
+        x: 2056
+        y: 431
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a0b672fcf34254a0800000000000000
+      internalID: -6606142949720411997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_84
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 415
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70ce73ba176ad5410800000000000000
+      internalID: 1467512060726733831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_85
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 401
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3db7858f7eed685b0800000000000000
+      internalID: -5366356818080007213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_86
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 413
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7548645fa97494360800000000000000
+      internalID: 7154328213920318551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_87
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 367
+        width: 95
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca2c60e568d699d40800000000000000
+      internalID: 5591620836227728044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_88
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 399
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ffd2e7c67994b040800000000000000
+      internalID: 4662520249674031088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_89
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 379
+        width: 49
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce7cba4f5a668a930800000000000000
+      internalID: 4154683519209818092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_90
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 399
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9c1fe0c1519bbc20800000000000000
+      internalID: 3223329738628996251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_91
+      rect:
+        serializedVersion: 2
+        x: 1854
+        y: 371
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a4b6070970b04020800000000000000
+      internalID: 2324051441578587304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_92
+      rect:
+        serializedVersion: 2
+        x: 1982
+        y: 407
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa47a37a3739fb410800000000000000
+      internalID: 1495075726246442154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_93
+      rect:
+        serializedVersion: 2
+        x: 1994
+        y: 403
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49d9004582586ba20800000000000000
+      internalID: 3077793803608825236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_94
+      rect:
+        serializedVersion: 2
+        x: 2006
+        y: 365
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d31b4c31365ae3c70800000000000000
+      internalID: 8952774954211127613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_95
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 385
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 903bbe19defcc6b30800000000000000
+      internalID: 4282025964984840969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_96
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 397
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1966fb5ef57f5dc0800000000000000
+      internalID: -3648067437821794020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_97
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 391
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 542a7f13997662020800000000000000
+      internalID: 2316652965994668613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_98
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 387
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ec0a16cfe70a4700800000000000000
+      internalID: 525241032944258279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_99
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 380
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a5aa78d28bf34e00800000000000000
+      internalID: 1027941679366841767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_100
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 401
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b85cdc5e29d9a3e20800000000000000
+      internalID: 3331148128640157067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_101
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 399
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f84174f2e3cf005b0800000000000000
+      internalID: -5404042208833235825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_102
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 333
+        width: 98
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a93c84c29d17f4cf0800000000000000
+      internalID: -265868675426761830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_103
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 379
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd93d57fa72726600800000000000000
+      internalID: 460055984406870491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_104
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 389
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c13eea00181fc5a20800000000000000
+      internalID: 3052580183814890268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_105
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 389
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aa21f447c736db80800000000000000
+      internalID: -8370441528426812765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_106
+      rect:
+        serializedVersion: 2
+        x: 2382
+        y: 385
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9ce0d3f75f2dd700800000000000000
+      internalID: 566661182917766298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_107
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 381
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3600f285e4094810800000000000000
+      internalID: 1749935314000938559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_108
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 325
+        width: 77
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5ed9f152df695830800000000000000
+      internalID: 4060399488160357983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_109
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 377
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55c30d2b3188d6710800000000000000
+      internalID: 1688155053519551573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_110
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 381
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9a0ce94ec8a1a360800000000000000
+      internalID: 7179204884962216603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_111
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 345
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 197dd0c68873895b0800000000000000
+      internalID: -5361474297316649071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_112
+      rect:
+        serializedVersion: 2
+        x: 2512
+        y: 393
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3e679eb106cdcec0800000000000000
+      internalID: -3544959620875850178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_113
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 383
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c98dc7e46ce37c4f0800000000000000
+      internalID: -808608586648463204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_114
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 317
+        width: 61
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6e2efa25dd03f490800000000000000
+      internalID: -7713806527555031441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_115
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 343
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee147c9a8b974e710800000000000000
+      internalID: 1721634791591723502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_116
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 385
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2745b7e32cacd9e0800000000000000
+      internalID: -1595210897784748243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_117
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 375
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d170d8c59c47a3540800000000000000
+      internalID: 4988427945456240413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_118
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 363
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f30d1f49e1a087eb0800000000000000
+      internalID: -4722013082833792961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_119
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 351
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b987c17abc88ab0b0800000000000000
+      internalID: -5712102769102653285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_120
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 369
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e501ffd31e081dce0800000000000000
+      internalID: -1382181905729908642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_121
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 375
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c35e2cc59b47cd560800000000000000
+      internalID: 7339869832181114172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_122
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 369
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8870e9a5ba244770800000000000000
+      internalID: 8594040948657256590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_123
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 319
+        width: 59
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6d0039478ff1cc10800000000000000
+      internalID: 2072218260080692589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_124
+      rect:
+        serializedVersion: 2
+        x: 1934
+        y: 365
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 001e182f1ed7fcc50800000000000000
+      internalID: 6687702381058187520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_125
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 373
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ed3c3dd9cd08c440800000000000000
+      internalID: 4956226550572531174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_126
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 365
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 395718c98f6dbe610800000000000000
+      internalID: 1651650051627382163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_127
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 359
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0893c5046ee537b0800000000000000
+      internalID: -5245024077642229750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_128
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 363
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf3cd3d81ed2081f0800000000000000
+      internalID: -1044784666789428229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_129
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 333
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36ae7a827ee95da80800000000000000
+      internalID: -8442667210779399581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_130
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 359
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8559c3cfc1a090f50800000000000000
+      internalID: 6848015828000740696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_131
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 305
+        width: 65
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2acbffb6424dc71d0800000000000000
+      internalID: -3351570769774658398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_132
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 367
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d31a3bd2e148426c0800000000000000
+      internalID: -4169062089887604419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_133
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 365
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa0b7b16700cfffc0800000000000000
+      internalID: -3458834850860519254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_134
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 363
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e82c73c3beed54f0800000000000000
+      internalID: -838251499774793496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_135
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 301
+        width: 183
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca2427473ef8a8e70800000000000000
+      internalID: 9118258602638983852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_136
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 367
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb89835ea55ee34b0800000000000000
+      internalID: -5458673519770953541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_137
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 371
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 671a4378d5787d4f0800000000000000
+      internalID: -804025172692262538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_138
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 367
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0a251144adc416d0800000000000000
+      internalID: -3020563344708523510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_139
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 319
+        width: 46
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e99b4aea9b4fc55a0800000000000000
+      internalID: -6531076281257903714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_140
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 367
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce3e14066a238c930800000000000000
+      internalID: 4163633545664914412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_141
+      rect:
+        serializedVersion: 2
+        x: 2270
+        y: 359
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a43f05e1a64b1410800000000000000
+      internalID: 1448829366276404390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_142
+      rect:
+        serializedVersion: 2
+        x: 2294
+        y: 367
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4300f155e1c3716a0800000000000000
+      internalID: -6478643437974388684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_143
+      rect:
+        serializedVersion: 2
+        x: 2456
+        y: 334
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a68c65f8007ae6210800000000000000
+      internalID: 1328182560967542890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_144
+      rect:
+        serializedVersion: 2
+        x: 2472
+        y: 367
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 457c73833010870a0800000000000000
+      internalID: -6883750917096093868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_145
+      rect:
+        serializedVersion: 2
+        x: 2478
+        y: 361
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9f4ca5eee906a1f0800000000000000
+      internalID: -1034128142774808673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_146
+      rect:
+        serializedVersion: 2
+        x: 2488
+        y: 359
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b13eac0ca5b0eb90800000000000000
+      internalID: -7214566852495789648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_147
+      rect:
+        serializedVersion: 2
+        x: 2498
+        y: 357
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc49bf5bd00701a50800000000000000
+      internalID: 6489810267230934219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_148
+      rect:
+        serializedVersion: 2
+        x: 2526
+        y: 362
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e76763c4bda9f81a0800000000000000
+      internalID: -6805050245266377090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_149
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 349
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf5ad8d63dc224350800000000000000
+      internalID: 5999406940198643196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_150
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 359
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58cd56e5abac4efa0800000000000000
+      internalID: -5772265920585671547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_151
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 339
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dbbbd0ba95ffa010800000000000000
+      internalID: 1202449670272170964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_152
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 319
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b79c4b4fb9037d3d0800000000000000
+      internalID: -3182021165330413189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_153
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 349
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 057b3286108a4e8d0800000000000000
+      internalID: -2817942742831483056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_154
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 325
+        width: 19
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 534c7310423b97700800000000000000
+      internalID: 538658597668111413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_155
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 350
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99ef0e738784872a0800000000000000
+      internalID: -6739557161189179751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_156
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 303
+        width: 59
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da45d1dac1fa7fc80800000000000000
+      internalID: -8288964051453782867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_157
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 355
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa7abfb86110a6270800000000000000
+      internalID: 8244403264204548015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_158
+      rect:
+        serializedVersion: 2
+        x: 2018
+        y: 353
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d4b8bd4e2c2b4ce0800000000000000
+      internalID: -1419992680121191210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_159
+      rect:
+        serializedVersion: 2
+        x: 2046
+        y: 348
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0cf98cf322a94f20800000000000000
+      internalID: 3407432868526947341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_160
+      rect:
+        serializedVersion: 2
+        x: 2062
+        y: 335
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f15f95a1dec4c1d80800000000000000
+      internalID: -8278657433780751073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_161
+      rect:
+        serializedVersion: 2
+        x: 2324
+        y: 363
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1bdc8bafc4499620800000000000000
+      internalID: 2781329903605046042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_162
+      rect:
+        serializedVersion: 2
+        x: 2328
+        y: 353
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90243ce9d050e4ee0800000000000000
+      internalID: -1275076088442961399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_163
+      rect:
+        serializedVersion: 2
+        x: 2454
+        y: 356
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d1b9269109742e00800000000000000
+      internalID: 1019072463413817817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_164
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 340
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 256588f07bab5ac20800000000000000
+      internalID: 3217182804228462162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_165
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 323
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a149699081ea6d040800000000000000
+      internalID: 4672113081706779674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_166
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 333
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0768b72eac9b152f0800000000000000
+      internalID: -985802562383149456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_167
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 343
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af63f0dc17a5e06d0800000000000000
+      internalID: -3022378855100893446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_168
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 349
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bbc4a8fa77c480f0800000000000000
+      internalID: -1115547476709553225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_169
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 335
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1299c9a6a8a18290800000000000000
+      internalID: -7889839638409801185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_170
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 343
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bedf135940e85b5a0800000000000000
+      internalID: -6506137936332718613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_171
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 333
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 305a94ef3422a11a0800000000000000
+      internalID: -6838115408784284413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_172
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 331
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3195b062a17668fc0800000000000000
+      internalID: -3492991098974152429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_173
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 339
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dc5750494177bd00800000000000000
+      internalID: 988383202657131728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_174
+      rect:
+        serializedVersion: 2
+        x: 2102
+        y: 341
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcdd0504cc5475bd0800000000000000
+      internalID: -2641565912874820147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_175
+      rect:
+        serializedVersion: 2
+        x: 2110
+        y: 319
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4c855f06be29e3e0800000000000000
+      internalID: -2024035198050137011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_176
+      rect:
+        serializedVersion: 2
+        x: 2126
+        y: 323
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4db1d3949009b4b30800000000000000
+      internalID: 4272667041048894420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_177
+      rect:
+        serializedVersion: 2
+        x: 2312
+        y: 331
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bba164c94de9da4b0800000000000000
+      internalID: -5427507339919484229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_178
+      rect:
+        serializedVersion: 2
+        x: 2336
+        y: 341
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd767db80227f1180800000000000000
+      internalID: -9142463234428147748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_179
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 321
+        width: 45
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fca75f3e46402c0a0800000000000000
+      internalID: -6862918050791458097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_180
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 333
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42309346defddf4e0800000000000000
+      internalID: -1946153253272485084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_181
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 327
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f61343ed251bf2b10800000000000000
+      internalID: 1958979332402852207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_182
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 332
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76ceece4666278210800000000000000
+      internalID: 1335078035389344871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_183
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 335
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b7fd5980b7ab5810800000000000000
+      internalID: 1755180856451659700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_184
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 339
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b324bc50462bc8bf0800000000000000
+      internalID: -320685330786467269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_185
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 335
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d9d6b813dc9b6200800000000000000
+      internalID: 174405441050565074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_186
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 319
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eced8a7648dcbba0800000000000000
+      internalID: -6071740400386839328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_187
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 329
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bfad7535ea4c2220800000000000000
+      internalID: 2462425444570214322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_188
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 335
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b6a981b0f0818d80800000000000000
+      internalID: -8250171271106943311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_189
+      rect:
+        serializedVersion: 2
+        x: 2166
+        y: 335
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d3a883fdd981eec0800000000000000
+      internalID: -3539396245769903144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_190
+      rect:
+        serializedVersion: 2
+        x: 2229
+        y: 299
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afe085eea5b836000800000000000000
+      internalID: 28019245356420858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_191
+      rect:
+        serializedVersion: 2
+        x: 2258
+        y: 331
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57c04f4860fbf3a40800000000000000
+      internalID: 5350204917060734069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_192
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 301
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5062721878be2040800000000000000
+      internalID: 4624836693201150047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_193
+      rect:
+        serializedVersion: 2
+        x: 2302
+        y: 329
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09c73063a7421c560800000000000000
+      internalID: 7332181775646686352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_194
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 321
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e1117bde6bceec20800000000000000
+      internalID: 3237748859114426851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_195
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 319
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb03374287dd89f20800000000000000
+      internalID: 3429734624319975612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_196
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 313
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f14376cb55b74220800000000000000
+      internalID: 2470142326412100082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_197
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 317
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66c20c705cdd550b0800000000000000
+      internalID: -5740438311705498522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_198
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 318
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3126585ac7f1a91c0800000000000000
+      internalID: -4496246657762631149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_199
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 299
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ad5d6cd7fa104370800000000000000
+      internalID: 8304667364728593825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_200
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 301
+        width: 35
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01c4ca31616396200800000000000000
+      internalID: 173729529077713936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_201
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 309
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b61475de04bb65bb0800000000000000
+      internalID: -4947561253085691541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_202
+      rect:
+        serializedVersion: 2
+        x: 2174
+        y: 319
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61807b7210213b6b0800000000000000
+      internalID: -5281858141804885994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_203
+      rect:
+        serializedVersion: 2
+        x: 2216
+        y: 319
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4f32e822b1dd1110800000000000000
+      internalID: 1233372436089683786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_204
+      rect:
+        serializedVersion: 2
+        x: 2344
+        y: 319
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e62c98a5112a2c70800000000000000
+      internalID: 8946999986631747304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_205
+      rect:
+        serializedVersion: 2
+        x: 2350
+        y: 319
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39b67c662d1c1e420800000000000000
+      internalID: 2657618364536941459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_206
+      rect:
+        serializedVersion: 2
+        x: 2358
+        y: 319
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 343e3b38dc4825530800000000000000
+      internalID: 3842279450313220931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_207
+      rect:
+        serializedVersion: 2
+        x: 2368
+        y: 315
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6290463d10f7c1b10800000000000000
+      internalID: 1953575984190196006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_208
+      rect:
+        serializedVersion: 2
+        x: 2392
+        y: 328
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b21e6aad525abe2f0800000000000000
+      internalID: -942478115003244245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_209
+      rect:
+        serializedVersion: 2
+        x: 2392
+        y: 309
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ec10bfba1269cd20800000000000000
+      internalID: 3299276069050260710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_210
+      rect:
+        serializedVersion: 2
+        x: 2406
+        y: 318
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6812a1c8befc41180800000000000000
+      internalID: -9145456332707847802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_211
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 313
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1237b52673750f5d0800000000000000
+      internalID: -3030826653835365599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_212
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 302
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f74b4c982248effb0800000000000000
+      internalID: -4612103684505684865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_213
+      rect:
+        serializedVersion: 2
+        x: 1678
+        y: 301
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cee0863719b86c5c0800000000000000
+      internalID: -4195512546026320148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_214
+      rect:
+        serializedVersion: 2
+        x: 2191
+        y: 303
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59ebe145a25c5c650800000000000000
+      internalID: 6252620443264401045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_215
+      rect:
+        serializedVersion: 2
+        x: 2262
+        y: 299
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 075943ebdf2969420800000000000000
+      internalID: 2636456250387502448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_216
+      rect:
+        serializedVersion: 2
+        x: 2333
+        y: 311
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bd2c29580a168a30800000000000000
+      internalID: 4217086724237176246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_217
+      rect:
+        serializedVersion: 2
+        x: 2376
+        y: 303
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c83bb5231c9d28a0800000000000000
+      internalID: -6328230295334340411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_218
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 295
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b072f48e58a1de30800000000000000
+      internalID: 4526584224394932406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_219
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 289
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d16132f5c6f86c40800000000000000
+      internalID: 5505921874492744146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_220
+      rect:
+        serializedVersion: 2
+        x: 2198
+        y: 247
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 508ff62e2e6f29e90800000000000000
+      internalID: -7020277414795151355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_221
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 151
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fb667dd59ac5ec90800000000000000
+      internalID: -7141078889111589895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_222
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 55
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82635c2f6e46e5ae0800000000000000
+      internalID: -1558697477945346520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICE_Breeze_223
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 36
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9f1ea5a48b758450800000000000000
+      internalID: 6090409880734015389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ICE_Breeze_0: 5410837542711885225
+      ICE_Breeze_1: -980691775262138133
+      ICE_Breeze_10: -129129568494463310
+      ICE_Breeze_100: 3331148128640157067
+      ICE_Breeze_101: -5404042208833235825
+      ICE_Breeze_102: -265868675426761830
+      ICE_Breeze_103: 460055984406870491
+      ICE_Breeze_104: 3052580183814890268
+      ICE_Breeze_105: -8370441528426812765
+      ICE_Breeze_106: 566661182917766298
+      ICE_Breeze_107: 1749935314000938559
+      ICE_Breeze_108: 4060399488160357983
+      ICE_Breeze_109: 1688155053519551573
+      ICE_Breeze_11: -3035684028893258843
+      ICE_Breeze_110: 7179204884962216603
+      ICE_Breeze_111: -5361474297316649071
+      ICE_Breeze_112: -3544959620875850178
+      ICE_Breeze_113: -808608586648463204
+      ICE_Breeze_114: -7713806527555031441
+      ICE_Breeze_115: 1721634791591723502
+      ICE_Breeze_116: -1595210897784748243
+      ICE_Breeze_117: 4988427945456240413
+      ICE_Breeze_118: -4722013082833792961
+      ICE_Breeze_119: -5712102769102653285
+      ICE_Breeze_12: -4609145299489724999
+      ICE_Breeze_120: -1382181905729908642
+      ICE_Breeze_121: 7339869832181114172
+      ICE_Breeze_122: 8594040948657256590
+      ICE_Breeze_123: 2072218260080692589
+      ICE_Breeze_124: 6687702381058187520
+      ICE_Breeze_125: 4956226550572531174
+      ICE_Breeze_126: 1651650051627382163
+      ICE_Breeze_127: -5245024077642229750
+      ICE_Breeze_128: -1044784666789428229
+      ICE_Breeze_129: -8442667210779399581
+      ICE_Breeze_13: 3156325293630320509
+      ICE_Breeze_130: 6848015828000740696
+      ICE_Breeze_131: -3351570769774658398
+      ICE_Breeze_132: -4169062089887604419
+      ICE_Breeze_133: -3458834850860519254
+      ICE_Breeze_134: -838251499774793496
+      ICE_Breeze_135: 9118258602638983852
+      ICE_Breeze_136: -5458673519770953541
+      ICE_Breeze_137: -804025172692262538
+      ICE_Breeze_138: -3020563344708523510
+      ICE_Breeze_139: -6531076281257903714
+      ICE_Breeze_14: 3625368374095563316
+      ICE_Breeze_140: 4163633545664914412
+      ICE_Breeze_141: 1448829366276404390
+      ICE_Breeze_142: -6478643437974388684
+      ICE_Breeze_143: 1328182560967542890
+      ICE_Breeze_144: -6883750917096093868
+      ICE_Breeze_145: -1034128142774808673
+      ICE_Breeze_146: -7214566852495789648
+      ICE_Breeze_147: 6489810267230934219
+      ICE_Breeze_148: -6805050245266377090
+      ICE_Breeze_149: 5999406940198643196
+      ICE_Breeze_15: 102146483077345456
+      ICE_Breeze_150: -5772265920585671547
+      ICE_Breeze_151: 1202449670272170964
+      ICE_Breeze_152: -3182021165330413189
+      ICE_Breeze_153: -2817942742831483056
+      ICE_Breeze_154: 538658597668111413
+      ICE_Breeze_155: -6739557161189179751
+      ICE_Breeze_156: -8288964051453782867
+      ICE_Breeze_157: 8244403264204548015
+      ICE_Breeze_158: -1419992680121191210
+      ICE_Breeze_159: 3407432868526947341
+      ICE_Breeze_16: 8319072871211395492
+      ICE_Breeze_160: -8278657433780751073
+      ICE_Breeze_161: 2781329903605046042
+      ICE_Breeze_162: -1275076088442961399
+      ICE_Breeze_163: 1019072463413817817
+      ICE_Breeze_164: 3217182804228462162
+      ICE_Breeze_165: 4672113081706779674
+      ICE_Breeze_166: -985802562383149456
+      ICE_Breeze_167: -3022378855100893446
+      ICE_Breeze_168: -1115547476709553225
+      ICE_Breeze_169: -7889839638409801185
+      ICE_Breeze_17: -7890638501008721852
+      ICE_Breeze_170: -6506137936332718613
+      ICE_Breeze_171: -6838115408784284413
+      ICE_Breeze_172: -3492991098974152429
+      ICE_Breeze_173: 988383202657131728
+      ICE_Breeze_174: -2641565912874820147
+      ICE_Breeze_175: -2024035198050137011
+      ICE_Breeze_176: 4272667041048894420
+      ICE_Breeze_177: -5427507339919484229
+      ICE_Breeze_178: -9142463234428147748
+      ICE_Breeze_179: -6862918050791458097
+      ICE_Breeze_18: -6194773541281583957
+      ICE_Breeze_180: -1946153253272485084
+      ICE_Breeze_181: 1958979332402852207
+      ICE_Breeze_182: 1335078035389344871
+      ICE_Breeze_183: 1755180856451659700
+      ICE_Breeze_184: -320685330786467269
+      ICE_Breeze_185: 174405441050565074
+      ICE_Breeze_186: -6071740400386839328
+      ICE_Breeze_187: 2462425444570214322
+      ICE_Breeze_188: -8250171271106943311
+      ICE_Breeze_189: -3539396245769903144
+      ICE_Breeze_19: 2067361114353047638
+      ICE_Breeze_190: 28019245356420858
+      ICE_Breeze_191: 5350204917060734069
+      ICE_Breeze_192: 4624836693201150047
+      ICE_Breeze_193: 7332181775646686352
+      ICE_Breeze_194: 3237748859114426851
+      ICE_Breeze_195: 3429734624319975612
+      ICE_Breeze_196: 2470142326412100082
+      ICE_Breeze_197: -5740438311705498522
+      ICE_Breeze_198: -4496246657762631149
+      ICE_Breeze_199: 8304667364728593825
+      ICE_Breeze_2: -8232440794797789895
+      ICE_Breeze_20: -6340193522182476900
+      ICE_Breeze_200: 173729529077713936
+      ICE_Breeze_201: -4947561253085691541
+      ICE_Breeze_202: -5281858141804885994
+      ICE_Breeze_203: 1233372436089683786
+      ICE_Breeze_204: 8946999986631747304
+      ICE_Breeze_205: 2657618364536941459
+      ICE_Breeze_206: 3842279450313220931
+      ICE_Breeze_207: 1953575984190196006
+      ICE_Breeze_208: -942478115003244245
+      ICE_Breeze_209: 3299276069050260710
+      ICE_Breeze_21: 1140641929948521144
+      ICE_Breeze_210: -9145456332707847802
+      ICE_Breeze_211: -3030826653835365599
+      ICE_Breeze_212: -4612103684505684865
+      ICE_Breeze_213: -4195512546026320148
+      ICE_Breeze_214: 6252620443264401045
+      ICE_Breeze_215: 2636456250387502448
+      ICE_Breeze_216: 4217086724237176246
+      ICE_Breeze_217: -6328230295334340411
+      ICE_Breeze_218: 4526584224394932406
+      ICE_Breeze_219: 5505921874492744146
+      ICE_Breeze_22: -5820148077201720476
+      ICE_Breeze_220: -7020277414795151355
+      ICE_Breeze_221: -7141078889111589895
+      ICE_Breeze_222: -1558697477945346520
+      ICE_Breeze_223: 6090409880734015389
+      ICE_Breeze_23: -2454486079082642356
+      ICE_Breeze_24: -4545146950556231985
+      ICE_Breeze_25: 3594774218244775100
+      ICE_Breeze_26: 6774757997598951272
+      ICE_Breeze_27: -106089746892350212
+      ICE_Breeze_28: -895968890676122746
+      ICE_Breeze_29: 6172236836989323033
+      ICE_Breeze_3: 2343097275300786223
+      ICE_Breeze_30: -3096468638289333126
+      ICE_Breeze_31: -3262163961595007788
+      ICE_Breeze_32: 5797089254308398999
+      ICE_Breeze_33: -1818688855255064628
+      ICE_Breeze_34: -6308092450114470523
+      ICE_Breeze_35: 134388124666379485
+      ICE_Breeze_36: 7273828109727501296
+      ICE_Breeze_37: 1227872921414416313
+      ICE_Breeze_38: 5712862352860718172
+      ICE_Breeze_39: -4404645918774687512
+      ICE_Breeze_4: -7347910687180538698
+      ICE_Breeze_40: 2223702924666243776
+      ICE_Breeze_41: 1602987088576605825
+      ICE_Breeze_42: -8254985788782691213
+      ICE_Breeze_43: 1189540070600648824
+      ICE_Breeze_44: 271107677038901163
+      ICE_Breeze_45: -1688590390421742813
+      ICE_Breeze_46: -7762595146895050641
+      ICE_Breeze_47: -7531680631330247190
+      ICE_Breeze_48: 6440904796209337277
+      ICE_Breeze_49: 1824677452126103270
+      ICE_Breeze_5: -9085152818148083972
+      ICE_Breeze_50: -3025317052302949895
+      ICE_Breeze_51: -4604121913513453834
+      ICE_Breeze_52: 3863438967349542665
+      ICE_Breeze_53: -6417615967646396235
+      ICE_Breeze_54: -8333366159619330217
+      ICE_Breeze_55: -730915593680113552
+      ICE_Breeze_56: -7022188888604398549
+      ICE_Breeze_57: 4515582664357406142
+      ICE_Breeze_58: 2819643368306220327
+      ICE_Breeze_59: 6242181367002467660
+      ICE_Breeze_6: 2564844731133603781
+      ICE_Breeze_60: 2222222089157304936
+      ICE_Breeze_61: -1808484841386903866
+      ICE_Breeze_62: 2448092790131749386
+      ICE_Breeze_63: -9146413575406745590
+      ICE_Breeze_64: 6402827490351205630
+      ICE_Breeze_65: -7156853567002848083
+      ICE_Breeze_66: 1165104660818733374
+      ICE_Breeze_67: -6149523656348470112
+      ICE_Breeze_68: -5611987688267683790
+      ICE_Breeze_69: -6030017700342467826
+      ICE_Breeze_7: -7497103109046288314
+      ICE_Breeze_70: 5212873981337089643
+      ICE_Breeze_71: 4001442819377779773
+      ICE_Breeze_72: -118908772107240623
+      ICE_Breeze_73: -6206050468375190215
+      ICE_Breeze_74: -8750331739719473148
+      ICE_Breeze_75: 3806978357408400479
+      ICE_Breeze_76: 6300835521553565197
+      ICE_Breeze_77: 210555698229833546
+      ICE_Breeze_78: 8808054172758922045
+      ICE_Breeze_79: 6135438928864092072
+      ICE_Breeze_8: -9102755261418037179
+      ICE_Breeze_80: -7348164325925381138
+      ICE_Breeze_81: -6896211447909595736
+      ICE_Breeze_82: -4964778811688235066
+      ICE_Breeze_83: -6606142949720411997
+      ICE_Breeze_84: 1467512060726733831
+      ICE_Breeze_85: -5366356818080007213
+      ICE_Breeze_86: 7154328213920318551
+      ICE_Breeze_87: 5591620836227728044
+      ICE_Breeze_88: 4662520249674031088
+      ICE_Breeze_89: 4154683519209818092
+      ICE_Breeze_9: 4856420460985885248
+      ICE_Breeze_90: 3223329738628996251
+      ICE_Breeze_91: 2324051441578587304
+      ICE_Breeze_92: 1495075726246442154
+      ICE_Breeze_93: 3077793803608825236
+      ICE_Breeze_94: 8952774954211127613
+      ICE_Breeze_95: 4282025964984840969
+      ICE_Breeze_96: -3648067437821794020
+      ICE_Breeze_97: 2316652965994668613
+      ICE_Breeze_98: 525241032944258279
+      ICE_Breeze_99: 1027941679366841767
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

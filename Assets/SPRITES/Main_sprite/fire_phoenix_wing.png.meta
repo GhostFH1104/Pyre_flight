@@ -1,0 +1,821 @@
+fileFormatVersion: 2
+guid: cda8f82bb93b667458c0a630d8c40ffd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5029108357691942939
+    second: fire_phoenix_wing_0
+  - first:
+      213: 2532062034995294415
+    second: fire_phoenix_wing_1
+  - first:
+      213: -1972203895511062442
+    second: fire_phoenix_wing_2
+  - first:
+      213: -8913500228509867316
+    second: fire_phoenix_wing_3
+  - first:
+      213: 2454278487068592469
+    second: fire_phoenix_wing_4
+  - first:
+      213: -345179225154527640
+    second: fire_phoenix_wing_5
+  - first:
+      213: -2450209678819680250
+    second: fire_phoenix_wing_6
+  - first:
+      213: -1900764994059909220
+    second: fire_phoenix_wing_7
+  - first:
+      213: -6505936297314159085
+    second: fire_phoenix_wing_8
+  - first:
+      213: 7071298104757064841
+    second: fire_phoenix_wing_9
+  - first:
+      213: 6429327599728925121
+    second: fire_phoenix_wing_10
+  - first:
+      213: 2543577949975593277
+    second: fire_phoenix_wing_11
+  - first:
+      213: 2899560404393910839
+    second: fire_phoenix_wing_12
+  - first:
+      213: -1324746992304753300
+    second: fire_phoenix_wing_13
+  - first:
+      213: -8473193089371050561
+    second: fire_phoenix_wing_14
+  - first:
+      213: 9109487947338960181
+    second: fire_phoenix_wing_15
+  - first:
+      213: 7568000888154136109
+    second: fire_phoenix_wing_16
+  - first:
+      213: -5102474061122317636
+    second: fire_phoenix_wing_17
+  - first:
+      213: -1698045812239584829
+    second: fire_phoenix_wing_18
+  - first:
+      213: -664609424814941169
+    second: fire_phoenix_wing_19
+  - first:
+      213: -7906139887538312966
+    second: fire_phoenix_wing_20
+  - first:
+      213: 189892103106766029
+    second: fire_phoenix_wing_21
+  - first:
+      213: -5471544101770330753
+    second: fire_phoenix_wing_22
+  - first:
+      213: -5742122636264854978
+    second: fire_phoenix_wing_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fire_phoenix_wing_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1907
+        height: 1902
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e7d2d21894053ab0800000000000000
+      internalID: -5029108357691942939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_phoenix_wing_1
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 1655
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc0b5216101b32320800000000000000
+      internalID: 2532062034995294415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_phoenix_wing_2
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1569
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 658eb67910351a4e0800000000000000
+      internalID: -1972203895511062442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_phoenix_wing_3
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1234
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc26e4694c2ec4480800000000000000
+      internalID: -8913500228509867316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_phoenix_wing_4
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1233
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5594b99d7495f0220800000000000000
+      internalID: 2454278487068592469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_phoenix_wing_5
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1151
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86ed1d4d25da53bf0800000000000000
+      internalID: -345179225154527640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_phoenix_wing_6
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1131
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 600aab4674b1ffdd0800000000000000
+      internalID: -2450209678819680250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_phoenix_wing_7
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1135
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c97cf8ffe402f95e0800000000000000
+      internalID: -1900764994059909220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_phoenix_wing_8
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 959
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 316f443586546b5a0800000000000000
+      internalID: -6505936297314159085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_phoenix_wing_9
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 935
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98410f2392c422260800000000000000
+      internalID: 7071298104757064841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_phoenix_wing_10
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 775
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c9157e436f893950800000000000000
+      internalID: 6429327599728925121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_phoenix_wing_11
+      rect:
+        serializedVersion: 2
+        x: 1774
+        y: 769
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d31cfc64baa9c4320800000000000000
+      internalID: 2543577949975593277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_phoenix_wing_12
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 746
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 732efa443de4d3820800000000000000
+      internalID: 2899560404393910839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_phoenix_wing_13
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 625
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c65786a11ad8d9de0800000000000000
+      internalID: -1324746992304753300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_phoenix_wing_14
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 327
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbd6eb237cb296a80800000000000000
+      internalID: -8473193089371050561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_phoenix_wing_15
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 329
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53d47d226076b6e70800000000000000
+      internalID: 9109487947338960181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_phoenix_wing_16
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 265
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2e9446f5b0f60960800000000000000
+      internalID: 7568000888154136109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_phoenix_wing_17
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 247
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb2d82f10ee5039b0800000000000000
+      internalID: -5102474061122317636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_phoenix_wing_18
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 241
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c1be1594545f68e0800000000000000
+      internalID: -1698045812239584829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_phoenix_wing_19
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 182
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0c5787df35d6c6f0800000000000000
+      internalID: -664609424814941169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_phoenix_wing_20
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 171
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af86bba29afb74290800000000000000
+      internalID: -7906139887538312966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_phoenix_wing_21
+      rect:
+        serializedVersion: 2
+        x: 1798
+        y: 149
+        width: 6
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc4a4579cd1a2a200800000000000000
+      internalID: 189892103106766029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_phoenix_wing_22
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 31
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7d781101ab2114b0800000000000000
+      internalID: -5471544101770330753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire_phoenix_wing_23
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 31
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3a24b8a2e1ef40b0800000000000000
+      internalID: -5742122636264854978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      fire_phoenix_wing_0: -5029108357691942939
+      fire_phoenix_wing_1: 2532062034995294415
+      fire_phoenix_wing_10: 6429327599728925121
+      fire_phoenix_wing_11: 2543577949975593277
+      fire_phoenix_wing_12: 2899560404393910839
+      fire_phoenix_wing_13: -1324746992304753300
+      fire_phoenix_wing_14: -8473193089371050561
+      fire_phoenix_wing_15: 9109487947338960181
+      fire_phoenix_wing_16: 7568000888154136109
+      fire_phoenix_wing_17: -5102474061122317636
+      fire_phoenix_wing_18: -1698045812239584829
+      fire_phoenix_wing_19: -664609424814941169
+      fire_phoenix_wing_2: -1972203895511062442
+      fire_phoenix_wing_20: -7906139887538312966
+      fire_phoenix_wing_21: 189892103106766029
+      fire_phoenix_wing_22: -5471544101770330753
+      fire_phoenix_wing_23: -5742122636264854978
+      fire_phoenix_wing_3: -8913500228509867316
+      fire_phoenix_wing_4: 2454278487068592469
+      fire_phoenix_wing_5: -345179225154527640
+      fire_phoenix_wing_6: -2450209678819680250
+      fire_phoenix_wing_7: -1900764994059909220
+      fire_phoenix_wing_8: -6505936297314159085
+      fire_phoenix_wing_9: 7071298104757064841
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

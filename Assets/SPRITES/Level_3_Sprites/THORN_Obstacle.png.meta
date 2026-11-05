@@ -1,0 +1,704 @@
+fileFormatVersion: 2
+guid: 4f76fa401dcfee24e9ba9281eb1c7d3a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4910114894432688647
+    second: THORN_Obstacle_0
+  - first:
+      213: 4833612925488802777
+    second: THORN_Obstacle_1
+  - first:
+      213: -440389498583916179
+    second: THORN_Obstacle_2
+  - first:
+      213: -8676963727458504026
+    second: THORN_Obstacle_3
+  - first:
+      213: 7489824017773951026
+    second: THORN_Obstacle_4
+  - first:
+      213: -4467672143158055021
+    second: THORN_Obstacle_5
+  - first:
+      213: 5600406559970912131
+    second: THORN_Obstacle_6
+  - first:
+      213: 7346778051419953571
+    second: THORN_Obstacle_7
+  - first:
+      213: 6540152746217372431
+    second: THORN_Obstacle_8
+  - first:
+      213: 9112156902175872202
+    second: THORN_Obstacle_9
+  - first:
+      213: 157047191488811419
+    second: THORN_Obstacle_10
+  - first:
+      213: 1310723320722291127
+    second: THORN_Obstacle_11
+  - first:
+      213: 6072987714086163937
+    second: THORN_Obstacle_12
+  - first:
+      213: -4495410739348588305
+    second: THORN_Obstacle_13
+  - first:
+      213: 1212546431540725546
+    second: THORN_Obstacle_14
+  - first:
+      213: 1287238552496854926
+    second: THORN_Obstacle_15
+  - first:
+      213: 3486842515260769193
+    second: THORN_Obstacle_16
+  - first:
+      213: 843288481079917273
+    second: THORN_Obstacle_17
+  - first:
+      213: -5641073173152406002
+    second: THORN_Obstacle_18
+  - first:
+      213: 5012875242843374811
+    second: THORN_Obstacle_19
+  - first:
+      213: -7559054201567294716
+    second: THORN_Obstacle_20
+  - first:
+      213: 3967886579578744052
+    second: THORN_Obstacle_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: THORN_Obstacle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1489
+        height: 2304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70ad3094b7b342440800000000000000
+      internalID: 4910114894432688647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THORN_Obstacle_1
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1901
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9db2f7d9851741340800000000000000
+      internalID: 4833612925488802777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THORN_Obstacle_2
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1843
+        width: 323
+        height: 435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d61e716951c63e9f0800000000000000
+      internalID: -440389498583916179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THORN_Obstacle_3
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 2049
+        width: 45
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a2f2ef567b359780800000000000000
+      internalID: -8676963727458504026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THORN_Obstacle_4
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1551
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 238fa99e24331f760800000000000000
+      internalID: 7489824017773951026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THORN_Obstacle_5
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1386
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39fe7264bd3aff1c0800000000000000
+      internalID: -4467672143158055021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THORN_Obstacle_6
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 1607
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38765d41814a8bd40800000000000000
+      internalID: 5600406559970912131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THORN_Obstacle_7
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 949
+        width: 281
+        height: 877
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a9d58e76bff4f560800000000000000
+      internalID: 7346778051419953571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THORN_Obstacle_8
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 1635
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0bf41f754a43ca50800000000000000
+      internalID: 6540152746217372431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THORN_Obstacle_9
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 1295
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac411db9c62e47e70800000000000000
+      internalID: 9112156902175872202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THORN_Obstacle_10
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 899
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b91d9ada691fd2200800000000000000
+      internalID: 157047191488811419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THORN_Obstacle_11
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 881
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b9f87a6aef903210800000000000000
+      internalID: 1310723320722291127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THORN_Obstacle_12
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 867
+        width: 9
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e5da6f5626974450800000000000000
+      internalID: 6072987714086163937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THORN_Obstacle_13
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 863
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe8b6a110c71d91c0800000000000000
+      internalID: -4495410739348588305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THORN_Obstacle_14
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 847
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2707ad1e84d3d010800000000000000
+      internalID: 1212546431540725546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THORN_Obstacle_15
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 769
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8753c6b4a03dd110800000000000000
+      internalID: 1287238552496854926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THORN_Obstacle_16
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 497
+        width: 41
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a309d52bc0c36030800000000000000
+      internalID: 3486842515260769193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THORN_Obstacle_17
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 231
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9da72f5d766f3bb00800000000000000
+      internalID: 843288481079917273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THORN_Obstacle_18
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 193
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e06e34236d1e6b1b0800000000000000
+      internalID: -5641073173152406002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THORN_Obstacle_19
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 195
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd48709597f419540800000000000000
+      internalID: 5012875242843374811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THORN_Obstacle_20
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 117
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40b48a5d048d81790800000000000000
+      internalID: -7559054201567294716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THORN_Obstacle_21
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 105
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fca4d442d3c01730800000000000000
+      internalID: 3967886579578744052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      THORN_Obstacle_0: 4910114894432688647
+      THORN_Obstacle_1: 4833612925488802777
+      THORN_Obstacle_10: 157047191488811419
+      THORN_Obstacle_11: 1310723320722291127
+      THORN_Obstacle_12: 6072987714086163937
+      THORN_Obstacle_13: -4495410739348588305
+      THORN_Obstacle_14: 1212546431540725546
+      THORN_Obstacle_15: 1287238552496854926
+      THORN_Obstacle_16: 3486842515260769193
+      THORN_Obstacle_17: 843288481079917273
+      THORN_Obstacle_18: -5641073173152406002
+      THORN_Obstacle_19: 5012875242843374811
+      THORN_Obstacle_2: -440389498583916179
+      THORN_Obstacle_20: -7559054201567294716
+      THORN_Obstacle_21: 3967886579578744052
+      THORN_Obstacle_3: -8676963727458504026
+      THORN_Obstacle_4: 7489824017773951026
+      THORN_Obstacle_5: -4467672143158055021
+      THORN_Obstacle_6: 5600406559970912131
+      THORN_Obstacle_7: 7346778051419953571
+      THORN_Obstacle_8: 6540152746217372431
+      THORN_Obstacle_9: 9112156902175872202
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

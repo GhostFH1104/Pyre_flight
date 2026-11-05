@@ -1,0 +1,886 @@
+fileFormatVersion: 2
+guid: 14366ab872f55bb47804971f815ec0c7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5818968488010580517
+    second: Breeze_0
+  - first:
+      213: 1716225458095217330
+    second: Breeze_1
+  - first:
+      213: 6693117849513119861
+    second: Breeze_2
+  - first:
+      213: -6960100601054887874
+    second: Breeze_3
+  - first:
+      213: 5760612374130421781
+    second: Breeze_4
+  - first:
+      213: -7424992342992168302
+    second: Breeze_5
+  - first:
+      213: -1440849767986467157
+    second: Breeze_6
+  - first:
+      213: 8394497324464550514
+    second: Breeze_7
+  - first:
+      213: -6176224509268884704
+    second: Breeze_8
+  - first:
+      213: 3244605129883883785
+    second: Breeze_9
+  - first:
+      213: -495009350190807279
+    second: Breeze_10
+  - first:
+      213: 9032920048454415117
+    second: Breeze_11
+  - first:
+      213: 4004951422486179870
+    second: Breeze_12
+  - first:
+      213: 6676572498108852186
+    second: Breeze_13
+  - first:
+      213: 1987991469607702566
+    second: Breeze_14
+  - first:
+      213: -3118559694865806530
+    second: Breeze_15
+  - first:
+      213: 4781505110998045326
+    second: Breeze_16
+  - first:
+      213: 8122240208707400428
+    second: Breeze_17
+  - first:
+      213: 615963001822584613
+    second: Breeze_18
+  - first:
+      213: -6265321601593860053
+    second: Breeze_19
+  - first:
+      213: -5449872830879757719
+    second: Breeze_20
+  - first:
+      213: 3720383167639911553
+    second: Breeze_21
+  - first:
+      213: 1488730740234748866
+    second: Breeze_22
+  - first:
+      213: -8922931213968063654
+    second: Breeze_23
+  - first:
+      213: -4353059116699401869
+    second: Breeze_24
+  - first:
+      213: -8454869139078890152
+    second: Breeze_25
+  - first:
+      213: -3291502297273807741
+    second: Breeze_26
+  - first:
+      213: -5897958652326624771
+    second: Breeze_27
+  - first:
+      213: 298870704681288979
+    second: Breeze_28
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Breeze_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 49
+        width: 2535
+        height: 1259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bddffe88dfede3fa0800000000000000
+      internalID: -5818968488010580517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Breeze_1
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1111
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ba5f3016f141d710800000000000000
+      internalID: 1716225458095217330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Breeze_2
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1105
+        width: 337
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5705e04f83bb2ec50800000000000000
+      internalID: 6693117849513119861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Breeze_3
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1119
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3004292161c86f90800000000000000
+      internalID: -6960100601054887874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Breeze_4
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1055
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51073c8ee6ec1ff40800000000000000
+      internalID: 5760612374130421781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Breeze_5
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1009
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29ad4f7adc025f890800000000000000
+      internalID: -7424992342992168302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Breeze_6
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 1026
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bae667c15c2110ce0800000000000000
+      internalID: -1440849767986467157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Breeze_7
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1007
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2723da437de3f7470800000000000000
+      internalID: 8394497324464550514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Breeze_8
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 1007
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02387f72884a94aa0800000000000000
+      internalID: -6176224509268884704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Breeze_9
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1015
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 909932bcc27270d20800000000000000
+      internalID: 3244605129883883785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Breeze_10
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 1009
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11741616e9f5129f0800000000000000
+      internalID: -495009350190807279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Breeze_11
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1009
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0331a4fce06b5d70800000000000000
+      internalID: 9032920048454415117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Breeze_12
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 999
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e10fbff7912749730800000000000000
+      internalID: 4004951422486179870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Breeze_13
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 997
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad7abe22053f7ac50800000000000000
+      internalID: 6676572498108852186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Breeze_14
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 997
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 620597275b3c69b10800000000000000
+      internalID: 1987991469607702566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Breeze_15
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 991
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3b4ca8fa76a8b4d0800000000000000
+      internalID: -3118559694865806530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Breeze_16
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 991
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e82d0c0a0915b5240800000000000000
+      internalID: 4781505110998045326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Breeze_17
+      rect:
+        serializedVersion: 2
+        x: 2368
+        y: 943
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce23664bf6ef7b070800000000000000
+      internalID: 8122240208707400428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Breeze_18
+      rect:
+        serializedVersion: 2
+        x: 2468
+        y: 943
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52f1b6e26175c8800800000000000000
+      internalID: 615963001822584613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Breeze_19
+      rect:
+        serializedVersion: 2
+        x: 2494
+        y: 942
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b20aa6dc23b1d09a0800000000000000
+      internalID: -6265321601593860053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Breeze_20
+      rect:
+        serializedVersion: 2
+        x: 2504
+        y: 943
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96a0c54f8892e54b0800000000000000
+      internalID: -5449872830879757719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Breeze_21
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 451
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18cf48f87c471a330800000000000000
+      internalID: 3720383167639911553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Breeze_22
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 415
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c385e978b809a410800000000000000
+      internalID: 1488730740234748866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Breeze_23
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 381
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a53403c26516b2480800000000000000
+      internalID: -8922931213968063654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Breeze_24
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 383
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3714bdefbc3d693c0800000000000000
+      internalID: -4353059116699401869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Breeze_25
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 387
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85d3ac650554aaa80800000000000000
+      internalID: -8454869139078890152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Breeze_26
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 385
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38ccc99891c3252d0800000000000000
+      internalID: -3291502297273807741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Breeze_27
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 367
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df1412cbadd362ea0800000000000000
+      internalID: -5897958652326624771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Breeze_28
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 319
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3158c4a825dc52400800000000000000
+      internalID: 298870704681288979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Breeze_0: -5818968488010580517
+      Breeze_1: 1716225458095217330
+      Breeze_10: -495009350190807279
+      Breeze_11: 9032920048454415117
+      Breeze_12: 4004951422486179870
+      Breeze_13: 6676572498108852186
+      Breeze_14: 1987991469607702566
+      Breeze_15: -3118559694865806530
+      Breeze_16: 4781505110998045326
+      Breeze_17: 8122240208707400428
+      Breeze_18: 615963001822584613
+      Breeze_19: -6265321601593860053
+      Breeze_2: 6693117849513119861
+      Breeze_20: -5449872830879757719
+      Breeze_21: 3720383167639911553
+      Breeze_22: 1488730740234748866
+      Breeze_23: -8922931213968063654
+      Breeze_24: -4353059116699401869
+      Breeze_25: -8454869139078890152
+      Breeze_26: -3291502297273807741
+      Breeze_27: -5897958652326624771
+      Breeze_28: 298870704681288979
+      Breeze_3: -6960100601054887874
+      Breeze_4: 5760612374130421781
+      Breeze_5: -7424992342992168302
+      Breeze_6: -1440849767986467157
+      Breeze_7: 8394497324464550514
+      Breeze_8: -6176224509268884704
+      Breeze_9: 3244605129883883785
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,4214 @@
+fileFormatVersion: 2
+guid: 1e38125948c52e84e80ac3a4d7458453
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7939040422514914453
+    second: LAVA_Coin_0
+  - first:
+      213: -8364092964409646011
+    second: LAVA_Coin_1
+  - first:
+      213: 105089360669178740
+    second: LAVA_Coin_2
+  - first:
+      213: 4212523112471608306
+    second: LAVA_Coin_3
+  - first:
+      213: 7431242278240588628
+    second: LAVA_Coin_4
+  - first:
+      213: 1833882442679580070
+    second: LAVA_Coin_5
+  - first:
+      213: -6016585083377145026
+    second: LAVA_Coin_6
+  - first:
+      213: -8313820024241745289
+    second: LAVA_Coin_7
+  - first:
+      213: -6532089183306057758
+    second: LAVA_Coin_8
+  - first:
+      213: 4812291960312988160
+    second: LAVA_Coin_9
+  - first:
+      213: -5796074914694818581
+    second: LAVA_Coin_10
+  - first:
+      213: 528651541287458625
+    second: LAVA_Coin_11
+  - first:
+      213: 1053915475925203286
+    second: LAVA_Coin_12
+  - first:
+      213: 8167766482769503822
+    second: LAVA_Coin_13
+  - first:
+      213: 606007714599118882
+    second: LAVA_Coin_14
+  - first:
+      213: -6539931431618320331
+    second: LAVA_Coin_15
+  - first:
+      213: 7360737211454754517
+    second: LAVA_Coin_16
+  - first:
+      213: 1397968194133497628
+    second: LAVA_Coin_17
+  - first:
+      213: -8051445309976157105
+    second: LAVA_Coin_18
+  - first:
+      213: 3307660519801298192
+    second: LAVA_Coin_19
+  - first:
+      213: -2211306635733146115
+    second: LAVA_Coin_20
+  - first:
+      213: -5371272604665856578
+    second: LAVA_Coin_21
+  - first:
+      213: -3373755347757029241
+    second: LAVA_Coin_22
+  - first:
+      213: -4665753281695232400
+    second: LAVA_Coin_23
+  - first:
+      213: 2586933277482284184
+    second: LAVA_Coin_24
+  - first:
+      213: -7974120639191806135
+    second: LAVA_Coin_25
+  - first:
+      213: -8557731119604421946
+    second: LAVA_Coin_26
+  - first:
+      213: 3564603229222750783
+    second: LAVA_Coin_27
+  - first:
+      213: 807950575373277354
+    second: LAVA_Coin_28
+  - first:
+      213: -7954937423271708238
+    second: LAVA_Coin_29
+  - first:
+      213: -5713547256585942041
+    second: LAVA_Coin_30
+  - first:
+      213: 8914685694225553860
+    second: LAVA_Coin_31
+  - first:
+      213: 3968412656627399394
+    second: LAVA_Coin_32
+  - first:
+      213: 6899396336368411759
+    second: LAVA_Coin_33
+  - first:
+      213: -7278636726191056000
+    second: LAVA_Coin_34
+  - first:
+      213: -3525343516183072287
+    second: LAVA_Coin_35
+  - first:
+      213: -2201799490418417488
+    second: LAVA_Coin_36
+  - first:
+      213: 3110192326734142965
+    second: LAVA_Coin_37
+  - first:
+      213: -2057925051576200904
+    second: LAVA_Coin_38
+  - first:
+      213: 6063337970517538366
+    second: LAVA_Coin_39
+  - first:
+      213: 8734235360483520472
+    second: LAVA_Coin_40
+  - first:
+      213: 4816084185314031582
+    second: LAVA_Coin_41
+  - first:
+      213: -4233357107363824062
+    second: LAVA_Coin_42
+  - first:
+      213: -8849152200822550152
+    second: LAVA_Coin_43
+  - first:
+      213: 6931460021039456954
+    second: LAVA_Coin_44
+  - first:
+      213: -2630748330940905737
+    second: LAVA_Coin_45
+  - first:
+      213: -5490252196359992787
+    second: LAVA_Coin_46
+  - first:
+      213: -7003580375414213110
+    second: LAVA_Coin_47
+  - first:
+      213: 5119225081839056612
+    second: LAVA_Coin_48
+  - first:
+      213: -7506906894867373846
+    second: LAVA_Coin_49
+  - first:
+      213: -828698614824356685
+    second: LAVA_Coin_50
+  - first:
+      213: 4014927874216604481
+    second: LAVA_Coin_51
+  - first:
+      213: 7096452015692009736
+    second: LAVA_Coin_52
+  - first:
+      213: 5503856452612176266
+    second: LAVA_Coin_53
+  - first:
+      213: -8812936057665402833
+    second: LAVA_Coin_54
+  - first:
+      213: -7180724828570725856
+    second: LAVA_Coin_55
+  - first:
+      213: 1533381632912473710
+    second: LAVA_Coin_56
+  - first:
+      213: 196889441139533005
+    second: LAVA_Coin_57
+  - first:
+      213: -386973818991689113
+    second: LAVA_Coin_58
+  - first:
+      213: 2240187253809761463
+    second: LAVA_Coin_59
+  - first:
+      213: -1942115995819357841
+    second: LAVA_Coin_60
+  - first:
+      213: -4786154462640995850
+    second: LAVA_Coin_61
+  - first:
+      213: 5864184965277377182
+    second: LAVA_Coin_62
+  - first:
+      213: 3824760322673796694
+    second: LAVA_Coin_63
+  - first:
+      213: -6066843605195438648
+    second: LAVA_Coin_64
+  - first:
+      213: -4298966298799163029
+    second: LAVA_Coin_65
+  - first:
+      213: -2792033205861053546
+    second: LAVA_Coin_66
+  - first:
+      213: -6228993598437822655
+    second: LAVA_Coin_67
+  - first:
+      213: -2345678222244693762
+    second: LAVA_Coin_68
+  - first:
+      213: 2271206664834637691
+    second: LAVA_Coin_69
+  - first:
+      213: 7870695010842882911
+    second: LAVA_Coin_70
+  - first:
+      213: 4525753256985148377
+    second: LAVA_Coin_71
+  - first:
+      213: -2358592391087306830
+    second: LAVA_Coin_72
+  - first:
+      213: -7679469925724042627
+    second: LAVA_Coin_73
+  - first:
+      213: 6885870820290475958
+    second: LAVA_Coin_74
+  - first:
+      213: 234403204049598144
+    second: LAVA_Coin_75
+  - first:
+      213: 5614911245412569580
+    second: LAVA_Coin_76
+  - first:
+      213: -2137209666902944447
+    second: LAVA_Coin_77
+  - first:
+      213: 8827845915736267049
+    second: LAVA_Coin_78
+  - first:
+      213: -2633166929798865250
+    second: LAVA_Coin_79
+  - first:
+      213: 5329352125082686368
+    second: LAVA_Coin_80
+  - first:
+      213: -6828584866024658603
+    second: LAVA_Coin_81
+  - first:
+      213: 8704452933697067558
+    second: LAVA_Coin_82
+  - first:
+      213: 2520884375644213193
+    second: LAVA_Coin_83
+  - first:
+      213: -257665398173656959
+    second: LAVA_Coin_84
+  - first:
+      213: -6841392295296141288
+    second: LAVA_Coin_85
+  - first:
+      213: -7083458804018636121
+    second: LAVA_Coin_86
+  - first:
+      213: -1770083376871520293
+    second: LAVA_Coin_87
+  - first:
+      213: 152455626997668717
+    second: LAVA_Coin_88
+  - first:
+      213: 80563189027236710
+    second: LAVA_Coin_89
+  - first:
+      213: -1049773834312142147
+    second: LAVA_Coin_90
+  - first:
+      213: 4353434984973723805
+    second: LAVA_Coin_91
+  - first:
+      213: -652961795013572047
+    second: LAVA_Coin_92
+  - first:
+      213: 3030208927214958787
+    second: LAVA_Coin_93
+  - first:
+      213: -2802397244122527966
+    second: LAVA_Coin_94
+  - first:
+      213: -7513797737306548266
+    second: LAVA_Coin_95
+  - first:
+      213: 7994337331594354230
+    second: LAVA_Coin_96
+  - first:
+      213: -3469378251639812608
+    second: LAVA_Coin_97
+  - first:
+      213: -2579826693108069039
+    second: LAVA_Coin_98
+  - first:
+      213: -7797602995213941713
+    second: LAVA_Coin_99
+  - first:
+      213: 5993489977993669563
+    second: LAVA_Coin_100
+  - first:
+      213: -6051896630915549938
+    second: LAVA_Coin_101
+  - first:
+      213: 5156042198007575896
+    second: LAVA_Coin_102
+  - first:
+      213: -4772384200734491077
+    second: LAVA_Coin_103
+  - first:
+      213: 2299630334721841236
+    second: LAVA_Coin_104
+  - first:
+      213: 5579591088750208322
+    second: LAVA_Coin_105
+  - first:
+      213: -8398860783928358285
+    second: LAVA_Coin_106
+  - first:
+      213: 6489503551112541855
+    second: LAVA_Coin_107
+  - first:
+      213: 3604191493712645947
+    second: LAVA_Coin_108
+  - first:
+      213: -7383540835039744415
+    second: LAVA_Coin_109
+  - first:
+      213: 1561777339823147927
+    second: LAVA_Coin_110
+  - first:
+      213: -5600338150897276990
+    second: LAVA_Coin_111
+  - first:
+      213: -5085264923225896603
+    second: LAVA_Coin_112
+  - first:
+      213: -279504351159532848
+    second: LAVA_Coin_113
+  - first:
+      213: 6087582707712263336
+    second: LAVA_Coin_114
+  - first:
+      213: -5749558460178615886
+    second: LAVA_Coin_115
+  - first:
+      213: 9003228716128868643
+    second: LAVA_Coin_116
+  - first:
+      213: 639476010110774374
+    second: LAVA_Coin_117
+  - first:
+      213: 7055564806133778931
+    second: LAVA_Coin_118
+  - first:
+      213: -2141731481207716409
+    second: LAVA_Coin_119
+  - first:
+      213: 4906618219694963932
+    second: LAVA_Coin_120
+  - first:
+      213: 3477314171339535365
+    second: LAVA_Coin_121
+  - first:
+      213: -6768084041685053154
+    second: LAVA_Coin_122
+  - first:
+      213: -4067946689885497103
+    second: LAVA_Coin_123
+  - first:
+      213: 4297898336290224409
+    second: LAVA_Coin_124
+  - first:
+      213: 4074949618490446168
+    second: LAVA_Coin_125
+  - first:
+      213: -898044706496780080
+    second: LAVA_Coin_126
+  - first:
+      213: 2309863560582668240
+    second: LAVA_Coin_127
+  - first:
+      213: -4655908380824017206
+    second: LAVA_Coin_128
+  - first:
+      213: 5162882160442246040
+    second: LAVA_Coin_129
+  - first:
+      213: 560703353519492167
+    second: LAVA_Coin_130
+  - first:
+      213: -3558516841020794796
+    second: LAVA_Coin_131
+  - first:
+      213: -5049146124245624814
+    second: LAVA_Coin_132
+  - first:
+      213: 2367810191471239418
+    second: LAVA_Coin_133
+  - first:
+      213: 5874915126039060448
+    second: LAVA_Coin_134
+  - first:
+      213: -2219258110183402893
+    second: LAVA_Coin_135
+  - first:
+      213: 224249754230270559
+    second: LAVA_Coin_136
+  - first:
+      213: 2584952268708583736
+    second: LAVA_Coin_137
+  - first:
+      213: 568172475748230759
+    second: LAVA_Coin_138
+  - first:
+      213: 4331986233709612924
+    second: LAVA_Coin_139
+  - first:
+      213: -3576632449027610289
+    second: LAVA_Coin_140
+  - first:
+      213: -8347478467492699101
+    second: LAVA_Coin_141
+  - first:
+      213: -2595194064372562318
+    second: LAVA_Coin_142
+  - first:
+      213: -4761586748384076173
+    second: LAVA_Coin_143
+  - first:
+      213: 5621039084998226678
+    second: LAVA_Coin_144
+  - first:
+      213: 907105751645994574
+    second: LAVA_Coin_145
+  - first:
+      213: -3838727101109179712
+    second: LAVA_Coin_146
+  - first:
+      213: -9003407347011628972
+    second: LAVA_Coin_147
+  - first:
+      213: 2521757205301601546
+    second: LAVA_Coin_148
+  - first:
+      213: 3570483252814883100
+    second: LAVA_Coin_149
+  - first:
+      213: -563724041935959056
+    second: LAVA_Coin_150
+  - first:
+      213: -1835747802823984518
+    second: LAVA_Coin_151
+  - first:
+      213: -9060001592197029456
+    second: LAVA_Coin_152
+  - first:
+      213: -7371601856128072242
+    second: LAVA_Coin_153
+  - first:
+      213: 7575432778631661586
+    second: LAVA_Coin_154
+  - first:
+      213: -6480395147436402234
+    second: LAVA_Coin_155
+  - first:
+      213: 3827978945241318665
+    second: LAVA_Coin_156
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LAVA_Coin_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1901
+        height: 1898
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6b088e6cccd2d190800000000000000
+      internalID: -7939040422514914453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_1
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 1879
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 544e40483c5cceb80800000000000000
+      internalID: -8364092964409646011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_2
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 1889
+        width: 35
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47bfb5c773a557100800000000000000
+      internalID: 105089360669178740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_3
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 1878
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fb3efea373e57a30800000000000000
+      internalID: 4212523112471608306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_4
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 1838
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 453156aca73112760800000000000000
+      internalID: 7431242278240588628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_5
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 1848
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a5fdb38d52437910800000000000000
+      internalID: 1833882442679580070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_6
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 1833
+        width: 47
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3b24607ebbc08ca0800000000000000
+      internalID: -6016585083377145026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_7
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 1839
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7729a888cb06f9c80800000000000000
+      internalID: -8313820024241745289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_8
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 1845
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e7fedb0f7b5955a0800000000000000
+      internalID: -6532089183306057758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_9
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 1785
+        width: 77
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0028ce19a02b8c240800000000000000
+      internalID: 4812291960312988160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_10
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 1809
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be41012f294309fa0800000000000000
+      internalID: -5796074914694818581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_11
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 1791
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 147d660a6c5265700800000000000000
+      internalID: 528651541287458625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_12
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 1791
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 659fecd9a8240ae00800000000000000
+      internalID: 1053915475925203286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_13
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 1819
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4661d5675cb95170800000000000000
+      internalID: 8167766482769503822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_14
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 1823
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 228a3df3ec8f86800800000000000000
+      internalID: 606007714599118882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_15
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 1793
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5386af2530f7d35a0800000000000000
+      internalID: -6539931431618320331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_16
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 1791
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5de82c5be77962660800000000000000
+      internalID: 7360737211454754517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_17
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 1791
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c171f927aa4966310800000000000000
+      internalID: 1397968194133497628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_18
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 1774
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f44e2622625834090800000000000000
+      internalID: -8051445309976157105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_19
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 1748
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01d1750d7bb27ed20800000000000000
+      internalID: 3307660519801298192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_20
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 1766
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df569afa45cdf41e0800000000000000
+      internalID: -2211306635733146115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_21
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1743
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebdba1736086575b0800000000000000
+      internalID: -5371272604665856578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_22
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 1739
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7882ed9d2630e21d0800000000000000
+      internalID: -3373755347757029241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_23
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 1765
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07e41fa4c1aef3fb0800000000000000
+      internalID: -4665753281695232400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_24
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 1695
+        width: 95
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 894f7f51c12a6e320800000000000000
+      internalID: 2586933277482284184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_25
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 1751
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94f8cd0078b365190800000000000000
+      internalID: -7974120639191806135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_26
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 1747
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ca2ca433e4dc3980800000000000000
+      internalID: -8557731119604421946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_27
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 1747
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3a480b30c3087130800000000000000
+      internalID: 3564603229222750783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_28
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 1730
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa8523184ca663b00800000000000000
+      internalID: 807950575373277354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_29
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 1734
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b9bd638f826a9190800000000000000
+      internalID: -7954937423271708238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_30
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1734
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eb89c3ba0765b0b0800000000000000
+      internalID: -5713547256585942041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_31
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1735
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c91298286357bb70800000000000000
+      internalID: 8914685694225553860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_32
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 1729
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eab0702942a21730800000000000000
+      internalID: 3968412656627399394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_33
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 1703
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f64eed1d9649fbf50800000000000000
+      internalID: 6899396336368411759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_34
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 1692
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08b154e16761dfa90800000000000000
+      internalID: -7278636726191056000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_35
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 1705
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e17ea600c6731fc0800000000000000
+      internalID: -3525343516183072287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_36
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 1694
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b069f27703a171e0800000000000000
+      internalID: -2201799490418417488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_37
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1676
+        width: 44
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fd5222517f992b20800000000000000
+      internalID: 3110192326734142965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_38
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1321
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8315c66a118c073e0800000000000000
+      internalID: -2057925051576200904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_39
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1345
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e36f5dd52cd452450800000000000000
+      internalID: 6063337970517538366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_40
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 1334
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dfa64ec8cc363970800000000000000
+      internalID: 8734235360483520472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_41
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 1343
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed7f402cc0b26d240800000000000000
+      internalID: 4816084185314031582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_42
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 1305
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24e3430e3281045c0800000000000000
+      internalID: -4233357107363824062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_43
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 1319
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8711b9a45fe713580800000000000000
+      internalID: -8849152200822550152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_44
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1289
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab2e0e82a2e713060800000000000000
+      internalID: 6931460021039456954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_45
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 1253
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f6c0d0d454bd7bd0800000000000000
+      internalID: -2630748330940905737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_46
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 1213
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2a87ac47b4bec3b0800000000000000
+      internalID: -5490252196359992787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_47
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 1219
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a06f98f41c84ece90800000000000000
+      internalID: -7003580375414213110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_48
+      rect:
+        serializedVersion: 2
+        x: 1782
+        y: 1232
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e67940d6142b0740800000000000000
+      internalID: 5119225081839056612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_49
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1191
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae0ef71d3fb12d790800000000000000
+      internalID: -7506906894867373846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_50
+      rect:
+        serializedVersion: 2
+        x: 1742
+        y: 1187
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b4398d100fdf74f0800000000000000
+      internalID: -828698614824356685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_51
+      rect:
+        serializedVersion: 2
+        x: 1774
+        y: 1170
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 143be7d21a3e7b730800000000000000
+      internalID: 4014927874216604481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_52
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1163
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8015de87289ab7260800000000000000
+      internalID: 7096452015692009736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_53
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 1177
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a89b0b07840a16c40800000000000000
+      internalID: 5503856452612176266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_54
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1161
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f284f96395922b580800000000000000
+      internalID: -8812936057665402833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_55
+      rect:
+        serializedVersion: 2
+        x: 1804
+        y: 1151
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 022d63340d0f85c90800000000000000
+      internalID: -7180724828570725856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_56
+      rect:
+        serializedVersion: 2
+        x: 1742
+        y: 1111
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6e3bde887aa74510800000000000000
+      internalID: 1533381632912473710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_57
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 1135
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc4a52f47ed7bb200800000000000000
+      internalID: 196889441139533005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_58
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1109
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 762cf95ac5131aaf0800000000000000
+      internalID: -386973818991689113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_59
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1104
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bc40b5307eb61f10800000000000000
+      internalID: 2240187253809761463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_60
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 1111
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f694594aac73c05e0800000000000000
+      internalID: -1942115995819357841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_61
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 1077
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f10226dfd9249db0800000000000000
+      internalID: -4786154462640995850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_62
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 1093
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e926b88f725c16150800000000000000
+      internalID: 5864184965277377182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_63
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1079
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 656eaffbf37441530800000000000000
+      internalID: 3824760322673796694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_64
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 1077
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c5c97472ed3ecba0800000000000000
+      internalID: -6066843605195438648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_65
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 1057
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6933ba9de00754c0800000000000000
+      internalID: -4298966298799163029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_66
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 1047
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69b8e839794b049d0800000000000000
+      internalID: -2792033205861053546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_67
+      rect:
+        serializedVersion: 2
+        x: 1832
+        y: 1057
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14f6ee8235b2e89a0800000000000000
+      internalID: -6228993598437822655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_68
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1025
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef83cb5b51a727fd0800000000000000
+      internalID: -2345678222244693762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_69
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1025
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7fd7f4ad62f48f10800000000000000
+      internalID: 2271206664834637691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_70
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1003
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f53bab069635a3d60800000000000000
+      internalID: 7870695010842882911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_71
+      rect:
+        serializedVersion: 2
+        x: 1786
+        y: 959
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dbbaa7db94bece30800000000000000
+      internalID: 4525753256985148377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_72
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 938
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b74d4777b8944fd0800000000000000
+      internalID: -2358592391087306830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_73
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 933
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7a4ce54aca0d6590800000000000000
+      internalID: -7679469925724042627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_74
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 861
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b734a437078f8f50800000000000000
+      internalID: 6885870820290475958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_75
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 862
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c6f69fd874c04300800000000000000
+      internalID: 234403204049598144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_76
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 868
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce19924570c2ced40800000000000000
+      internalID: 5614911245412569580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_77
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 852
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14518b1a12b1752e0800000000000000
+      internalID: -2137209666902944447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_78
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 836
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 929d753a61fc28a70800000000000000
+      internalID: 8827845915736267049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_79
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 833
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9e5803e0ac157bd0800000000000000
+      internalID: -2633166929798865250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_80
+      rect:
+        serializedVersion: 2
+        x: 1768
+        y: 780
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a3d68a8589a5f940800000000000000
+      internalID: 5329352125082686368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_81
+      rect:
+        serializedVersion: 2
+        x: 1758
+        y: 761
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 559edf56e3efb31a0800000000000000
+      internalID: -6828584866024658603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_82
+      rect:
+        serializedVersion: 2
+        x: 1714
+        y: 727
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62ade1533dd6cc870800000000000000
+      internalID: 8704452933697067558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_83
+      rect:
+        serializedVersion: 2
+        x: 1742
+        y: 718
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cf0b12cbfafbf220800000000000000
+      internalID: 2520884375644213193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_84
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 705
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18813fe7fa69c6cf0800000000000000
+      internalID: -257665398173656959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_85
+      rect:
+        serializedVersion: 2
+        x: 1772
+        y: 706
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81877c564fd7e01a0800000000000000
+      internalID: -6841392295296141288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_86
+      rect:
+        serializedVersion: 2
+        x: 1732
+        y: 691
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aa1b5d5fbf72bd90800000000000000
+      internalID: -7083458804018636121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_87
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 628
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd7cfba0c866f67e0800000000000000
+      internalID: -1770083376871520293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_88
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 561
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6b9433c591ad1200800000000000000
+      internalID: 152455626997668717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_89
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 567
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66be0f72bc73e1100800000000000000
+      internalID: 80563189027236710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_90
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 518
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db2335772447e61f0800000000000000
+      internalID: -1049773834312142147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_91
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 529
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d98ed18ad028a6c30800000000000000
+      internalID: 4353434984973723805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_92
+      rect:
+        serializedVersion: 2
+        x: 1714
+        y: 503
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13a805cf4b630f6f0800000000000000
+      internalID: -652961795013572047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_93
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 455
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c87ddde6f67d0a20800000000000000
+      internalID: 3030208927214958787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_94
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 455
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2270b80ed82eb19d0800000000000000
+      internalID: -2802397244122527966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_95
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 456
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d795b984c0a9b790800000000000000
+      internalID: -7513797737306548266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_96
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 445
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63e5350827791fe60800000000000000
+      internalID: 7994337331594354230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_97
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 423
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00e0b879cda4adfc0800000000000000
+      internalID: -3469378251639812608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_98
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 414
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15d09378a4d923cd0800000000000000
+      internalID: -2579826693108069039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_99
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 231
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2440caa36959c390800000000000000
+      internalID: -7797602995213941713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_100
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 151
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbb2d2f41672d2350800000000000000
+      internalID: 5993489977993669563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_101
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 157
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0535e81418530ca0800000000000000
+      internalID: -6051896630915549938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_102
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 133
+        width: 37
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8557a2baf01fd8740800000000000000
+      internalID: 5156042198007575896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_103
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 139
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3eb887cad515cdb0800000000000000
+      internalID: -4772384200734491077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_104
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 97
+        width: 143
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 458decffa9de9ef10800000000000000
+      internalID: 2299630334721841236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_105
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 133
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24524e48880be6d40800000000000000
+      internalID: 5579591088750208322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_106
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 135
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37acdf7bd90417b80800000000000000
+      internalID: -8398860783928358285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_107
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 139
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f96f2bcc8195f0a50800000000000000
+      internalID: 6489503551112541855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_108
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 133
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3f0a355119a40230800000000000000
+      internalID: 3604191493712645947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_109
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 129
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16e6ddeeab4688990800000000000000
+      internalID: -7383540835039744415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_110
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 125
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79bc966473c8ca510800000000000000
+      internalID: 1561777339823147927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_111
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 140
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c723b5af1a9742b0800000000000000
+      internalID: -5600338150897276990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_112
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 143
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 569cd56ce728d69b0800000000000000
+      internalID: -5085264923225896603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_113
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 141
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d2c5f306400f1cf0800000000000000
+      internalID: -279504351159532848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_114
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 112
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a4000228307b7450800000000000000
+      internalID: 6087582707712263336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_115
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 113
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b136bdfa077530b0800000000000000
+      internalID: -5749558460178615886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_116
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 119
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3291570f0d4e1fc70800000000000000
+      internalID: 9003228716128868643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_117
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 128
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66c69090b00efd800800000000000000
+      internalID: 639476010110774374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_118
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 112
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f90a572fc66ae160800000000000000
+      internalID: 7055564806133778931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_119
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 125
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c5c752b09a0742e0800000000000000
+      internalID: -2141731481207716409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_120
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 119
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdcb061464fc71440800000000000000
+      internalID: 4906618219694963932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_121
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 127
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 504ff13b0d6e14030800000000000000
+      internalID: 3477314171339535365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_122
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 59
+        width: 63
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e115f554c6fe212a0800000000000000
+      internalID: -6768084041685053154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_123
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 111
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f81628d900cb87c0800000000000000
+      internalID: -4067946689885497103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_124
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 109
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 919325ff3c335ab30800000000000000
+      internalID: 4297898336290224409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_125
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 93
+        width: 37
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8519cb786112d8830800000000000000
+      internalID: 4074949618490446168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_126
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 44
+        width: 131
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d8e6d4f8118983f0800000000000000
+      internalID: -898044706496780080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_127
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 115
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0df16209ba84e0020800000000000000
+      internalID: 2309863560582668240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_128
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 114
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac66836eef3e26fb0800000000000000
+      internalID: -4655908380824017206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_129
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 95
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8938c5688fd36a740800000000000000
+      internalID: 5162882160442246040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_130
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 62
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74c46e2bab408c700800000000000000
+      internalID: 560703353519492167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_131
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 103
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 458d5b379cb9d9ec0800000000000000
+      internalID: -3558516841020794796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_132
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 99
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2189c4df954dde9b0800000000000000
+      internalID: -5049146124245624814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_133
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 63
+        width: 71
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af0613ee2d62cd020800000000000000
+      internalID: 2367810191471239418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_134
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 99
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ef90253e24e78150800000000000000
+      internalID: 5874915126039060448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_135
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 73
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3721d95c18c9331e0800000000000000
+      internalID: -2219258110183402893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_136
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 95
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5a2ddd96f1bc1300800000000000000
+      internalID: 224249754230270559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_137
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 103
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83917b984689fd320800000000000000
+      internalID: 2584952268708583736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_138
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 73
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 766a02c3bdd82e700800000000000000
+      internalID: 568172475748230759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_139
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 87
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7fc428178e4e1c30800000000000000
+      internalID: 4331986233709612924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_140
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 86
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f49e297ccbf3d5ec0800000000000000
+      internalID: -3576632449027610289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_141
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 85
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32420e68f8cc72c80800000000000000
+      internalID: -8347478467492699101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_142
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 85
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2760fd59fb40cfbd0800000000000000
+      internalID: -2595194064372562318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_143
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 71
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37e1c5f84127bedb0800000000000000
+      internalID: -4761586748384076173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_144
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 63
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f2f7e92441f10e40800000000000000
+      internalID: 5621039084998226678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_145
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 59
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4eb29400efa69c00800000000000000
+      internalID: 907105751645994574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_146
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 62
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cae8bc3a0a1abac0800000000000000
+      internalID: -3838727101109179712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_147
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 69
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 450da3158b87d0380800000000000000
+      internalID: -9003407347011628972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_148
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 62
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a05a8cf31d41ff220800000000000000
+      internalID: 2521757205301601546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_149
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 39
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c192388e997ec8130800000000000000
+      internalID: 3570483252814883100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_150
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 15
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fb4f0978ff3d28f0800000000000000
+      internalID: -563724041935959056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_151
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 31
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7af87b791d1686e0800000000000000
+      internalID: -1835747802823984518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_152
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 21
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b16f98cd88644280800000000000000
+      internalID: -9060001592197029456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_153
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 7
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec540e31b2fc2b990800000000000000
+      internalID: -7371601856128072242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_154
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 15
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 218c03ec9f7512960800000000000000
+      internalID: 7575432778631661586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_155
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 25
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c953e0b2f20116a0800000000000000
+      internalID: -6480395147436402234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAVA_Coin_156
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 15
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90588c6b196bf1530800000000000000
+      internalID: 3827978945241318665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      LAVA_Coin_0: -7939040422514914453
+      LAVA_Coin_1: -8364092964409646011
+      LAVA_Coin_10: -5796074914694818581
+      LAVA_Coin_100: 5993489977993669563
+      LAVA_Coin_101: -6051896630915549938
+      LAVA_Coin_102: 5156042198007575896
+      LAVA_Coin_103: -4772384200734491077
+      LAVA_Coin_104: 2299630334721841236
+      LAVA_Coin_105: 5579591088750208322
+      LAVA_Coin_106: -8398860783928358285
+      LAVA_Coin_107: 6489503551112541855
+      LAVA_Coin_108: 3604191493712645947
+      LAVA_Coin_109: -7383540835039744415
+      LAVA_Coin_11: 528651541287458625
+      LAVA_Coin_110: 1561777339823147927
+      LAVA_Coin_111: -5600338150897276990
+      LAVA_Coin_112: -5085264923225896603
+      LAVA_Coin_113: -279504351159532848
+      LAVA_Coin_114: 6087582707712263336
+      LAVA_Coin_115: -5749558460178615886
+      LAVA_Coin_116: 9003228716128868643
+      LAVA_Coin_117: 639476010110774374
+      LAVA_Coin_118: 7055564806133778931
+      LAVA_Coin_119: -2141731481207716409
+      LAVA_Coin_12: 1053915475925203286
+      LAVA_Coin_120: 4906618219694963932
+      LAVA_Coin_121: 3477314171339535365
+      LAVA_Coin_122: -6768084041685053154
+      LAVA_Coin_123: -4067946689885497103
+      LAVA_Coin_124: 4297898336290224409
+      LAVA_Coin_125: 4074949618490446168
+      LAVA_Coin_126: -898044706496780080
+      LAVA_Coin_127: 2309863560582668240
+      LAVA_Coin_128: -4655908380824017206
+      LAVA_Coin_129: 5162882160442246040
+      LAVA_Coin_13: 8167766482769503822
+      LAVA_Coin_130: 560703353519492167
+      LAVA_Coin_131: -3558516841020794796
+      LAVA_Coin_132: -5049146124245624814
+      LAVA_Coin_133: 2367810191471239418
+      LAVA_Coin_134: 5874915126039060448
+      LAVA_Coin_135: -2219258110183402893
+      LAVA_Coin_136: 224249754230270559
+      LAVA_Coin_137: 2584952268708583736
+      LAVA_Coin_138: 568172475748230759
+      LAVA_Coin_139: 4331986233709612924
+      LAVA_Coin_14: 606007714599118882
+      LAVA_Coin_140: -3576632449027610289
+      LAVA_Coin_141: -8347478467492699101
+      LAVA_Coin_142: -2595194064372562318
+      LAVA_Coin_143: -4761586748384076173
+      LAVA_Coin_144: 5621039084998226678
+      LAVA_Coin_145: 907105751645994574
+      LAVA_Coin_146: -3838727101109179712
+      LAVA_Coin_147: -9003407347011628972
+      LAVA_Coin_148: 2521757205301601546
+      LAVA_Coin_149: 3570483252814883100
+      LAVA_Coin_15: -6539931431618320331
+      LAVA_Coin_150: -563724041935959056
+      LAVA_Coin_151: -1835747802823984518
+      LAVA_Coin_152: -9060001592197029456
+      LAVA_Coin_153: -7371601856128072242
+      LAVA_Coin_154: 7575432778631661586
+      LAVA_Coin_155: -6480395147436402234
+      LAVA_Coin_156: 3827978945241318665
+      LAVA_Coin_16: 7360737211454754517
+      LAVA_Coin_17: 1397968194133497628
+      LAVA_Coin_18: -8051445309976157105
+      LAVA_Coin_19: 3307660519801298192
+      LAVA_Coin_2: 105089360669178740
+      LAVA_Coin_20: -2211306635733146115
+      LAVA_Coin_21: -5371272604665856578
+      LAVA_Coin_22: -3373755347757029241
+      LAVA_Coin_23: -4665753281695232400
+      LAVA_Coin_24: 2586933277482284184
+      LAVA_Coin_25: -7974120639191806135
+      LAVA_Coin_26: -8557731119604421946
+      LAVA_Coin_27: 3564603229222750783
+      LAVA_Coin_28: 807950575373277354
+      LAVA_Coin_29: -7954937423271708238
+      LAVA_Coin_3: 4212523112471608306
+      LAVA_Coin_30: -5713547256585942041
+      LAVA_Coin_31: 8914685694225553860
+      LAVA_Coin_32: 3968412656627399394
+      LAVA_Coin_33: 6899396336368411759
+      LAVA_Coin_34: -7278636726191056000
+      LAVA_Coin_35: -3525343516183072287
+      LAVA_Coin_36: -2201799490418417488
+      LAVA_Coin_37: 3110192326734142965
+      LAVA_Coin_38: -2057925051576200904
+      LAVA_Coin_39: 6063337970517538366
+      LAVA_Coin_4: 7431242278240588628
+      LAVA_Coin_40: 8734235360483520472
+      LAVA_Coin_41: 4816084185314031582
+      LAVA_Coin_42: -4233357107363824062
+      LAVA_Coin_43: -8849152200822550152
+      LAVA_Coin_44: 6931460021039456954
+      LAVA_Coin_45: -2630748330940905737
+      LAVA_Coin_46: -5490252196359992787
+      LAVA_Coin_47: -7003580375414213110
+      LAVA_Coin_48: 5119225081839056612
+      LAVA_Coin_49: -7506906894867373846
+      LAVA_Coin_5: 1833882442679580070
+      LAVA_Coin_50: -828698614824356685
+      LAVA_Coin_51: 4014927874216604481
+      LAVA_Coin_52: 7096452015692009736
+      LAVA_Coin_53: 5503856452612176266
+      LAVA_Coin_54: -8812936057665402833
+      LAVA_Coin_55: -7180724828570725856
+      LAVA_Coin_56: 1533381632912473710
+      LAVA_Coin_57: 196889441139533005
+      LAVA_Coin_58: -386973818991689113
+      LAVA_Coin_59: 2240187253809761463
+      LAVA_Coin_6: -6016585083377145026
+      LAVA_Coin_60: -1942115995819357841
+      LAVA_Coin_61: -4786154462640995850
+      LAVA_Coin_62: 5864184965277377182
+      LAVA_Coin_63: 3824760322673796694
+      LAVA_Coin_64: -6066843605195438648
+      LAVA_Coin_65: -4298966298799163029
+      LAVA_Coin_66: -2792033205861053546
+      LAVA_Coin_67: -6228993598437822655
+      LAVA_Coin_68: -2345678222244693762
+      LAVA_Coin_69: 2271206664834637691
+      LAVA_Coin_7: -8313820024241745289
+      LAVA_Coin_70: 7870695010842882911
+      LAVA_Coin_71: 4525753256985148377
+      LAVA_Coin_72: -2358592391087306830
+      LAVA_Coin_73: -7679469925724042627
+      LAVA_Coin_74: 6885870820290475958
+      LAVA_Coin_75: 234403204049598144
+      LAVA_Coin_76: 5614911245412569580
+      LAVA_Coin_77: -2137209666902944447
+      LAVA_Coin_78: 8827845915736267049
+      LAVA_Coin_79: -2633166929798865250
+      LAVA_Coin_8: -6532089183306057758
+      LAVA_Coin_80: 5329352125082686368
+      LAVA_Coin_81: -6828584866024658603
+      LAVA_Coin_82: 8704452933697067558
+      LAVA_Coin_83: 2520884375644213193
+      LAVA_Coin_84: -257665398173656959
+      LAVA_Coin_85: -6841392295296141288
+      LAVA_Coin_86: -7083458804018636121
+      LAVA_Coin_87: -1770083376871520293
+      LAVA_Coin_88: 152455626997668717
+      LAVA_Coin_89: 80563189027236710
+      LAVA_Coin_9: 4812291960312988160
+      LAVA_Coin_90: -1049773834312142147
+      LAVA_Coin_91: 4353434984973723805
+      LAVA_Coin_92: -652961795013572047
+      LAVA_Coin_93: 3030208927214958787
+      LAVA_Coin_94: -2802397244122527966
+      LAVA_Coin_95: -7513797737306548266
+      LAVA_Coin_96: 7994337331594354230
+      LAVA_Coin_97: -3469378251639812608
+      LAVA_Coin_98: -2579826693108069039
+      LAVA_Coin_99: -7797602995213941713
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

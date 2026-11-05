@@ -1,0 +1,54 @@
+# ==========================================
+# Unity Generated Directories (Do NOT track)
+# ==========================================
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+.utmp/
+
+# ==========================================
+# Build & Platform Output Folders visible in your directory
+# ==========================================
+/Android/
+/Data/
+/GeneratedAssets/
+/iOS/
+/iOS_BackUpThisFolder_ButDontShipItWithYourGame/
+/linux_app/
+/Window_app/
+/Windows_web/
+/PYRE_FLIGHT/
+/New folder/
+
+# ==========================================
+# Visual Studio / IDE Auto-Generated Files
+# ==========================================
+.vs/
+.vscode/
+.vsconfig
+*.csproj
+*.unityproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# ==========================================
+# OS Generated Files
+# ==========================================
+.DS_Store
+Thumbs.db
+desktop.ini

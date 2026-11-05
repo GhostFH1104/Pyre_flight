@@ -1,0 +1,5696 @@
+fileFormatVersion: 2
+guid: ec39a0d1643b8e949b134f40063c2d72
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5134479440451273511
+    second: WOOD_Coin_0
+  - first:
+      213: 8953681034773013121
+    second: WOOD_Coin_1
+  - first:
+      213: -4300932356826461811
+    second: WOOD_Coin_2
+  - first:
+      213: -8090427099988828641
+    second: WOOD_Coin_3
+  - first:
+      213: 1575006118838339866
+    second: WOOD_Coin_4
+  - first:
+      213: -5118567506076065506
+    second: WOOD_Coin_5
+  - first:
+      213: 2428927944130727346
+    second: WOOD_Coin_6
+  - first:
+      213: -5492280960599752113
+    second: WOOD_Coin_7
+  - first:
+      213: 8658878415600166384
+    second: WOOD_Coin_8
+  - first:
+      213: -2471637258539266172
+    second: WOOD_Coin_9
+  - first:
+      213: -4936112341932432216
+    second: WOOD_Coin_10
+  - first:
+      213: 2694398176540755670
+    second: WOOD_Coin_11
+  - first:
+      213: 4823736251193656107
+    second: WOOD_Coin_12
+  - first:
+      213: -7823131546330296390
+    second: WOOD_Coin_13
+  - first:
+      213: -650999166586383881
+    second: WOOD_Coin_14
+  - first:
+      213: 4209570197699465030
+    second: WOOD_Coin_15
+  - first:
+      213: -6283316389098428242
+    second: WOOD_Coin_16
+  - first:
+      213: -4166906286139691154
+    second: WOOD_Coin_17
+  - first:
+      213: -7304750372951736848
+    second: WOOD_Coin_18
+  - first:
+      213: 5696352804120730232
+    second: WOOD_Coin_19
+  - first:
+      213: 4970164354602144631
+    second: WOOD_Coin_20
+  - first:
+      213: -4971007929415951875
+    second: WOOD_Coin_21
+  - first:
+      213: -5734293162280403338
+    second: WOOD_Coin_22
+  - first:
+      213: -363030531129745851
+    second: WOOD_Coin_23
+  - first:
+      213: 5640376743859260181
+    second: WOOD_Coin_24
+  - first:
+      213: -7728515065775977772
+    second: WOOD_Coin_25
+  - first:
+      213: 9061198283286343180
+    second: WOOD_Coin_26
+  - first:
+      213: -3671483589065648875
+    second: WOOD_Coin_27
+  - first:
+      213: 5602498236232279810
+    second: WOOD_Coin_28
+  - first:
+      213: 1463513832739220218
+    second: WOOD_Coin_29
+  - first:
+      213: 6920804792975807097
+    second: WOOD_Coin_30
+  - first:
+      213: 1679094049635906820
+    second: WOOD_Coin_31
+  - first:
+      213: -3220818674685530406
+    second: WOOD_Coin_32
+  - first:
+      213: 1932747528235717484
+    second: WOOD_Coin_33
+  - first:
+      213: -4596930131916595345
+    second: WOOD_Coin_34
+  - first:
+      213: -1493794824433812509
+    second: WOOD_Coin_35
+  - first:
+      213: -4859392913288807889
+    second: WOOD_Coin_36
+  - first:
+      213: 90512901367715985
+    second: WOOD_Coin_37
+  - first:
+      213: 7928198094296522530
+    second: WOOD_Coin_38
+  - first:
+      213: 4024642821902550636
+    second: WOOD_Coin_39
+  - first:
+      213: 747923529155135271
+    second: WOOD_Coin_40
+  - first:
+      213: -7255562253342582985
+    second: WOOD_Coin_41
+  - first:
+      213: 1178071187355733698
+    second: WOOD_Coin_42
+  - first:
+      213: -4884207204656054076
+    second: WOOD_Coin_43
+  - first:
+      213: -8830072576179520932
+    second: WOOD_Coin_44
+  - first:
+      213: -5193049990590915603
+    second: WOOD_Coin_45
+  - first:
+      213: -8190463869479542845
+    second: WOOD_Coin_46
+  - first:
+      213: 2440028837183039189
+    second: WOOD_Coin_47
+  - first:
+      213: -718971609090672190
+    second: WOOD_Coin_48
+  - first:
+      213: 3135426872714110068
+    second: WOOD_Coin_49
+  - first:
+      213: -5828886079124313545
+    second: WOOD_Coin_50
+  - first:
+      213: -7080802548649746643
+    second: WOOD_Coin_51
+  - first:
+      213: -1009571767354640532
+    second: WOOD_Coin_52
+  - first:
+      213: -8960020469896306571
+    second: WOOD_Coin_53
+  - first:
+      213: 7198547326999830124
+    second: WOOD_Coin_54
+  - first:
+      213: 4340715431938577966
+    second: WOOD_Coin_55
+  - first:
+      213: 4353226300503013512
+    second: WOOD_Coin_56
+  - first:
+      213: 8151287965462152501
+    second: WOOD_Coin_57
+  - first:
+      213: -4308590270851718367
+    second: WOOD_Coin_58
+  - first:
+      213: -7549182741168821277
+    second: WOOD_Coin_59
+  - first:
+      213: -1882605522523733991
+    second: WOOD_Coin_60
+  - first:
+      213: -1517592780547140817
+    second: WOOD_Coin_61
+  - first:
+      213: -8369951446901263933
+    second: WOOD_Coin_62
+  - first:
+      213: -7609358434628378621
+    second: WOOD_Coin_63
+  - first:
+      213: -3322130636380169896
+    second: WOOD_Coin_64
+  - first:
+      213: -2948148080322137237
+    second: WOOD_Coin_65
+  - first:
+      213: 8201335877742561476
+    second: WOOD_Coin_66
+  - first:
+      213: -6019725559297785851
+    second: WOOD_Coin_67
+  - first:
+      213: 4065692053389749280
+    second: WOOD_Coin_68
+  - first:
+      213: 5231740618408334159
+    second: WOOD_Coin_69
+  - first:
+      213: -3794067208028285991
+    second: WOOD_Coin_70
+  - first:
+      213: 1027872970375396668
+    second: WOOD_Coin_71
+  - first:
+      213: 725008977219166028
+    second: WOOD_Coin_72
+  - first:
+      213: -1953435586983051946
+    second: WOOD_Coin_73
+  - first:
+      213: 5415930187621218650
+    second: WOOD_Coin_74
+  - first:
+      213: -1388636224219086717
+    second: WOOD_Coin_75
+  - first:
+      213: 25262110748746346
+    second: WOOD_Coin_76
+  - first:
+      213: -3060085636586814557
+    second: WOOD_Coin_77
+  - first:
+      213: -158189757363720153
+    second: WOOD_Coin_78
+  - first:
+      213: 776554514630542314
+    second: WOOD_Coin_79
+  - first:
+      213: -703193249895425916
+    second: WOOD_Coin_80
+  - first:
+      213: -1059377782587627399
+    second: WOOD_Coin_81
+  - first:
+      213: 8281838971070731598
+    second: WOOD_Coin_82
+  - first:
+      213: 3812881574159790534
+    second: WOOD_Coin_83
+  - first:
+      213: -7939862627843109584
+    second: WOOD_Coin_84
+  - first:
+      213: 8595067075396960723
+    second: WOOD_Coin_85
+  - first:
+      213: -8751686183323369012
+    second: WOOD_Coin_86
+  - first:
+      213: -8304249114646932903
+    second: WOOD_Coin_87
+  - first:
+      213: 9038858270938943647
+    second: WOOD_Coin_88
+  - first:
+      213: 9105723736964214910
+    second: WOOD_Coin_89
+  - first:
+      213: 3227237255055431053
+    second: WOOD_Coin_90
+  - first:
+      213: -1074799306677069956
+    second: WOOD_Coin_91
+  - first:
+      213: 6700121404818017471
+    second: WOOD_Coin_92
+  - first:
+      213: -3327015869301222557
+    second: WOOD_Coin_93
+  - first:
+      213: -2234593989125776845
+    second: WOOD_Coin_94
+  - first:
+      213: 126948955116048231
+    second: WOOD_Coin_95
+  - first:
+      213: 7373050924471126121
+    second: WOOD_Coin_96
+  - first:
+      213: -2289268385766129710
+    second: WOOD_Coin_97
+  - first:
+      213: 1849455211127451573
+    second: WOOD_Coin_98
+  - first:
+      213: 398540474457311191
+    second: WOOD_Coin_99
+  - first:
+      213: 5757376477935293400
+    second: WOOD_Coin_100
+  - first:
+      213: 7248372606718919227
+    second: WOOD_Coin_101
+  - first:
+      213: 5283842998087419086
+    second: WOOD_Coin_102
+  - first:
+      213: -6060603092699065816
+    second: WOOD_Coin_103
+  - first:
+      213: 1766874951813887726
+    second: WOOD_Coin_104
+  - first:
+      213: 8671957277979904522
+    second: WOOD_Coin_105
+  - first:
+      213: 44818322004851347
+    second: WOOD_Coin_106
+  - first:
+      213: 682826642361680248
+    second: WOOD_Coin_107
+  - first:
+      213: 2478111418852524853
+    second: WOOD_Coin_108
+  - first:
+      213: 2130648025738411230
+    second: WOOD_Coin_109
+  - first:
+      213: 8369071661616707379
+    second: WOOD_Coin_110
+  - first:
+      213: -6359087490691904162
+    second: WOOD_Coin_111
+  - first:
+      213: -808539656649008160
+    second: WOOD_Coin_112
+  - first:
+      213: -2814336663693133019
+    second: WOOD_Coin_113
+  - first:
+      213: 2917218700632806068
+    second: WOOD_Coin_114
+  - first:
+      213: -5663643569638382599
+    second: WOOD_Coin_115
+  - first:
+      213: -5063314611237916077
+    second: WOOD_Coin_116
+  - first:
+      213: 8571701520855931877
+    second: WOOD_Coin_117
+  - first:
+      213: -3519912769003800699
+    second: WOOD_Coin_118
+  - first:
+      213: -4680981604518669285
+    second: WOOD_Coin_119
+  - first:
+      213: 4527906822981262657
+    second: WOOD_Coin_120
+  - first:
+      213: -5652843767137223636
+    second: WOOD_Coin_121
+  - first:
+      213: -8920966423434985436
+    second: WOOD_Coin_122
+  - first:
+      213: 2529842754005775016
+    second: WOOD_Coin_123
+  - first:
+      213: 2765738074232755380
+    second: WOOD_Coin_124
+  - first:
+      213: -306409889568946547
+    second: WOOD_Coin_125
+  - first:
+      213: 9158086160432067878
+    second: WOOD_Coin_126
+  - first:
+      213: 1143743200947356538
+    second: WOOD_Coin_127
+  - first:
+      213: 8359173355826329523
+    second: WOOD_Coin_128
+  - first:
+      213: 3010074577292513950
+    second: WOOD_Coin_129
+  - first:
+      213: -9013969324004854968
+    second: WOOD_Coin_130
+  - first:
+      213: -1861419213453944708
+    second: WOOD_Coin_131
+  - first:
+      213: 1145655590099884159
+    second: WOOD_Coin_132
+  - first:
+      213: -3396596850863136097
+    second: WOOD_Coin_133
+  - first:
+      213: -7362676144211537873
+    second: WOOD_Coin_134
+  - first:
+      213: -2388346058823152207
+    second: WOOD_Coin_135
+  - first:
+      213: 8245590218254777216
+    second: WOOD_Coin_136
+  - first:
+      213: 7966608962592767082
+    second: WOOD_Coin_137
+  - first:
+      213: 6063754523456475591
+    second: WOOD_Coin_138
+  - first:
+      213: 8357906887386748427
+    second: WOOD_Coin_139
+  - first:
+      213: -3466317269589373866
+    second: WOOD_Coin_140
+  - first:
+      213: -319566698694052100
+    second: WOOD_Coin_141
+  - first:
+      213: -7492506280508261568
+    second: WOOD_Coin_142
+  - first:
+      213: -1935472113445203173
+    second: WOOD_Coin_143
+  - first:
+      213: -2879025387983084032
+    second: WOOD_Coin_144
+  - first:
+      213: -5477285546709266433
+    second: WOOD_Coin_145
+  - first:
+      213: -7105182892567945546
+    second: WOOD_Coin_146
+  - first:
+      213: 479581828270965370
+    second: WOOD_Coin_147
+  - first:
+      213: 2967826356119080695
+    second: WOOD_Coin_148
+  - first:
+      213: 1508814981188110559
+    second: WOOD_Coin_149
+  - first:
+      213: -5837900710157974028
+    second: WOOD_Coin_150
+  - first:
+      213: 129797285094297805
+    second: WOOD_Coin_151
+  - first:
+      213: 4418192470559636471
+    second: WOOD_Coin_152
+  - first:
+      213: 2545094545291747047
+    second: WOOD_Coin_153
+  - first:
+      213: -1330517493890071598
+    second: WOOD_Coin_154
+  - first:
+      213: -703087694856371131
+    second: WOOD_Coin_155
+  - first:
+      213: -7981767297243204261
+    second: WOOD_Coin_156
+  - first:
+      213: -8290976529229973007
+    second: WOOD_Coin_157
+  - first:
+      213: -2700196439853146897
+    second: WOOD_Coin_158
+  - first:
+      213: -3465608806102969796
+    second: WOOD_Coin_159
+  - first:
+      213: -593421825789645973
+    second: WOOD_Coin_160
+  - first:
+      213: -6746433380345389129
+    second: WOOD_Coin_161
+  - first:
+      213: 2155382924560747176
+    second: WOOD_Coin_162
+  - first:
+      213: 1691520201744190511
+    second: WOOD_Coin_163
+  - first:
+      213: -6244367208720217430
+    second: WOOD_Coin_164
+  - first:
+      213: 3081419145210234642
+    second: WOOD_Coin_165
+  - first:
+      213: 6423609536039301074
+    second: WOOD_Coin_166
+  - first:
+      213: -8027883904298961170
+    second: WOOD_Coin_167
+  - first:
+      213: 3175495446897501310
+    second: WOOD_Coin_168
+  - first:
+      213: 2207795956087068035
+    second: WOOD_Coin_169
+  - first:
+      213: -5734779177095399925
+    second: WOOD_Coin_170
+  - first:
+      213: 4171828853289212338
+    second: WOOD_Coin_171
+  - first:
+      213: -6091122672929380057
+    second: WOOD_Coin_172
+  - first:
+      213: 1421223719932609296
+    second: WOOD_Coin_173
+  - first:
+      213: 4660989060942597600
+    second: WOOD_Coin_174
+  - first:
+      213: -9069692596984724305
+    second: WOOD_Coin_175
+  - first:
+      213: 6590245552768386829
+    second: WOOD_Coin_176
+  - first:
+      213: -499762177231080752
+    second: WOOD_Coin_177
+  - first:
+      213: 7624231775936293160
+    second: WOOD_Coin_178
+  - first:
+      213: 4180354372500195847
+    second: WOOD_Coin_179
+  - first:
+      213: -1434839277963274108
+    second: WOOD_Coin_180
+  - first:
+      213: -4205017028616115876
+    second: WOOD_Coin_181
+  - first:
+      213: 1675461942340452837
+    second: WOOD_Coin_182
+  - first:
+      213: -5980540066645457010
+    second: WOOD_Coin_183
+  - first:
+      213: 4075520818066929694
+    second: WOOD_Coin_184
+  - first:
+      213: 5580906729595653388
+    second: WOOD_Coin_185
+  - first:
+      213: -4026380488783692636
+    second: WOOD_Coin_186
+  - first:
+      213: 8248830433422635132
+    second: WOOD_Coin_187
+  - first:
+      213: -4620650908078210526
+    second: WOOD_Coin_188
+  - first:
+      213: -8354592492373379083
+    second: WOOD_Coin_189
+  - first:
+      213: 6389080410638627821
+    second: WOOD_Coin_190
+  - first:
+      213: -8117072864061916173
+    second: WOOD_Coin_191
+  - first:
+      213: -1547952563890205227
+    second: WOOD_Coin_192
+  - first:
+      213: 7000714358314041837
+    second: WOOD_Coin_193
+  - first:
+      213: 7261009634210340627
+    second: WOOD_Coin_194
+  - first:
+      213: -2347768358998056271
+    second: WOOD_Coin_195
+  - first:
+      213: 4423027596526974943
+    second: WOOD_Coin_196
+  - first:
+      213: 8299208071421886385
+    second: WOOD_Coin_197
+  - first:
+      213: -6512388770382920407
+    second: WOOD_Coin_198
+  - first:
+      213: 6319932040285386205
+    second: WOOD_Coin_199
+  - first:
+      213: -539063401081463209
+    second: WOOD_Coin_200
+  - first:
+      213: -1441803470716264860
+    second: WOOD_Coin_201
+  - first:
+      213: -3901697858723877386
+    second: WOOD_Coin_202
+  - first:
+      213: 4719338442894900012
+    second: WOOD_Coin_203
+  - first:
+      213: -4072813858721115857
+    second: WOOD_Coin_204
+  - first:
+      213: 3997266027027878588
+    second: WOOD_Coin_205
+  - first:
+      213: -4542336723665059951
+    second: WOOD_Coin_206
+  - first:
+      213: -1583729544365499550
+    second: WOOD_Coin_207
+  - first:
+      213: 8203771846620880723
+    second: WOOD_Coin_208
+  - first:
+      213: -2068451795531859044
+    second: WOOD_Coin_209
+  - first:
+      213: -439621802055272559
+    second: WOOD_Coin_210
+  - first:
+      213: 7530920165107746038
+    second: WOOD_Coin_211
+  - first:
+      213: -233287123070787251
+    second: WOOD_Coin_212
+  - first:
+      213: 734044207534905379
+    second: WOOD_Coin_213
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WOOD_Coin_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1652
+        width: 195
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72305a2f8d5514740800000000000000
+      internalID: 5134479440451273511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_1
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 1847
+        width: 106
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1822cc5667dd14c70800000000000000
+      internalID: 8953681034773013121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_2
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1827
+        width: 85
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d89006c0fc40054c0800000000000000
+      internalID: -4300932356826461811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_3
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 1906
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1ed8ffda6709bf80800000000000000
+      internalID: -8090427099988828641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_4
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 1903
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a190d6868bb8bd510800000000000000
+      internalID: 1575006118838339866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_5
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 1908
+        width: 29
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e11aa79f8f137f8b0800000000000000
+      internalID: -5118567506076065506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_6
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 1827
+        width: 83
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bd8eee981945b120800000000000000
+      internalID: 2428927944130727346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_7
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 1911
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f428fc0d09f77c3b0800000000000000
+      internalID: -5492280960599752113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_8
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 1857
+        width: 107
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f52523da048a2870800000000000000
+      internalID: 8658878415600166384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_9
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 1911
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48f8527320bf2bdd0800000000000000
+      internalID: -2471637258539266172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_10
+      rect:
+        serializedVersion: 2
+        x: 1742
+        y: 1862
+        width: 125
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a422b74af76f7bb0800000000000000
+      internalID: -4936112341932432216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_11
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 1893
+        width: 29
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d60c24bddc646520800000000000000
+      internalID: 2694398176540755670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_12
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 1837
+        width: 83
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b23829e209a51f240800000000000000
+      internalID: 4823736251193656107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_13
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 1891
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abf84ddae47ae6390800000000000000
+      internalID: -7823131546330296390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_14
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1861
+        width: 63
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f11b8605bf27f6f0800000000000000
+      internalID: -650999166586383881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_15
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 1827
+        width: 95
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64f82f2aac56b6a30800000000000000
+      internalID: 4209570197699465030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_16
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 1892
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea8e568d80d2dc8a0800000000000000
+      internalID: -6283316389098428242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_17
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 1823
+        width: 183
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6f2d4a5fcc2c26c0800000000000000
+      internalID: -4166906286139691154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_18
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1827
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fd3f4fec3050aa90800000000000000
+      internalID: -7304750372951736848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_19
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1817
+        width: 57
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87a9aecd1b28d0f40800000000000000
+      internalID: 5696352804120730232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_20
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 1855
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7739e5fb52299f440800000000000000
+      internalID: 4970164354602144631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_21
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1856
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df9138f20ae630bb0800000000000000
+      internalID: -4971007929415951875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_22
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 1809
+        width: 65
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67e335020c2bb60b0800000000000000
+      internalID: -5734293162280403338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_23
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 1869
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54ed365c7a146faf0800000000000000
+      internalID: -363030531129745851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_24
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1839
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51b0b19b3c4a64e40800000000000000
+      internalID: 5640376743859260181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_25
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 1879
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4da0b2fbe7cceb490800000000000000
+      internalID: -7728515065775977772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_26
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 1845
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0e69a294d7dfbd70800000000000000
+      internalID: 9061198283286343180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_27
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 1829
+        width: 96
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 515d01bc0254c0dc0800000000000000
+      internalID: -3671483589065648875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_28
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 1855
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 207a069667210cd40800000000000000
+      internalID: 5602498236232279810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_29
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 1854
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afaaa4ca3127f4410800000000000000
+      internalID: 1463513832739220218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_30
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 1855
+        width: 11
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 972d42d8a43ab0060800000000000000
+      internalID: 6920804792975807097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_31
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 1878
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 405350554275d4710800000000000000
+      internalID: 1679094049635906820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_32
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 1834
+        width: 41
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adeac61ea7a5d43d0800000000000000
+      internalID: -3220818674685530406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_33
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 1839
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c63110503af72da10800000000000000
+      internalID: 1932747528235717484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_34
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 1845
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6f52dd866c6430c0800000000000000
+      internalID: -4596930131916595345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_35
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 1849
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eb3e4a8589f44be0800000000000000
+      internalID: -1493794824433812509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_36
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 1829
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2abe5b34e7ff8cb0800000000000000
+      internalID: -4859392913288807889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_37
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 1825
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 198dc951101914100800000000000000
+      internalID: 90512901367715985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_38
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 1825
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22f197f492e960e60800000000000000
+      internalID: 7928198094296522530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_39
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 1825
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c66c353b2576ad730800000000000000
+      internalID: 4024642821902550636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_40
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 1823
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 727c272bc78216a00800000000000000
+      internalID: 747923529155135271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_41
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 1833
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73758cb72901f4b90800000000000000
+      internalID: -7255562253342582985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_42
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 1823
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ce0672d089595010800000000000000
+      internalID: 1178071187355733698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_43
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 1823
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c0821dcc6fc73cb0800000000000000
+      internalID: -4884207204656054076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_44
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 1826
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5ab6e396c7457580800000000000000
+      internalID: -8830072576179520932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_45
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 1825
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deb9bf92c849ee7b0800000000000000
+      internalID: -5193049990590915603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_46
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 1827
+        width: 35
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cf10027180a55e80800000000000000
+      internalID: -8190463869479542845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_47
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 1791
+        width: 57
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d62102bc49bcd120800000000000000
+      internalID: 2440028837183039189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_48
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 1781
+        width: 45
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c93f8c7123b506f0800000000000000
+      internalID: -718971609090672190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_49
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 1820
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 474a657e026438b20800000000000000
+      internalID: 3135426872714110068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1920
+        height: 1832
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73a63996ef2ab1fa0800000000000000
+      internalID: -5828886079124313545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_51
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1815
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2f1d03099febbd90800000000000000
+      internalID: -7080802548649746643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_52
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 1813
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c67309793d74df1f0800000000000000
+      internalID: -1009571767354640532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_53
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1823
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5702a97dadc97a380800000000000000
+      internalID: -8960020469896306571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_54
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 1817
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6e99a487a066e360800000000000000
+      internalID: 7198547326999830124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_55
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1807
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2651cfefa15d3c30800000000000000
+      internalID: 4340715431938577966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_56
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 1813
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 888be548144c96c30800000000000000
+      internalID: 4353226300503013512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_57
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 1727
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 535c94b97313f1170800000000000000
+      internalID: 8151287965462152501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_58
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 1639
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 123ed2ff9ffc434c0800000000000000
+      internalID: -4308590270851718367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_59
+      rect:
+        serializedVersion: 2
+        x: 1838
+        y: 1597
+        width: 45
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eb6f105b4aeb3790800000000000000
+      internalID: -7549182741168821277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1391
+        width: 143
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 910c8c17044afd5e0800000000000000
+      internalID: -1882605522523733991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_61
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1377
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f235ac9186d60fae0800000000000000
+      internalID: -1517592780547140817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_62
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1437
+        width: 55
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c1fe244185f7db80800000000000000
+      internalID: -8369951446901263933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_63
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1399
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3006a5fd1d0266690800000000000000
+      internalID: -7609358434628378621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_64
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1387
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8591e11a9cb65e1d0800000000000000
+      internalID: -3322130636380169896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_65
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 1477
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b63362fd0f21617d0800000000000000
+      internalID: -2948148080322137237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_66
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 1351
+        width: 99
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c8038c378ff0d170800000000000000
+      internalID: 8201335877742561476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_67
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 1461
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50047b86f73a57ca0800000000000000
+      internalID: -6019725559297785851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_68
+      rect:
+        serializedVersion: 2
+        x: 1798
+        y: 1593
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02cac60b16d3c6830800000000000000
+      internalID: 4065692053389749280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_69
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 1451
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f43163d9f50ea9840800000000000000
+      internalID: 5231740618408334159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_70
+      rect:
+        serializedVersion: 2
+        x: 1822
+        y: 1443
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d31483e9f3c85bc0800000000000000
+      internalID: -3794067208028285991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_71
+      rect:
+        serializedVersion: 2
+        x: 1822
+        y: 1413
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3d7379450db34e00800000000000000
+      internalID: 1027872970375396668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_72
+      rect:
+        serializedVersion: 2
+        x: 1833
+        y: 1515
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4f1e12d2dfbf0a00800000000000000
+      internalID: 725008977219166028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_73
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1335
+        width: 47
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65db442fea004e4e0800000000000000
+      internalID: -1953435586983051946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_74
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1377
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a593a719fcf392b40800000000000000
+      internalID: 5415930187621218650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_75
+      rect:
+        serializedVersion: 2
+        x: 1832
+        y: 1370
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3808e2d16b29abce0800000000000000
+      internalID: -1388636224219086717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_76
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1317
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a62a47181cfb95000800000000000000
+      internalID: 25262110748746346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_77
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 1313
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a3c7f893546885d0800000000000000
+      internalID: -3060085636586814557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_78
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1286
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 720fa39f04ffdcdf0800000000000000
+      internalID: -158189757363720153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_79
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 1279
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae387497730e6ca00800000000000000
+      internalID: 776554514630542314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_80
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1251
+        width: 47
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 488d7830771cd36f0800000000000000
+      internalID: -703193249895425916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_81
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1215
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9786ce105855c41f0800000000000000
+      internalID: -1059377782587627399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_82
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1260
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4558a54aa00fe270800000000000000
+      internalID: 8281838971070731598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_83
+      rect:
+        serializedVersion: 2
+        x: 1798
+        y: 1253
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c13d6617931ae430800000000000000
+      internalID: 3812881574159790534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1184
+        width: 6
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03d0306d101ffc190800000000000000
+      internalID: -7939862627843109584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_85
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1214
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d101b967ffc74770800000000000000
+      internalID: 8595067075396960723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_86
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1219
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc10151e8c3cb8680800000000000000
+      internalID: -8751686183323369012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_87
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1189
+        width: 39
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9521e139d6161cc80800000000000000
+      internalID: -8304249114646932903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_88
+      rect:
+        serializedVersion: 2
+        x: 1814
+        y: 1163
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f90da6e15b9707d70800000000000000
+      internalID: 9038858270938943647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_89
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1110
+        width: 13
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e70389c9e770e5e70800000000000000
+      internalID: 9105723736964214910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_90
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1089
+        width: 61
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d855c715f2379cc20800000000000000
+      internalID: 3227237255055431053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_91
+      rect:
+        serializedVersion: 2
+        x: 1786
+        y: 1123
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c775da0a9bb8511f0800000000000000
+      internalID: -1074799306677069956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_92
+      rect:
+        serializedVersion: 2
+        x: 1797
+        y: 1119
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbc4b2e3bec9bfc50800000000000000
+      internalID: 6700121404818017471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_93
+      rect:
+        serializedVersion: 2
+        x: 1862
+        y: 1061
+        width: 58
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3639634b1b014d1d0800000000000000
+      internalID: -3327015869301222557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_94
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 1131
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33a5fe43b902df0e0800000000000000
+      internalID: -2234593989125776845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_95
+      rect:
+        serializedVersion: 2
+        x: 1821
+        y: 1111
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76f8c4ee66303c100800000000000000
+      internalID: 126948955116048231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 7
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96887ff60c6525660800000000000000
+      internalID: 7373050924471126121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_97
+      rect:
+        serializedVersion: 2
+        x: 1827
+        y: 1087
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dfb0ee3882ea30e0800000000000000
+      internalID: -2289268385766129710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_98
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1035
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bf2f3737b59aa910800000000000000
+      internalID: 1849455211127451573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_99
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1027
+        width: 45
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d7c4a03376e78500800000000000000
+      internalID: 398540474457311191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_100
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1009
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d3d58d176f46ef40800000000000000
+      internalID: 5757376477935293400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_101
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1029
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3247277b74679460800000000000000
+      internalID: 7248372606718919227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_102
+      rect:
+        serializedVersion: 2
+        x: 1832
+        y: 1006
+        width: 51
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec48fe5363bf35940800000000000000
+      internalID: 5283842998087419086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_103
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 877
+        width: 15
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 822d90ff89964eba0800000000000000
+      internalID: -6060603092699065816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_104
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 946
+        width: 38
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee6f6694863358810800000000000000
+      internalID: 1766874951813887726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_105
+      rect:
+        serializedVersion: 2
+        x: 1852
+        y: 945
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0a0b55c23bf85870800000000000000
+      internalID: 8671957277979904522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_106
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 993
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39a3782c60a3f9000800000000000000
+      internalID: 44818322004851347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_107
+      rect:
+        serializedVersion: 2
+        x: 1902
+        y: 928
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8710425a633e97900800000000000000
+      internalID: 682826642361680248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 853
+        width: 46
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5334b82b435046220800000000000000
+      internalID: 2478111418852524853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_109
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 917
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edc768b3715919d10800000000000000
+      internalID: 2130648025738411230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_110
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 927
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 337b372c55ae42470800000000000000
+      internalID: 8369071661616707379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_111
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 911
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5dcdad7e9bffb7a0800000000000000
+      internalID: -6359087490691904162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_112
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 903
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eb9e92577d77c4f0800000000000000
+      internalID: -808539656649008160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_113
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 898
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52b763227b771f8d0800000000000000
+      internalID: -2814336663693133019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_114
+      rect:
+        serializedVersion: 2
+        x: 1822
+        y: 897
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b2585fb3fa0c7820800000000000000
+      internalID: 2917218700632806068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_115
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 885
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f367414e22b661b0800000000000000
+      internalID: -5663643569638382599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_116
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 865
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3527e1b003e7bb9b0800000000000000
+      internalID: -5063314611237916077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_117
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 879
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eb1b4f4e1dc4f670800000000000000
+      internalID: 8571701520855931877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_118
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 858
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 587ba236cf1c62fc0800000000000000
+      internalID: -3519912769003800699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_119
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 825
+        width: 31
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b14d6861800d90fb0800000000000000
+      internalID: -4680981604518669285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_120
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 855
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14d9ddff34b56de30800000000000000
+      internalID: 4527906822981262657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_121
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 794
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2c31093b801d81b0800000000000000
+      internalID: -5652843767137223636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_122
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 841
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42088fd9d4c523480800000000000000
+      internalID: -8920966423434985436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_123
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 805
+        width: 9
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a23c12c49ecb1320800000000000000
+      internalID: 2529842754005775016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_124
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 822
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b49a600020e16620800000000000000
+      internalID: 2765738074232755380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_125
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 817
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d86839034d96fbbf0800000000000000
+      internalID: -306409889568946547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 769
+        width: 5
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62579fe57de081f70800000000000000
+      internalID: 9158086160432067878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_127
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 755
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a734cb6a1646fdf00800000000000000
+      internalID: 1143743200947356538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_128
+      rect:
+        serializedVersion: 2
+        x: 1822
+        y: 787
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b730f9d0efb10470800000000000000
+      internalID: 8359173355826329523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_129
+      rect:
+        serializedVersion: 2
+        x: 1868
+        y: 754
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9254f641eee5c920800000000000000
+      internalID: 3010074577292513950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_130
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 773
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8433c6a68a2f7e280800000000000000
+      internalID: -9013969324004854968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_131
+      rect:
+        serializedVersion: 2
+        x: 1807
+        y: 753
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c789dfb6619ea26e0800000000000000
+      internalID: -1861419213453944708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_132
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 739
+        width: 16
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7818d270bf26ef00800000000000000
+      internalID: 1145655590099884159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_133
+      rect:
+        serializedVersion: 2
+        x: 1912
+        y: 759
+        width: 6
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f92a71bf82ddcd0d0800000000000000
+      internalID: -3396596850863136097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_134
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 564
+        width: 11
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2057045e0582d990800000000000000
+      internalID: -7362676144211537873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_135
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 610
+        width: 87
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bd442bd9e3eaded0800000000000000
+      internalID: -2388346058823152207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_136
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 761
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08bf282dd983e6270800000000000000
+      internalID: 8245590218254777216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_137
+      rect:
+        serializedVersion: 2
+        x: 1826
+        y: 696
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6cf8cf74a41f8e60800000000000000
+      internalID: 7966608962592767082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_138
+      rect:
+        serializedVersion: 2
+        x: 1845
+        y: 695
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c19ac7ac98c62450800000000000000
+      internalID: 6063754523456475591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_139
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 657
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b065a7038004df370800000000000000
+      internalID: 8357906887386748427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_140
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 596
+        width: 63
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65cc2530fca25efc0800000000000000
+      internalID: -3466317269589373866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_141
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 567
+        width: 31
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf6fb4ad7cba09bf0800000000000000
+      internalID: -319566698694052100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_142
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 627
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04bfbe02c35450890800000000000000
+      internalID: -7492506280508261568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_143
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 594
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b139c6d0e52d325e0800000000000000
+      internalID: -1935472113445203173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_144
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 609
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 006efe1d9a5ab08d0800000000000000
+      internalID: -2879025387983084032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_145
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 607
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fff430fa0d5ccf3b0800000000000000
+      internalID: -5477285546709266433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_146
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 581
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6be1e48ddc1556d90800000000000000
+      internalID: -7105182892567945546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_147
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 581
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a72c2d2c121d7a600800000000000000
+      internalID: 479581828270965370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_148
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 557
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fe058fb856df2920800000000000000
+      internalID: 2967826356119080695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_149
+      rect:
+        serializedVersion: 2
+        x: 1791
+        y: 565
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd841893b3360f410800000000000000
+      internalID: 1508814981188110559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_150
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 495
+        width: 59
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f588011c3c9bfea0800000000000000
+      internalID: -5837900710157974028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_151
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 493
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc01bde61f12dc100800000000000000
+      internalID: 129797285094297805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_152
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 460
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fb3305b4a2905d30800000000000000
+      internalID: 4418192470559636471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_153
+      rect:
+        serializedVersion: 2
+        x: 1771
+        y: 407
+        width: 76
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ee16e3210ef15320800000000000000
+      internalID: 2545094545291747047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_154
+      rect:
+        serializedVersion: 2
+        x: 1854
+        y: 455
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d34d31836d098de0800000000000000
+      internalID: -1330517493890071598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_155
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 439
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 544432677712e36f0800000000000000
+      internalID: -703087694856371131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_156
+      rect:
+        serializedVersion: 2
+        x: 1870
+        y: 417
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b553dffaee01b3190800000000000000
+      internalID: -7981767297243204261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_157
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 399
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f9752e26c880fc80800000000000000
+      internalID: -8290976529229973007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_158
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 367
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fec57cae4a9f68ad0800000000000000
+      internalID: -2700196439853146897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_159
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 294
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3254c5072fa7efc0800000000000000
+      internalID: -3465608806102969796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_160
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 279
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6b28d75efdb3c7f0800000000000000
+      internalID: -593421825789645973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_161
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 101
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bfdcafa59adf52a0800000000000000
+      internalID: -6746433380345389129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_162
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 95
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aac265a95579ed10800000000000000
+      internalID: 2155382924560747176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_163
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 103
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2c0c5359ac797710800000000000000
+      internalID: 1691520201744190511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_164
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 94
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaa42259b1d8759a0800000000000000
+      internalID: -6244367208720217430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_165
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 94
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2170852f26663ca20800000000000000
+      internalID: 3081419145210234642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_166
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 47
+        width: 67
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2df2f6bd6de352950800000000000000
+      internalID: 6423609536039301074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_167
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 95
+        width: 49
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee63f226f1a379090800000000000000
+      internalID: -8027883904298961170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_168
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 27
+        width: 203
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e742232d840a11c20800000000000000
+      internalID: 3175495446897501310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_169
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 87
+        width: 15
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3851d1389baa3ae10800000000000000
+      internalID: 2207795956087068035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_170
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 103
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b06fbebf8b8f960b0800000000000000
+      internalID: -5734779177095399925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_171
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 99
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b957002d3055e930800000000000000
+      internalID: 4171828853289212338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_172
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 79
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72967bc733cf77ba0800000000000000
+      internalID: -6091122672929380057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_173
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 105
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01341fc717339b310800000000000000
+      internalID: 1421223719932609296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_174
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 65
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ed077f1bd82fa040800000000000000
+      internalID: 4660989060942597600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_175
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 75
+        width: 93
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa44cb6e2aaf12280800000000000000
+      internalID: -9069692596984724305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_176
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 93
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d078b53e961457b50800000000000000
+      internalID: 6590245552768386829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_177
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 67
+        width: 327
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d237f992fc7019f0800000000000000
+      internalID: -499762177231080752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_178
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 71
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 829ade1c766bec960800000000000000
+      internalID: 7624231775936293160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_179
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 89
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70a0020472a930a30800000000000000
+      internalID: 4180354372500195847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_180
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 87
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 488983f574d661ce0800000000000000
+      internalID: -1434839277963274108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_181
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 71
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c592ed6aa47c4a5c0800000000000000
+      internalID: -4205017028616115876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_182
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 55
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e183e372cf604710800000000000000
+      internalID: 1675461942340452837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_183
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 69
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e874b92ee7ad00da0800000000000000
+      internalID: -5980540066645457010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_184
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 69
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e18b69b47982f8830800000000000000
+      internalID: 4075520818066929694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_185
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 37
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0dc2260a1d537d40800000000000000
+      internalID: 5580906729595653388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_186
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 67
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4acfb73374c6f18c0800000000000000
+      internalID: -4026380488783692636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_187
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 65
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c707694339bb97270800000000000000
+      internalID: 8248830433422635132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_188
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 54
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22289e8fa7620efb0800000000000000
+      internalID: -4620650908078210526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_189
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 73
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f770f884668e0c80800000000000000
+      internalID: -8354592492373379083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_190
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 63
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de3b58d58c29aa850800000000000000
+      internalID: 6389080410638627821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_191
+      rect:
+        serializedVersion: 2
+        x: 1558
+        y: 63
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fb70a97c3d5a5f80800000000000000
+      internalID: -8117072864061916173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_192
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 55
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dd4b243851948ae0800000000000000
+      internalID: -1547952563890205227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_193
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 57
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de109451e98872160800000000000000
+      internalID: 7000714358314041837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_194
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 63
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31fdbc5bac944c460800000000000000
+      internalID: 7261009634210340627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_195
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 13
+        width: 43
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b2e403dd1d0b6fd0800000000000000
+      internalID: -2347768358998056271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_196
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 24
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd77db23a20c16d30800000000000000
+      internalID: 4423027596526974943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_197
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 29
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bff72615c5bc2370800000000000000
+      internalID: 8299208071421886385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_198
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 21
+        width: 50
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 925451edae85f95a0800000000000000
+      internalID: -6512388770382920407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_199
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 49
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd5f1d9c4b8e4b750800000000000000
+      internalID: 6319932040285386205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_200
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 31
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75e102b51bcd488f0800000000000000
+      internalID: -539063401081463209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_201
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 34
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46e1804e16fadfbe0800000000000000
+      internalID: -1441803470716264860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_202
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 31
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fd6cd538726ad9c0800000000000000
+      internalID: -3901697858723877386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_203
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 21
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2b78974f457e7140800000000000000
+      internalID: 4719338442894900012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_204
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 13
+        width: 41
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f21d3aacf557a77c0800000000000000
+      internalID: -4072813858721115857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_205
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 23
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb2dbbde544297730800000000000000
+      internalID: 3997266027027878588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_206
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 29
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19f7bbfe0d066f0c0800000000000000
+      internalID: -4542336723665059951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_207
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 31
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26b9dcfce56750ae0800000000000000
+      internalID: -1583729544365499550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_208
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 27
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35f10307707a9d170800000000000000
+      internalID: 8203771846620880723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_209
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 25
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9bfd441d026b43e0800000000000000
+      internalID: -2068451795531859044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_210
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 11
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1977afcdc4626e9f0800000000000000
+      internalID: -439621802055272559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_211
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 7
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f4c2195df3338860800000000000000
+      internalID: 7530920165107746038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_212
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 18
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4161baf89233ccf0800000000000000
+      internalID: -233287123070787251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOOD_Coin_213
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 15
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3281d8f4159df2a00800000000000000
+      internalID: 734044207534905379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      WOOD_Coin_0: 5134479440451273511
+      WOOD_Coin_1: 8953681034773013121
+      WOOD_Coin_10: -4936112341932432216
+      WOOD_Coin_100: 5757376477935293400
+      WOOD_Coin_101: 7248372606718919227
+      WOOD_Coin_102: 5283842998087419086
+      WOOD_Coin_103: -6060603092699065816
+      WOOD_Coin_104: 1766874951813887726
+      WOOD_Coin_105: 8671957277979904522
+      WOOD_Coin_106: 44818322004851347
+      WOOD_Coin_107: 682826642361680248
+      WOOD_Coin_108: 2478111418852524853
+      WOOD_Coin_109: 2130648025738411230
+      WOOD_Coin_11: 2694398176540755670
+      WOOD_Coin_110: 8369071661616707379
+      WOOD_Coin_111: -6359087490691904162
+      WOOD_Coin_112: -808539656649008160
+      WOOD_Coin_113: -2814336663693133019
+      WOOD_Coin_114: 2917218700632806068
+      WOOD_Coin_115: -5663643569638382599
+      WOOD_Coin_116: -5063314611237916077
+      WOOD_Coin_117: 8571701520855931877
+      WOOD_Coin_118: -3519912769003800699
+      WOOD_Coin_119: -4680981604518669285
+      WOOD_Coin_12: 4823736251193656107
+      WOOD_Coin_120: 4527906822981262657
+      WOOD_Coin_121: -5652843767137223636
+      WOOD_Coin_122: -8920966423434985436
+      WOOD_Coin_123: 2529842754005775016
+      WOOD_Coin_124: 2765738074232755380
+      WOOD_Coin_125: -306409889568946547
+      WOOD_Coin_126: 9158086160432067878
+      WOOD_Coin_127: 1143743200947356538
+      WOOD_Coin_128: 8359173355826329523
+      WOOD_Coin_129: 3010074577292513950
+      WOOD_Coin_13: -7823131546330296390
+      WOOD_Coin_130: -9013969324004854968
+      WOOD_Coin_131: -1861419213453944708
+      WOOD_Coin_132: 1145655590099884159
+      WOOD_Coin_133: -3396596850863136097
+      WOOD_Coin_134: -7362676144211537873
+      WOOD_Coin_135: -2388346058823152207
+      WOOD_Coin_136: 8245590218254777216
+      WOOD_Coin_137: 7966608962592767082
+      WOOD_Coin_138: 6063754523456475591
+      WOOD_Coin_139: 8357906887386748427
+      WOOD_Coin_14: -650999166586383881
+      WOOD_Coin_140: -3466317269589373866
+      WOOD_Coin_141: -319566698694052100
+      WOOD_Coin_142: -7492506280508261568
+      WOOD_Coin_143: -1935472113445203173
+      WOOD_Coin_144: -2879025387983084032
+      WOOD_Coin_145: -5477285546709266433
+      WOOD_Coin_146: -7105182892567945546
+      WOOD_Coin_147: 479581828270965370
+      WOOD_Coin_148: 2967826356119080695
+      WOOD_Coin_149: 1508814981188110559
+      WOOD_Coin_15: 4209570197699465030
+      WOOD_Coin_150: -5837900710157974028
+      WOOD_Coin_151: 129797285094297805
+      WOOD_Coin_152: 4418192470559636471
+      WOOD_Coin_153: 2545094545291747047
+      WOOD_Coin_154: -1330517493890071598
+      WOOD_Coin_155: -703087694856371131
+      WOOD_Coin_156: -7981767297243204261
+      WOOD_Coin_157: -8290976529229973007
+      WOOD_Coin_158: -2700196439853146897
+      WOOD_Coin_159: -3465608806102969796
+      WOOD_Coin_16: -6283316389098428242
+      WOOD_Coin_160: -593421825789645973
+      WOOD_Coin_161: -6746433380345389129
+      WOOD_Coin_162: 2155382924560747176
+      WOOD_Coin_163: 1691520201744190511
+      WOOD_Coin_164: -6244367208720217430
+      WOOD_Coin_165: 3081419145210234642
+      WOOD_Coin_166: 6423609536039301074
+      WOOD_Coin_167: -8027883904298961170
+      WOOD_Coin_168: 3175495446897501310
+      WOOD_Coin_169: 2207795956087068035
+      WOOD_Coin_17: -4166906286139691154
+      WOOD_Coin_170: -5734779177095399925
+      WOOD_Coin_171: 4171828853289212338
+      WOOD_Coin_172: -6091122672929380057
+      WOOD_Coin_173: 1421223719932609296
+      WOOD_Coin_174: 4660989060942597600
+      WOOD_Coin_175: -9069692596984724305
+      WOOD_Coin_176: 6590245552768386829
+      WOOD_Coin_177: -499762177231080752
+      WOOD_Coin_178: 7624231775936293160
+      WOOD_Coin_179: 4180354372500195847
+      WOOD_Coin_18: -7304750372951736848
+      WOOD_Coin_180: -1434839277963274108
+      WOOD_Coin_181: -4205017028616115876
+      WOOD_Coin_182: 1675461942340452837
+      WOOD_Coin_183: -5980540066645457010
+      WOOD_Coin_184: 4075520818066929694
+      WOOD_Coin_185: 5580906729595653388
+      WOOD_Coin_186: -4026380488783692636
+      WOOD_Coin_187: 8248830433422635132
+      WOOD_Coin_188: -4620650908078210526
+      WOOD_Coin_189: -8354592492373379083
+      WOOD_Coin_19: 5696352804120730232
+      WOOD_Coin_190: 6389080410638627821
+      WOOD_Coin_191: -8117072864061916173
+      WOOD_Coin_192: -1547952563890205227
+      WOOD_Coin_193: 7000714358314041837
+      WOOD_Coin_194: 7261009634210340627
+      WOOD_Coin_195: -2347768358998056271
+      WOOD_Coin_196: 4423027596526974943
+      WOOD_Coin_197: 8299208071421886385
+      WOOD_Coin_198: -6512388770382920407
+      WOOD_Coin_199: 6319932040285386205
+      WOOD_Coin_2: -4300932356826461811
+      WOOD_Coin_20: 4970164354602144631
+      WOOD_Coin_200: -539063401081463209
+      WOOD_Coin_201: -1441803470716264860
+      WOOD_Coin_202: -3901697858723877386
+      WOOD_Coin_203: 4719338442894900012
+      WOOD_Coin_204: -4072813858721115857
+      WOOD_Coin_205: 3997266027027878588
+      WOOD_Coin_206: -4542336723665059951
+      WOOD_Coin_207: -1583729544365499550
+      WOOD_Coin_208: 8203771846620880723
+      WOOD_Coin_209: -2068451795531859044
+      WOOD_Coin_21: -4971007929415951875
+      WOOD_Coin_210: -439621802055272559
+      WOOD_Coin_211: 7530920165107746038
+      WOOD_Coin_212: -233287123070787251
+      WOOD_Coin_213: 734044207534905379
+      WOOD_Coin_22: -5734293162280403338
+      WOOD_Coin_23: -363030531129745851
+      WOOD_Coin_24: 5640376743859260181
+      WOOD_Coin_25: -7728515065775977772
+      WOOD_Coin_26: 9061198283286343180
+      WOOD_Coin_27: -3671483589065648875
+      WOOD_Coin_28: 5602498236232279810
+      WOOD_Coin_29: 1463513832739220218
+      WOOD_Coin_3: -8090427099988828641
+      WOOD_Coin_30: 6920804792975807097
+      WOOD_Coin_31: 1679094049635906820
+      WOOD_Coin_32: -3220818674685530406
+      WOOD_Coin_33: 1932747528235717484
+      WOOD_Coin_34: -4596930131916595345
+      WOOD_Coin_35: -1493794824433812509
+      WOOD_Coin_36: -4859392913288807889
+      WOOD_Coin_37: 90512901367715985
+      WOOD_Coin_38: 7928198094296522530
+      WOOD_Coin_39: 4024642821902550636
+      WOOD_Coin_4: 1575006118838339866
+      WOOD_Coin_40: 747923529155135271
+      WOOD_Coin_41: -7255562253342582985
+      WOOD_Coin_42: 1178071187355733698
+      WOOD_Coin_43: -4884207204656054076
+      WOOD_Coin_44: -8830072576179520932
+      WOOD_Coin_45: -5193049990590915603
+      WOOD_Coin_46: -8190463869479542845
+      WOOD_Coin_47: 2440028837183039189
+      WOOD_Coin_48: -718971609090672190
+      WOOD_Coin_49: 3135426872714110068
+      WOOD_Coin_5: -5118567506076065506
+      WOOD_Coin_50: -5828886079124313545
+      WOOD_Coin_51: -7080802548649746643
+      WOOD_Coin_52: -1009571767354640532
+      WOOD_Coin_53: -8960020469896306571
+      WOOD_Coin_54: 7198547326999830124
+      WOOD_Coin_55: 4340715431938577966
+      WOOD_Coin_56: 4353226300503013512
+      WOOD_Coin_57: 8151287965462152501
+      WOOD_Coin_58: -4308590270851718367
+      WOOD_Coin_59: -7549182741168821277
+      WOOD_Coin_6: 2428927944130727346
+      WOOD_Coin_60: -1882605522523733991
+      WOOD_Coin_61: -1517592780547140817
+      WOOD_Coin_62: -8369951446901263933
+      WOOD_Coin_63: -7609358434628378621
+      WOOD_Coin_64: -3322130636380169896
+      WOOD_Coin_65: -2948148080322137237
+      WOOD_Coin_66: 8201335877742561476
+      WOOD_Coin_67: -6019725559297785851
+      WOOD_Coin_68: 4065692053389749280
+      WOOD_Coin_69: 5231740618408334159
+      WOOD_Coin_7: -5492280960599752113
+      WOOD_Coin_70: -3794067208028285991
+      WOOD_Coin_71: 1027872970375396668
+      WOOD_Coin_72: 725008977219166028
+      WOOD_Coin_73: -1953435586983051946
+      WOOD_Coin_74: 5415930187621218650
+      WOOD_Coin_75: -1388636224219086717
+      WOOD_Coin_76: 25262110748746346
+      WOOD_Coin_77: -3060085636586814557
+      WOOD_Coin_78: -158189757363720153
+      WOOD_Coin_79: 776554514630542314
+      WOOD_Coin_8: 8658878415600166384
+      WOOD_Coin_80: -703193249895425916
+      WOOD_Coin_81: -1059377782587627399
+      WOOD_Coin_82: 8281838971070731598
+      WOOD_Coin_83: 3812881574159790534
+      WOOD_Coin_84: -7939862627843109584
+      WOOD_Coin_85: 8595067075396960723
+      WOOD_Coin_86: -8751686183323369012
+      WOOD_Coin_87: -8304249114646932903
+      WOOD_Coin_88: 9038858270938943647
+      WOOD_Coin_89: 9105723736964214910
+      WOOD_Coin_9: -2471637258539266172
+      WOOD_Coin_90: 3227237255055431053
+      WOOD_Coin_91: -1074799306677069956
+      WOOD_Coin_92: 6700121404818017471
+      WOOD_Coin_93: -3327015869301222557
+      WOOD_Coin_94: -2234593989125776845
+      WOOD_Coin_95: 126948955116048231
+      WOOD_Coin_96: 7373050924471126121
+      WOOD_Coin_97: -2289268385766129710
+      WOOD_Coin_98: 1849455211127451573
+      WOOD_Coin_99: 398540474457311191
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
