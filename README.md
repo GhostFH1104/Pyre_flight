@@ -8,6 +8,12 @@ A Flappy Bird-inspired 2D game built with **Unity and C#**. A beginner-friendly 
 |:---:|:---:|:---:|
 | ![Level 1](screenshots/level1_volcanic.png) | ![Level 2](screenshots/level2_frozen.png) | ![Level 3](screenshots/level3_forest.png) |
 
+To play on the web without downloading from the releases section -
+
+-Windows-browser - https://play.unity.com/api/v1/games/game/58774fa7-83f8-4b0d-894d-9f5bd691b31e/build/latest/frame
+
+-Mobile-browser - https://play.unity.com/api/v1/games/game/58774fa7-83f8-4b0d-894d-9f5bd691b31e/build/latest/frame
+
 ## 🛠️ Requirements
 
 - [Unity Hub & Unity Editor](https://unity.com/download)
